@@ -1,0 +1,273 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+格闘
+> CONTEXT: System/elements/1/
+Grapple
+> END STRING
+
+> BEGIN STRING
+斬撃
+> CONTEXT: System/elements/2/
+Slashing
+> END STRING
+
+> BEGIN STRING
+刺突
+> CONTEXT: System/elements/3/
+Piercing
+> END STRING
+
+> BEGIN STRING
+打撃
+> CONTEXT: System/elements/4/
+Blow
+> END STRING
+
+> BEGIN STRING
+弓
+> CONTEXT: System/elements/5/
+Bow
+> END STRING
+
+> BEGIN STRING
+鞭
+> CONTEXT: System/elements/6/
+Whip
+> END STRING
+
+> BEGIN STRING
+精神
+> CONTEXT: System/elements/7/
+Spirit
+> END STRING
+
+> BEGIN STRING
+吸収
+> CONTEXT: System/elements/8/
+Absorption
+> END STRING
+
+> BEGIN STRING
+炎
+> CONTEXT: System/elements/9/
+Flame
+> END STRING
+
+> BEGIN STRING
+冷気
+> CONTEXT: System/elements/10/
+Cold
+> END STRING
+
+> BEGIN STRING
+雷
+> CONTEXT: System/elements/11/
+Thunder
+> END STRING
+
+> BEGIN STRING
+水
+> CONTEXT: System/elements/12/
+Water
+> END STRING
+
+> BEGIN STRING
+大地
+> CONTEXT: System/elements/13/
+Earth
+> END STRING
+
+> BEGIN STRING
+風
+> CONTEXT: System/elements/14/
+Wind
+> END STRING
+
+> BEGIN STRING
+魔力
+> CONTEXT: System/elements/15/
+> CONTEXT: System/terms/spi/
+Magic
+> END STRING
+
+> BEGIN STRING
+暗黒
+> CONTEXT: System/elements/16/
+Darkness
+> END STRING
+
+> BEGIN STRING
+SL
+> CONTEXT: System/terms/level_a/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俊敏
+> CONTEXT: System/terms/agi/
+Brilliant
+> END STRING
+
+> BEGIN STRING
+武器２
+> CONTEXT: System/terms/weapon2/
+Weapon 2
+> END STRING
+
+> BEGIN STRING
+NEW GAME
+> CONTEXT: System/terms/new_game/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頭
+> CONTEXT: System/terms/armor2/
+Head
+> END STRING
+
+> BEGIN STRING
+MP
+> CONTEXT: System/terms/mp/ < UNTRANSLATED
+> CONTEXT: System/terms/mp_a/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: System/terms/guard/
+Defense
+> END STRING
+
+> BEGIN STRING
+TITLE
+> CONTEXT: System/terms/to_title/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+武器１
+> CONTEXT: System/terms/weapon1/
+Weapon 1
+> END STRING
+
+> BEGIN STRING
+逃走
+> CONTEXT: System/terms/escape/
+Escape
+> END STRING
+
+> BEGIN STRING
+ソウル
+> CONTEXT: System/terms/gold/
+Soul
+> END STRING
+
+> BEGIN STRING
+盾
+> CONTEXT: System/terms/armor1/
+Shield
+> END STRING
+
+> BEGIN STRING
+能力値
+> CONTEXT: System/terms/status/
+Ability value
+> END STRING
+
+> BEGIN STRING
+ソウルレベル
+> CONTEXT: System/terms/level/
+Soul Level
+> END STRING
+
+> BEGIN STRING
+HP
+> CONTEXT: System/terms/hp_a/ < UNTRANSLATED
+> CONTEXT: System/terms/hp/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術
+> CONTEXT: System/terms/skill/
+Sorcery
+> END STRING
+
+> BEGIN STRING
+END
+> CONTEXT: System/terms/shutdown/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頑強
+> CONTEXT: System/terms/def/
+Stubbornness
+> END STRING
+
+> BEGIN STRING
+指輪
+> CONTEXT: System/terms/armor4/
+Ring
+> END STRING
+
+> BEGIN STRING
+戦闘
+> CONTEXT: System/terms/fight/
+Combat
+> END STRING
+
+> BEGIN STRING
+武器
+> CONTEXT: System/terms/weapon/
+Weapon
+> END STRING
+
+> BEGIN STRING
+装備
+> CONTEXT: System/terms/equip/
+Equipment
+> END STRING
+
+> BEGIN STRING
+攻撃
+> CONTEXT: System/terms/attack/
+Attack
+> END STRING
+
+> BEGIN STRING
+CONTINUE
+> CONTEXT: System/terms/continue/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+筋力
+> CONTEXT: System/terms/atk/
+Physical Strength
+> END STRING
+
+> BEGIN STRING
+身体
+> CONTEXT: System/terms/armor3/
+Body
+> END STRING
+
+> BEGIN STRING
+ゲーム終了
+> CONTEXT: System/terms/game_end/
+Game Over
+> END STRING
+
+> BEGIN STRING
+道具
+> CONTEXT: System/terms/item/
+Tool
+> END STRING
+
+> BEGIN STRING
+CANSEL
+> CONTEXT: System/terms/cancel/ < UNTRANSLATED
+
+> END STRING

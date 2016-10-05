@@ -1,0 +1,4365 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"Graphics/Animations/"
+> CONTEXT: Scripts/Cache/17:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlers/"
+> CONTEXT: Scripts/Cache/25:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Characters/"
+> CONTEXT: Scripts/Cache/32:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Faces/"
+> CONTEXT: Scripts/Cache/39:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Parallaxes/"
+> CONTEXT: Scripts/Cache/46:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Pictures/"
+> CONTEXT: Scripts/Cache/53:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/System/"
+> CONTEXT: Scripts/Cache/60:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"map"
+> CONTEXT: Scripts/Game_System/76:33 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1637:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/656:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"BattleBack"
+> CONTEXT: Scripts/Game_System/94:15 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Battle/41:39 < UNTRANSLATED
+> CONTEXT: Map018/events/22/pages/0/2/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Map016/events/78/pages/0/1/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Map004/events/1/pages/0/1/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/1/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/1/0/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Map005/events/34/pages/0/0/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/1/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/5/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/9/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/13/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/17/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/21/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/25/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/29/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/33/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/37/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/41/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/45/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/49/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/53/InlineScript/1:22 < UNTRANSLATED
+> CONTEXT: Commonevents/71/57/InlineScript/1:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+""
+> CONTEXT: Scripts/Game_Message/41:18 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Message/64:19 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Picture/29:13 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Picture/125:13 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Event/90:25 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler/35:21 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler/533:12 < UNTRANSLATED
+> CONTEXT: Scripts/Sprite_Picture/35:27 < UNTRANSLATED
+> CONTEXT: Scripts/Sprite_Picture/39:25 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Player/233:25 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Character/41:23 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Battle/42:41 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Map/213:28 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Item/84:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Skill/65:42 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Equip/55:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_ShopBuy/67:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/25:13 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/49:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/62:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/48:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_DebugRight/52:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/181:13 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/304:36 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Name/48:33 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Name/50:35 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Name/60:40 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Shop/137:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Shop/168:29 < UNTRANSLATED
+> CONTEXT: Scripts/STR20_入手インフォメーション v1.2/68:35 < UNTRANSLATED
+> CONTEXT: Scripts/STR20_入手インフォメーション v1.2/114:32 < UNTRANSLATED
+> CONTEXT: Scripts/STR20_入手インフォメーション v1.2/142:35 < UNTRANSLATED
+> CONTEXT: Scripts/マップネーム表示/32:16 < UNTRANSLATED
+> CONTEXT: Scripts/マップネーム表示/32:20 < UNTRANSLATED
+> CONTEXT: Scripts/マップネーム表示/60:53 < UNTRANSLATED
+> CONTEXT: Scripts/マップネーム表示/168:9 < UNTRANSLATED
+> CONTEXT: Scripts/限界突破/590:29 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11a_XP風バトル\#バトラー/98:21 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11a_XP風バトル\#バトラー/107:21 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/1126:40 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11h_XPリザルトウィンドウ/21:18 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/64:14 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/122:31 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/214:20 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/459:12 < UNTRANSLATED
+> CONTEXT: Scripts/*STR33a_アクティブタイムバトル/1107:12 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11c_XP風バトル\#メインV2/144:37 < UNTRANSLATED
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/33:12 < UNTRANSLATED
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/738:12 < UNTRANSLATED
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/743:11 < UNTRANSLATED
+> CONTEXT: Scripts/スキル用ショップ/163:29 < UNTRANSLATED
+> CONTEXT: Scripts/スキル用ショップ/355:41 < UNTRANSLATED
+> CONTEXT: Scripts/RGSS2_メダル/208:41 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/40:16 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/64:18 < UNTRANSLATED
+> CONTEXT: Scripts/売却不可アイテム/75:29 < UNTRANSLATED
+> CONTEXT: Scripts/Main/28:61 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ソウルと交換する"
+> CONTEXT: Scripts/Vocab/11:21
+"Exchange Souls"
+> END STRING
+
+> BEGIN STRING
+"ソウルに換えてもらう"
+> CONTEXT: Scripts/Vocab/12:21
+"Change Souls"
+> END STRING
+
+> BEGIN STRING
+"やめる"
+> CONTEXT: Scripts/Vocab/13:21
+> CONTEXT: Scripts/スキル用ショップ/25:21
+"Stop"
+> END STRING
+
+> BEGIN STRING
+"持っている数"
+> CONTEXT: Scripts/Vocab/14:21
+"Inventory"
+> END STRING
+
+> BEGIN STRING
+"取り込んだソウル"
+> CONTEXT: Scripts/Vocab/17:21
+"Captured Soul"
+> END STRING
+
+> BEGIN STRING
+"次の%sまで"
+> CONTEXT: Scripts/Vocab/18:21
+"Until the next %s"
+> END STRING
+
+> BEGIN STRING
+"どのファイルにセーブしますか？"
+> CONTEXT: Scripts/Vocab/21:21
+"Save to which file？"
+> END STRING
+
+> BEGIN STRING
+"どのファイルをロードしますか？"
+> CONTEXT: Scripts/Vocab/22:21
+"Load which file?"
+> END STRING
+
+> BEGIN STRING
+"ファイル"
+> CONTEXT: Scripts/Vocab/23:21
+"File"
+> END STRING
+
+> BEGIN STRING
+"%sたち"
+> CONTEXT: Scripts/Vocab/26:21
+"%s us"
+> END STRING
+
+> BEGIN STRING
+"%sが出現！"
+> CONTEXT: Scripts/Vocab/29:21
+"%s appears！"
+> END STRING
+
+> BEGIN STRING
+"%sは先手を取った！"
+> CONTEXT: Scripts/Vocab/30:21
+"%s attacked first！"
+> END STRING
+
+> BEGIN STRING
+"%sは不意をつかれた！"
+> CONTEXT: Scripts/Vocab/31:21
+"%s was caught off guard!"
+> END STRING
+
+> BEGIN STRING
+"%sは逃げ出した！"
+> CONTEXT: Scripts/Vocab/32:21
+"%s ran away!"
+> END STRING
+
+> BEGIN STRING
+"しかし逃げることはできなかった！"
+> CONTEXT: Scripts/Vocab/33:21
+"However you were not able to runaway!"
+> END STRING
+
+> BEGIN STRING
+"%sの勝利！"
+> CONTEXT: Scripts/Vocab/36:21
+"Victory of %s!"
+> END STRING
+
+> BEGIN STRING
+"%sは戦いに敗れた。"
+> CONTEXT: Scripts/Vocab/37:21
+"%s has lost the battle."
+> END STRING
+
+> BEGIN STRING
+"%s の経験値を獲得！"
+> CONTEXT: Scripts/Vocab/38:21
+"%s experience gained!"
+> END STRING
+
+> BEGIN STRING
+"お金を %s%s 手に入れた！"
+> CONTEXT: Scripts/Vocab/39:21
+"Obtained %s%s Gold！"
+> END STRING
+
+> BEGIN STRING
+"%sを手に入れた！"
+> CONTEXT: Scripts/Vocab/40:21
+"Obtained %s！"
+> END STRING
+
+> BEGIN STRING
+"%sは%s %s に上がった！"
+> CONTEXT: Scripts/Vocab/41:21
+"%sは%s %s に上がった！"
+> END STRING
+
+> BEGIN STRING
+"%sを覚えた！"
+> CONTEXT: Scripts/Vocab/42:21
+"%s was learned!"
+> END STRING
+
+> BEGIN STRING
+"%sの攻撃！"
+> CONTEXT: Scripts/Vocab/45:21
+"%sの攻撃！"
+> END STRING
+
+> BEGIN STRING
+"%sは身を守っている。"
+> CONTEXT: Scripts/Vocab/46:21
+"%s protects the body. "
+> END STRING
+
+> BEGIN STRING
+"%sは逃げてしまった。"
+> CONTEXT: Scripts/Vocab/47:21
+"%s has run away. "
+> END STRING
+
+> BEGIN STRING
+"%sは様子を見ている。"
+> CONTEXT: Scripts/Vocab/48:21
+"%s sees the appearance. "
+> END STRING
+
+> BEGIN STRING
+"%sは%sを使った！"
+> CONTEXT: Scripts/Vocab/49:21
+"%s doing %s was used. "
+> END STRING
+
+> BEGIN STRING
+"会心の一撃！！"
+> CONTEXT: Scripts/Vocab/52:21
+"Critical Hit!!"
+> END STRING
+
+> BEGIN STRING
+"痛恨の一撃！！"
+> CONTEXT: Scripts/Vocab/53:21
+"A blow of deep regret.!"
+> END STRING
+
+> BEGIN STRING
+"%sは %s のダメージを受けた！"
+> CONTEXT: Scripts/Vocab/56:21
+"The damage of %s doing %s was accepted. "
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 減った！"
+> CONTEXT: Scripts/Vocab/57:21
+> CONTEXT: Scripts/Vocab/66:21
+"%s getting on %s decreases and %s has decreased. "
+> END STRING
+
+> BEGIN STRING
+"%sは%sを %s 奪われた！"
+> CONTEXT: Scripts/Vocab/58:21
+"It deprived of %s doing %s and %s was deprived. "
+> END STRING
+
+> BEGIN STRING
+"%sはダメージを受けていない！"
+> CONTEXT: Scripts/Vocab/59:21
+"%s doesn't suffer. "
+> END STRING
+
+> BEGIN STRING
+"ミス！　%sはダメージを受けていない！"
+> CONTEXT: Scripts/Vocab/60:21
+"Mistake. 　%s doesn't suffer. "
+> END STRING
+
+> BEGIN STRING
+"%sは攻撃をかわした！"
+> CONTEXT: Scripts/Vocab/61:21
+> CONTEXT: Scripts/Vocab/70:21
+"%s exchanged the attack. "
+> END STRING
+
+> BEGIN STRING
+"%sの%sが %s 回復した！"
+> CONTEXT: Scripts/Vocab/62:21
+> CONTEXT: Scripts/Vocab/71:21
+"%s getting on %s has recovered %s. "
+> END STRING
+
+> BEGIN STRING
+"%sに %s のダメージを与えた！"
+> CONTEXT: Scripts/Vocab/65:21
+"%s was damaged to %s. "
+> END STRING
+
+> BEGIN STRING
+"%sの%sを %s 奪った！"
+> CONTEXT: Scripts/Vocab/67:21
+"%s deprived of %s getting on %s. "
+> END STRING
+
+> BEGIN STRING
+"%sにダメージを与えられない！"
+> CONTEXT: Scripts/Vocab/68:21
+"It is not damaged by %s. "
+> END STRING
+
+> BEGIN STRING
+"ミス！　%sにダメージを与えられない！"
+> CONTEXT: Scripts/Vocab/69:21
+"Mistake. 　It is not damaged by %s. "
+> END STRING
+
+> BEGIN STRING
+"%sには効かなかった！"
+> CONTEXT: Scripts/Vocab/74:21
+"It is not effective in %s. "
+> END STRING
+
+> BEGIN STRING
+''
+> CONTEXT: Scripts/Game_Enemy/30:15 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/205:17 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Party/77:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/19:46 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:46 < UNTRANSLATED
+> CONTEXT: Scripts/マップネーム表示/167:34 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/234:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ａ'
+> CONTEXT: Scripts/Game_Troop/12:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｂ'
+> CONTEXT: Scripts/Game_Troop/12:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｃ'
+> CONTEXT: Scripts/Game_Troop/12:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｄ'
+> CONTEXT: Scripts/Game_Troop/12:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｅ'
+> CONTEXT: Scripts/Game_Troop/12:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｆ'
+> CONTEXT: Scripts/Game_Troop/12:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｇ'
+> CONTEXT: Scripts/Game_Troop/12:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｈ'
+> CONTEXT: Scripts/Game_Troop/12:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｉ'
+> CONTEXT: Scripts/Game_Troop/12:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｊ'
+> CONTEXT: Scripts/Game_Troop/12:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｋ'
+> CONTEXT: Scripts/Game_Troop/13:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｌ'
+> CONTEXT: Scripts/Game_Troop/13:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｍ'
+> CONTEXT: Scripts/Game_Troop/13:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｎ'
+> CONTEXT: Scripts/Game_Troop/13:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｏ'
+> CONTEXT: Scripts/Game_Troop/13:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｐ'
+> CONTEXT: Scripts/Game_Troop/13:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｑ'
+> CONTEXT: Scripts/Game_Troop/13:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｒ'
+> CONTEXT: Scripts/Game_Troop/13:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｓ'
+> CONTEXT: Scripts/Game_Troop/13:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｔ'
+> CONTEXT: Scripts/Game_Troop/13:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｕ'
+> CONTEXT: Scripts/Game_Troop/14:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｖ'
+> CONTEXT: Scripts/Game_Troop/14:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｗ'
+> CONTEXT: Scripts/Game_Troop/14:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｘ'
+> CONTEXT: Scripts/Game_Troop/14:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｙ'
+> CONTEXT: Scripts/Game_Troop/14:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ｚ'
+> CONTEXT: Scripts/Game_Troop/14:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"-------"
+> CONTEXT: Scripts/Game_Actor/404:45 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Actor/410:60 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Actor/417:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Map%03d.rvdata"
+> CONTEXT: Scripts/Game_Map/38:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileB"
+> CONTEXT: Scripts/Sprite_Character/69:25 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Map/50:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileC"
+> CONTEXT: Scripts/Sprite_Character/70:25 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Map/51:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileD"
+> CONTEXT: Scripts/Sprite_Character/71:25 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Map/52:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileE"
+> CONTEXT: Scripts/Sprite_Character/72:25 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Map/53:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/^[\\!\\$]./
+> CONTEXT: Scripts/Sprite_Character/94:32 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/189:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'$'
+> CONTEXT: Scripts/Sprite_Character/95:42 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/190:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Balloon"
+> CONTEXT: Scripts/Sprite_Character/126:43 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Arial"
+> CONTEXT: Scripts/Sprite_Timer/16:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%02d:%02d"
+> CONTEXT: Scripts/Sprite_Timer/41:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'!'
+> CONTEXT: Scripts/Game_Character/234:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Backgrounds/"
+> CONTEXT: Scripts/Spriteset_Battle/49:43 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"BattleFloor"
+> CONTEXT: Scripts/Spriteset_Battle/94:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileA1"
+> CONTEXT: Scripts/Spriteset_Map/45:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileA2"
+> CONTEXT: Scripts/Spriteset_Map/46:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileA3"
+> CONTEXT: Scripts/Spriteset_Map/47:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileA4"
+> CONTEXT: Scripts/Spriteset_Map/48:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileA5"
+> CONTEXT: Scripts/Spriteset_Map/49:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Shadow"
+> CONTEXT: Scripts/Spriteset_Map/84:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+":%2d"
+> CONTEXT: Scripts/Window_Item/77:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Window"
+> CONTEXT: Scripts/Window_Base/21:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Iconset"
+> CONTEXT: Scripts/Window_Base/157:27 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11e_バトルステータス++1.2/124:25 < UNTRANSLATED
+> CONTEXT: Scripts/RGSS2_メダル/150:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/"
+> CONTEXT: Scripts/Window_Base/302:52 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/338:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"→"
+> CONTEXT: Scripts/Window_EquipStatus/91:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"r"
+> CONTEXT: Scripts/Window_SaveFile/36:35 < UNTRANSLATED
+> CONTEXT: Scripts/強くてニューゲーム/137:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+" \#{@file_index + 1}"
+> CONTEXT: Scripts/Window_SaveFile/61:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%02d:%02d:%02d"
+> CONTEXT: Scripts/Window_SaveFile/92:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"×"
+> CONTEXT: Scripts/Window_ShopNumber/44:46 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/722:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%+d"
+> CONTEXT: Scripts/Window_ShopStatus/65:55 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/1074:55 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+//
+> CONTEXT: Scripts/Window_NameEdit/24:30 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/40:26 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/61:32 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/89:30 < UNTRANSLATED
+> CONTEXT: Scripts/売却不可アイテム/6:6 < UNTRANSLATED
+> CONTEXT: Scripts/売却不可アイテム/8:6 < UNTRANSLATED
+> CONTEXT: Scripts/HN_Light(プロトタイプ)/5:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'_'
+> CONTEXT: Scripts/Window_NameEdit/92:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%0*d"
+> CONTEXT: Scripts/Window_NumberInput/105:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'あ'
+> CONTEXT: Scripts/Window_NameInput/11:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'い'
+> CONTEXT: Scripts/Window_NameInput/11:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'う'
+> CONTEXT: Scripts/Window_NameInput/11:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'え'
+> CONTEXT: Scripts/Window_NameInput/11:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'お'
+> CONTEXT: Scripts/Window_NameInput/11:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'が'
+> CONTEXT: Scripts/Window_NameInput/11:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぎ'
+> CONTEXT: Scripts/Window_NameInput/11:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぐ'
+> CONTEXT: Scripts/Window_NameInput/11:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'げ'
+> CONTEXT: Scripts/Window_NameInput/11:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ご'
+> CONTEXT: Scripts/Window_NameInput/11:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'か'
+> CONTEXT: Scripts/Window_NameInput/12:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'き'
+> CONTEXT: Scripts/Window_NameInput/12:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'く'
+> CONTEXT: Scripts/Window_NameInput/12:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'け'
+> CONTEXT: Scripts/Window_NameInput/12:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'こ'
+> CONTEXT: Scripts/Window_NameInput/12:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ざ'
+> CONTEXT: Scripts/Window_NameInput/12:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'じ'
+> CONTEXT: Scripts/Window_NameInput/12:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ず'
+> CONTEXT: Scripts/Window_NameInput/12:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぜ'
+> CONTEXT: Scripts/Window_NameInput/12:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぞ'
+> CONTEXT: Scripts/Window_NameInput/12:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'さ'
+> CONTEXT: Scripts/Window_NameInput/13:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'し'
+> CONTEXT: Scripts/Window_NameInput/13:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'す'
+> CONTEXT: Scripts/Window_NameInput/13:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'せ'
+> CONTEXT: Scripts/Window_NameInput/13:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'そ'
+> CONTEXT: Scripts/Window_NameInput/13:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'だ'
+> CONTEXT: Scripts/Window_NameInput/13:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぢ'
+> CONTEXT: Scripts/Window_NameInput/13:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'づ'
+> CONTEXT: Scripts/Window_NameInput/13:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'で'
+> CONTEXT: Scripts/Window_NameInput/13:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ど'
+> CONTEXT: Scripts/Window_NameInput/13:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'た'
+> CONTEXT: Scripts/Window_NameInput/14:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ち'
+> CONTEXT: Scripts/Window_NameInput/14:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'つ'
+> CONTEXT: Scripts/Window_NameInput/14:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'て'
+> CONTEXT: Scripts/Window_NameInput/14:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'と'
+> CONTEXT: Scripts/Window_NameInput/14:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ば'
+> CONTEXT: Scripts/Window_NameInput/14:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'び'
+> CONTEXT: Scripts/Window_NameInput/14:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぶ'
+> CONTEXT: Scripts/Window_NameInput/14:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'べ'
+> CONTEXT: Scripts/Window_NameInput/14:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぼ'
+> CONTEXT: Scripts/Window_NameInput/14:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'な'
+> CONTEXT: Scripts/Window_NameInput/15:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'に'
+> CONTEXT: Scripts/Window_NameInput/15:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぬ'
+> CONTEXT: Scripts/Window_NameInput/15:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ね'
+> CONTEXT: Scripts/Window_NameInput/15:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'の'
+> CONTEXT: Scripts/Window_NameInput/15:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぱ'
+> CONTEXT: Scripts/Window_NameInput/15:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぴ'
+> CONTEXT: Scripts/Window_NameInput/15:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぷ'
+> CONTEXT: Scripts/Window_NameInput/15:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぺ'
+> CONTEXT: Scripts/Window_NameInput/15:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぽ'
+> CONTEXT: Scripts/Window_NameInput/15:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'は'
+> CONTEXT: Scripts/Window_NameInput/16:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ひ'
+> CONTEXT: Scripts/Window_NameInput/16:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ふ'
+> CONTEXT: Scripts/Window_NameInput/16:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'へ'
+> CONTEXT: Scripts/Window_NameInput/16:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ほ'
+> CONTEXT: Scripts/Window_NameInput/16:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぁ'
+> CONTEXT: Scripts/Window_NameInput/16:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぃ'
+> CONTEXT: Scripts/Window_NameInput/16:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぅ'
+> CONTEXT: Scripts/Window_NameInput/16:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぇ'
+> CONTEXT: Scripts/Window_NameInput/16:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ぉ'
+> CONTEXT: Scripts/Window_NameInput/16:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ま'
+> CONTEXT: Scripts/Window_NameInput/17:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'み'
+> CONTEXT: Scripts/Window_NameInput/17:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'む'
+> CONTEXT: Scripts/Window_NameInput/17:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'め'
+> CONTEXT: Scripts/Window_NameInput/17:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'も'
+> CONTEXT: Scripts/Window_NameInput/17:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'っ'
+> CONTEXT: Scripts/Window_NameInput/17:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゃ'
+> CONTEXT: Scripts/Window_NameInput/17:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゅ'
+> CONTEXT: Scripts/Window_NameInput/17:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ょ'
+> CONTEXT: Scripts/Window_NameInput/17:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゎ'
+> CONTEXT: Scripts/Window_NameInput/17:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'や'
+> CONTEXT: Scripts/Window_NameInput/18:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゆ'
+> CONTEXT: Scripts/Window_NameInput/18:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'よ'
+> CONTEXT: Scripts/Window_NameInput/18:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'わ'
+> CONTEXT: Scripts/Window_NameInput/18:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ん'
+> CONTEXT: Scripts/Window_NameInput/18:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ー'
+> CONTEXT: Scripts/Window_NameInput/18:38 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'～'
+> CONTEXT: Scripts/Window_NameInput/18:42 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'・'
+> CONTEXT: Scripts/Window_NameInput/18:46 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＝'
+> CONTEXT: Scripts/Window_NameInput/18:50 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'☆'
+> CONTEXT: Scripts/Window_NameInput/18:54 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ら'
+> CONTEXT: Scripts/Window_NameInput/19:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'り'
+> CONTEXT: Scripts/Window_NameInput/19:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'る'
+> CONTEXT: Scripts/Window_NameInput/19:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'れ'
+> CONTEXT: Scripts/Window_NameInput/19:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ろ'
+> CONTEXT: Scripts/Window_NameInput/19:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゔ'
+> CONTEXT: Scripts/Window_NameInput/19:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'を'
+> CONTEXT: Scripts/Window_NameInput/19:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'カナ'
+> CONTEXT: Scripts/Window_NameInput/19:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'決定'
+> CONTEXT: Scripts/Window_NameInput/19:54 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ア'
+> CONTEXT: Scripts/Window_NameInput/20:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'イ'
+> CONTEXT: Scripts/Window_NameInput/20:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ウ'
+> CONTEXT: Scripts/Window_NameInput/20:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'エ'
+> CONTEXT: Scripts/Window_NameInput/20:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'オ'
+> CONTEXT: Scripts/Window_NameInput/20:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ガ'
+> CONTEXT: Scripts/Window_NameInput/20:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ギ'
+> CONTEXT: Scripts/Window_NameInput/20:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'グ'
+> CONTEXT: Scripts/Window_NameInput/20:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゲ'
+> CONTEXT: Scripts/Window_NameInput/20:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゴ'
+> CONTEXT: Scripts/Window_NameInput/20:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'カ'
+> CONTEXT: Scripts/Window_NameInput/21:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'キ'
+> CONTEXT: Scripts/Window_NameInput/21:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ク'
+> CONTEXT: Scripts/Window_NameInput/21:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ケ'
+> CONTEXT: Scripts/Window_NameInput/21:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'コ'
+> CONTEXT: Scripts/Window_NameInput/21:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ザ'
+> CONTEXT: Scripts/Window_NameInput/21:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ジ'
+> CONTEXT: Scripts/Window_NameInput/21:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ズ'
+> CONTEXT: Scripts/Window_NameInput/21:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゼ'
+> CONTEXT: Scripts/Window_NameInput/21:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゾ'
+> CONTEXT: Scripts/Window_NameInput/21:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'サ'
+> CONTEXT: Scripts/Window_NameInput/22:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'シ'
+> CONTEXT: Scripts/Window_NameInput/22:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ス'
+> CONTEXT: Scripts/Window_NameInput/22:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'セ'
+> CONTEXT: Scripts/Window_NameInput/22:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ソ'
+> CONTEXT: Scripts/Window_NameInput/22:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ダ'
+> CONTEXT: Scripts/Window_NameInput/22:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヂ'
+> CONTEXT: Scripts/Window_NameInput/22:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヅ'
+> CONTEXT: Scripts/Window_NameInput/22:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'デ'
+> CONTEXT: Scripts/Window_NameInput/22:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ド'
+> CONTEXT: Scripts/Window_NameInput/22:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'タ'
+> CONTEXT: Scripts/Window_NameInput/23:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'チ'
+> CONTEXT: Scripts/Window_NameInput/23:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ツ'
+> CONTEXT: Scripts/Window_NameInput/23:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'テ'
+> CONTEXT: Scripts/Window_NameInput/23:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ト'
+> CONTEXT: Scripts/Window_NameInput/23:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'バ'
+> CONTEXT: Scripts/Window_NameInput/23:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ビ'
+> CONTEXT: Scripts/Window_NameInput/23:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ブ'
+> CONTEXT: Scripts/Window_NameInput/23:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ベ'
+> CONTEXT: Scripts/Window_NameInput/23:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ボ'
+> CONTEXT: Scripts/Window_NameInput/23:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ナ'
+> CONTEXT: Scripts/Window_NameInput/24:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ニ'
+> CONTEXT: Scripts/Window_NameInput/24:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヌ'
+> CONTEXT: Scripts/Window_NameInput/24:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ネ'
+> CONTEXT: Scripts/Window_NameInput/24:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ノ'
+> CONTEXT: Scripts/Window_NameInput/24:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'パ'
+> CONTEXT: Scripts/Window_NameInput/24:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ピ'
+> CONTEXT: Scripts/Window_NameInput/24:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'プ'
+> CONTEXT: Scripts/Window_NameInput/24:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ペ'
+> CONTEXT: Scripts/Window_NameInput/24:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ポ'
+> CONTEXT: Scripts/Window_NameInput/24:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ハ'
+> CONTEXT: Scripts/Window_NameInput/25:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヒ'
+> CONTEXT: Scripts/Window_NameInput/25:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'フ'
+> CONTEXT: Scripts/Window_NameInput/25:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヘ'
+> CONTEXT: Scripts/Window_NameInput/25:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ホ'
+> CONTEXT: Scripts/Window_NameInput/25:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ァ'
+> CONTEXT: Scripts/Window_NameInput/25:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ィ'
+> CONTEXT: Scripts/Window_NameInput/25:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ゥ'
+> CONTEXT: Scripts/Window_NameInput/25:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ェ'
+> CONTEXT: Scripts/Window_NameInput/25:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ォ'
+> CONTEXT: Scripts/Window_NameInput/25:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'マ'
+> CONTEXT: Scripts/Window_NameInput/26:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ミ'
+> CONTEXT: Scripts/Window_NameInput/26:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ム'
+> CONTEXT: Scripts/Window_NameInput/26:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'メ'
+> CONTEXT: Scripts/Window_NameInput/26:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'モ'
+> CONTEXT: Scripts/Window_NameInput/26:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ッ'
+> CONTEXT: Scripts/Window_NameInput/26:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ャ'
+> CONTEXT: Scripts/Window_NameInput/26:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ュ'
+> CONTEXT: Scripts/Window_NameInput/26:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ョ'
+> CONTEXT: Scripts/Window_NameInput/26:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヮ'
+> CONTEXT: Scripts/Window_NameInput/26:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヤ'
+> CONTEXT: Scripts/Window_NameInput/27:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ユ'
+> CONTEXT: Scripts/Window_NameInput/27:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヨ'
+> CONTEXT: Scripts/Window_NameInput/27:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ワ'
+> CONTEXT: Scripts/Window_NameInput/27:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ン'
+> CONTEXT: Scripts/Window_NameInput/27:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ラ'
+> CONTEXT: Scripts/Window_NameInput/28:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'リ'
+> CONTEXT: Scripts/Window_NameInput/28:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ル'
+> CONTEXT: Scripts/Window_NameInput/28:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'レ'
+> CONTEXT: Scripts/Window_NameInput/28:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ロ'
+> CONTEXT: Scripts/Window_NameInput/28:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヴ'
+> CONTEXT: Scripts/Window_NameInput/28:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ヲ'
+> CONTEXT: Scripts/Window_NameInput/28:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'かな'
+> CONTEXT: Scripts/Window_NameInput/28:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"S [%04d-%04d]"
+> CONTEXT: Scripts/Window_DebugLeft/37:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"V [%04d-%04d]"
+> CONTEXT: Scripts/Window_DebugLeft/40:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%04d:"
+> CONTEXT: Scripts/Window_DebugRight/42:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[ON]"
+> CONTEXT: Scripts/Window_DebugRight/46:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[OFF]"
+> CONTEXT: Scripts/Window_DebugRight/46:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"MessageBack"
+> CONTEXT: Scripts/Window_Message/104:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"　　"
+> CONTEXT: Scripts/Window_Message/183:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x00"
+> CONTEXT: Scripts/Window_Message/184:47 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/295:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\V\\[([0-9]+)\\]/
+> CONTEXT: Scripts/Window_Message/236:17 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/237:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\N\\[([0-9]+)\\]/
+> CONTEXT: Scripts/Window_Message/238:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\C\\[([0-9]+)\\]/
+> CONTEXT: Scripts/Window_Message/239:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x01[\#{$1}]"
+> CONTEXT: Scripts/Window_Message/239:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\G/
+> CONTEXT: Scripts/Window_Message/240:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x02"
+> CONTEXT: Scripts/Window_Message/240:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/307:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\\\./
+> CONTEXT: Scripts/Window_Message/241:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x03"
+> CONTEXT: Scripts/Window_Message/241:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/310:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\\\|/
+> CONTEXT: Scripts/Window_Message/242:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x04"
+> CONTEXT: Scripts/Window_Message/242:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/313:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\!/
+> CONTEXT: Scripts/Window_Message/243:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x05"
+> CONTEXT: Scripts/Window_Message/243:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/316:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\\>/
+> CONTEXT: Scripts/Window_Message/244:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x06"
+> CONTEXT: Scripts/Window_Message/244:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/319:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\</
+> CONTEXT: Scripts/Window_Message/245:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x07"
+> CONTEXT: Scripts/Window_Message/245:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/321:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\\\^/
+> CONTEXT: Scripts/Window_Message/246:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x08"
+> CONTEXT: Scripts/Window_Message/246:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/323:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\\\\\/
+> CONTEXT: Scripts/Window_Message/247:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\"
+> CONTEXT: Scripts/Window_Message/247:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/./
+> CONTEXT: Scripts/Window_Message/290:24 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/237:52 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/279:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x01"
+> CONTEXT: Scripts/Window_Message/303:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\[([0-9]+)\\]/
+> CONTEXT: Scripts/Window_Message/304:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Actors.rvdata"
+> CONTEXT: Scripts/Scene_Title/80:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Classes.rvdata"
+> CONTEXT: Scripts/Scene_Title/81:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Skills.rvdata"
+> CONTEXT: Scripts/Scene_Title/82:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Items.rvdata"
+> CONTEXT: Scripts/Scene_Title/83:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Weapons.rvdata"
+> CONTEXT: Scripts/Scene_Title/84:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Armors.rvdata"
+> CONTEXT: Scripts/Scene_Title/85:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Enemies.rvdata"
+> CONTEXT: Scripts/Scene_Title/86:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Troops.rvdata"
+> CONTEXT: Scripts/Scene_Title/87:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/States.rvdata"
+> CONTEXT: Scripts/Scene_Title/88:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Animations.rvdata"
+> CONTEXT: Scripts/Scene_Title/89:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/CommonEvents.rvdata"
+> CONTEXT: Scripts/Scene_Title/90:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/System.rvdata"
+> CONTEXT: Scripts/Scene_Title/91:37 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム分類/8:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Areas.rvdata"
+> CONTEXT: Scripts/Scene_Title/92:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Actors.rvdata"
+> CONTEXT: Scripts/Scene_Title/98:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Classes.rvdata"
+> CONTEXT: Scripts/Scene_Title/99:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Skills.rvdata"
+> CONTEXT: Scripts/Scene_Title/100:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Items.rvdata"
+> CONTEXT: Scripts/Scene_Title/101:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Weapons.rvdata"
+> CONTEXT: Scripts/Scene_Title/102:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Armors.rvdata"
+> CONTEXT: Scripts/Scene_Title/103:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Enemies.rvdata"
+> CONTEXT: Scripts/Scene_Title/104:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Troops.rvdata"
+> CONTEXT: Scripts/Scene_Title/105:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_States.rvdata"
+> CONTEXT: Scripts/Scene_Title/106:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Animations.rvdata"
+> CONTEXT: Scripts/Scene_Title/107:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_CommonEvents.rvdata"
+> CONTEXT: Scripts/Scene_Title/108:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_System.rvdata"
+> CONTEXT: Scripts/Scene_Title/109:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Save*.rvdata'
+> CONTEXT: Scripts/Scene_Title/131:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Title"
+> CONTEXT: Scripts/Scene_Title/138:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"プレイヤーの初期位置が設定されていません。"
+> CONTEXT: Scripts/Scene_Title/208:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"コモンイベントの呼び出しが上限を超えました。"
+> CONTEXT: Scripts/Game_Interpreter/18:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"menu"
+> CONTEXT: Scripts/Game_Interpreter/58:43 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1645:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/155:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/178:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"battle"
+> CONTEXT: Scripts/Game_Interpreter/1295:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/125:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/172:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"shop"
+> CONTEXT: Scripts/Game_Interpreter/1334:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/174:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"name"
+> CONTEXT: Scripts/Game_Interpreter/1351:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/176:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"gameover"
+> CONTEXT: Scripts/Game_Interpreter/1373:31 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1662:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/184:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/658:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"save"
+> CONTEXT: Scripts/Game_Interpreter/1654:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/180:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"title"
+> CONTEXT: Scripts/Game_Interpreter/1669:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/186:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/660:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\n"
+> CONTEXT: Scripts/Game_Interpreter/1676:44 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1679:51 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"debug"
+> CONTEXT: Scripts/Scene_Map/163:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/182:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/System/BattleStart"
+> CONTEXT: Scripts/Scene_Map/268:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Save\#{file_index + 1}.rvdata"
+> CONTEXT: Scripts/Scene_File/158:12 < UNTRANSLATED
+> CONTEXT: Scripts/強くてニューゲーム/416:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"wb"
+> CONTEXT: Scripts/Scene_File/178:58 < UNTRANSLATED
+> CONTEXT: Scripts/強くてニューゲーム/92:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"rb"
+> CONTEXT: Scripts/Scene_File/187:58 < UNTRANSLATED
+> CONTEXT: Scripts/強くてニューゲーム/75:34 < UNTRANSLATED
+> CONTEXT: Scripts/強くてニューゲーム/436:58 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"GameOver"
+> CONTEXT: Scripts/Scene_Gameover/49:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"C (Enter) : ON / OFF"
+> CONTEXT: Scripts/Scene_Debug/63:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"← (Left)    :  -1"
+> CONTEXT: Scripts/Scene_Debug/66:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"→ (Right)   :  +1"
+> CONTEXT: Scripts/Scene_Debug/67:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"L (Pageup)   : -10"
+> CONTEXT: Scripts/Scene_Debug/68:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"R (Pagedown) : +10"
+> CONTEXT: Scripts/Scene_Debug/69:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"MapLightening"
+> CONTEXT: Scripts/マップ軽量化/28:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Chime2"
+> CONTEXT: Scripts/STR20_入手インフォメーション v1.2/32:25 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11h_XPリザルトウィンドウ/23:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"info"
+> CONTEXT: Scripts/STR20_入手インフォメーション v1.2/33:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+" / スキル修得！"
+> CONTEXT: Scripts/STR20_入手インフォメーション v1.2/57:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"typeの値がおかしいです\><;"
+> CONTEXT: Scripts/STR20_入手インフォメーション v1.2/121:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/[\\t\\n\\r\\f]*/
+> CONTEXT: Scripts/STR20_入手インフォメーション v1.2/142:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{STR20W}\\[\\/(.*)\\/\\]/
+> CONTEXT: Scripts/STR20_入手インフォメーション v1.2/142:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ＭＳ Ｐゴシック"
+> CONTEXT: Scripts/マップネーム表示/28:16 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/67:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"UmePlus Gothic"
+> CONTEXT: Scripts/マップネーム表示/28:28 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/67:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#"
+> CONTEXT: Scripts/マップネーム表示/53:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/2, 0, r.width/
+> CONTEXT: Scripts/マップネーム表示/71:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/MapInfos.rvdata"
+> CONTEXT: Scripts/マップネーム表示/219:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"MESSAGE"
+> CONTEXT: Scripts/*STR11b_XP風バトル\#バトルメッセージ/28:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Decision2"
+> CONTEXT: Scripts/*STR33b_ATBカスタマイズセクション/67:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"カウントダメージ"
+> CONTEXT: Scripts/*STR33b_ATBカスタマイズセクション/71:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"CTスピードレート"
+> CONTEXT: Scripts/*STR33b_ATBカスタマイズセクション/73:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"詠唱スピードレート"
+> CONTEXT: Scripts/*STR33b_ATBカスタマイズセクション/74:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"SeparationCommand"
+> CONTEXT: Scripts/個別戦闘コマンド/39:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/([S])\\s*:\\s*(\\d+)/
+> CONTEXT: Scripts/個別戦闘コマンド/44:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"S"
+> CONTEXT: Scripts/個別戦闘コマンド/231:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ActiveCountBattle"
+> CONTEXT: Scripts/個別戦闘コマンド/272:43 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"(param[99] - param[98]) * (level - 99)"
+> CONTEXT: Scripts/限界突破/38:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"LimitBreak"
+> CONTEXT: Scripts/限界突破/104:11 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/608:25 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/811:24 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/1085:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/<(?:NUMBER_LIMIT|所持数上限)[ ]*(\\d+)\>/
+> CONTEXT: Scripts/限界突破/112:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/[\\r\\n]+/
+> CONTEXT: Scripts/限界突破/146:21 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/378:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/level/
+> CONTEXT: Scripts/限界突破/371:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"@level"
+> CONTEXT: Scripts/限界突破/371:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/param\\[(\\d+)\\]/
+> CONTEXT: Scripts/限界突破/372:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"actor.parameters[type, \#{$1.to_i}]"
+> CONTEXT: Scripts/限界突破/373:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ＥＳＣＡＰＥ"
+> CONTEXT: Scripts/*STR33g3_逃走ゲージ付加/21:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"_"
+> CONTEXT: Scripts/ STR11a_XP風バトル\#バトラー/97:34 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11a_XP風バトル\#バトラー/106:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'\\.'
+> CONTEXT: Scripts/Scene_Battle/574:32 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/608:32 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/612:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'\\|'
+> CONTEXT: Scripts/Scene_Battle/605:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Miss!"
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/42:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Evaded!"
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/43:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Failed!"
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/44:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Critical!"
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/45:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"MP-Damage"
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/46:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"MP-Recovery"
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/47:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Arial Black"
+> CONTEXT: Scripts/ STR11d_XP風バトル\#ダメポV2/66:12 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11c_XP風バトル\#メインV2/44:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{word}\\[(\\d+)\\%\\]/
+> CONTEXT: Scripts/*STR33a_アクティブタイムバトル/52:50 < UNTRANSLATED
+> CONTEXT: Scripts/*STR33a_アクティブタイムバトル/74:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{word}\\[(\\d+)\\]/
+> CONTEXT: Scripts/*STR33a_アクティブタイムバトル/183:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{word}\\[\\-(\\d+)\\]/
+> CONTEXT: Scripts/*STR33a_アクティブタイムバトル/185:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Flash2"
+> CONTEXT: Scripts/ STR11c_XP風バトル\#メインV2/42:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"LEVEL UP!"
+> CONTEXT: Scripts/ STR11c_XP風バトル\#メインV2/43:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"自動"
+> CONTEXT: Scripts/ STR11c_XP風バトル\#メインV2/62:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Cursor"
+> CONTEXT: Scripts/ STR11c_XP風バトル\#メインV2/66:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ステートアニメID"
+> CONTEXT: Scripts/ STR11j_ステートアニメーション/28:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{STRRGSS2::STR11JW}\\[(\\d+)\\]/
+> CONTEXT: Scripts/ STR11j_ステートアニメーション/61:26 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11j_ステートアニメーション/63:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$1}"
+> CONTEXT: Scripts/ STR11j_ステートアニメーション/63:50 < UNTRANSLATED
+> CONTEXT: Scripts/使用側アニメーション /33:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"（人間性）"
+> CONTEXT: Scripts/ウィンドウに変数を表示/10:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"wait_gauge01"
+> CONTEXT: Scripts/*STR11+atb_後付ATBウェイトゲージ/14:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"wait_gauge00"
+> CONTEXT: Scripts/*STR11+atb_後付ATBウェイトゲージ/15:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ゲージ非表示"
+> CONTEXT: Scripts/ STR15_エネミーHPゲージ/33:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"DetailedBareHands"
+> CONTEXT: Scripts/素手詳細設定/48:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"武器属性付与"
+> CONTEXT: Scripts/攻撃属性追加効果・属性参照スキル/29:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"武器属性参照"
+> CONTEXT: Scripts/攻撃属性追加効果・属性参照スキル/33:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"武器属性前提"
+> CONTEXT: Scripts/攻撃属性追加効果・属性参照スキル/37:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/<\#{ENCHANT_ELEMENT::WORD1}[：:](\\S+)\>/
+> CONTEXT: Scripts/攻撃属性追加効果・属性参照スキル/71:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"<"
+> CONTEXT: Scripts/攻撃属性追加効果・属性参照スキル/102:64 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\>"
+> CONTEXT: Scripts/攻撃属性追加効果・属性参照スキル/102:95 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/<\#{ENCHANT_ELEMENT::WORD3}[：:](\\S+)\>/
+> CONTEXT: Scripts/攻撃属性追加効果・属性参照スキル/121:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/[<＜]SW\\x20(\\d+)[\>＞]/
+> CONTEXT: Scripts/装備スイッチ/2:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"EVA+"
+> CONTEXT: Scripts/回避ステート/28:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"EVA-"
+> CONTEXT: Scripts/回避ステート/29:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"HIT+"
+> CONTEXT: Scripts/回避ステート/30:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"HIT-"
+> CONTEXT: Scripts/回避ステート/31:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"CRI+"
+> CONTEXT: Scripts/回避ステート/32:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"CRI-"
+> CONTEXT: Scripts/回避ステート/33:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{Regexp.quote HIT_TEXT}\\[(\\d+)\\]/
+> CONTEXT: Scripts/回避ステート/70:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{Regexp.quote DEHIT_TEXT}\\[(\\d+)\\]/
+> CONTEXT: Scripts/回避ステート/87:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{Regexp.quote EVADE_TEXT}\\[(\\d+)\\]/
+> CONTEXT: Scripts/回避ステート/135:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{Regexp.quote DEVADE_TEXT}\\[(\\d+)\\]/
+> CONTEXT: Scripts/回避ステート/147:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{Regexp.quote CRI_TEXT}\\[(\\d+)\\]/
+> CONTEXT: Scripts/回避ステート/190:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Btskin_main"
+> CONTEXT: Scripts/ STR11e_バトルステータス++1.2/62:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Btskin_hp"
+> CONTEXT: Scripts/ STR11e_バトルステータス++1.2/63:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{Regexp.quote DECRI_TEXT}\\[(\\d+)\\]/
+> CONTEXT: Scripts/回避ステート/206:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Btskin_mp"
+> CONTEXT: Scripts/ STR11e_バトルステータス++1.2/64:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Btskin_n00"
+> CONTEXT: Scripts/ STR11e_バトルステータス++1.2/65:15 < UNTRANSLATED
+> CONTEXT: Scripts/ STR11e_バトルステータス++1.2/66:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Btskin_state"
+> CONTEXT: Scripts/ STR11e_バトルステータス++1.2/67:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\equip"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/18:55 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\hp\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/102:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\mp\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/107:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\hppercent\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/112:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\mppercent\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/117:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\atk\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/122:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\def\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/127:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\spi\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/132:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\agi\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/137:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\mnd\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/142:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\meva\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/147:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\dex\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/152:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\mpr\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/157:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\lck\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/162:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\hit\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/167:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\eva\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/172:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\cri\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/177:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\odds\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/182:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\cst\\[([+-]*?[0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/187:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\auto_battle"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/191:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\super_guard"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/194:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\pharmacology"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/197:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\fast_attack"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/200:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\dual_attack"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/203:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\prevent_critical"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/206:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\half_mp_cost"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/209:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\double_exp_gain"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/212:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\late_attack"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/215:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\slip_guard"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/218:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\eye_guard"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/221:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\wstar"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/224:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\pav"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/556:33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\pdf"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/567:33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\grd"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/577:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\mp0"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/580:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\leadoff"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/583:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\phd"
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/591:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\atklm\\[([0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/607:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\atkst\\[([0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/614:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\weapon\\[([0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/621:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\armor\\[([0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/628:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\gold\\[([0-9]+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/657:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\counter\\[([0-9]+?)(\\,([0-9]+?))*?\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/686:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\([0-9]+?)times_attack/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/720:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\([0-9]+?)times_spell/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/725:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\pict\\[(.+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/744:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\weapon_set\\[(.+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/759:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/,/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/760:27 < UNTRANSLATED
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/769:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\armor_set\\[(.+?)\\]/
+> CONTEXT: Scripts/特殊効果詰め合わせ ExtraVX/768:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"未修得"
+> CONTEXT: Scripts/スキル用ショップ/21:21
+"Untrained"
+> END STRING
+
+> BEGIN STRING
+"修得済み"
+> CONTEXT: Scripts/スキル用ショップ/22:21
+"Acquire already"
+> END STRING
+
+> BEGIN STRING
+"修得不可"
+> CONTEXT: Scripts/スキル用ショップ/23:21
+"It cannot be master. "
+> END STRING
+
+> BEGIN STRING
+"魔術を覚える"
+> CONTEXT: Scripts/スキル用ショップ/24:21
+"Learn the magic"
+> END STRING
+
+> BEGIN STRING
+"ソウル"
+> CONTEXT: Scripts/スキル用ショップ/29:21
+"Soul"
+> END STRING
+
+> BEGIN STRING
+/<価格:(.+)\>/
+> CONTEXT: Scripts/スキル用ショップ/168:7 < UNTRANSLATED
+> CONTEXT: Scripts/スキル用ショップ/196:5 < UNTRANSLATED
+> CONTEXT: Scripts/スキル用ショップ/279:5 < UNTRANSLATED
+> CONTEXT: Scripts/スキル用ショップ/338:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Audio/SE/Saint5"
+> CONTEXT: Scripts/RGSS2_メダル/38:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+" (%Y/%m/%d %H:%M)"
+> CONTEXT: Scripts/RGSS2_メダル/82:51 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"をアンロック"
+> CONTEXT: Scripts/RGSS2_メダル/155:56
+"Unlock"
+> END STRING
+
+> BEGIN STRING
+"スキル使用側アニメーション実装"
+> CONTEXT: Scripts/Unnamed Script(1)/13:10 < UNTRANSLATED
+> CONTEXT: Scripts/Unnamed Script(1)/15:13 < UNTRANSLATED
+> CONTEXT: Scripts/Unnamed Script(1)/55:19 < UNTRANSLATED
+> CONTEXT: Scripts/Unnamed Script(1)/82:64 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"いちゃもんステート"
+> CONTEXT: Scripts/Unnamed Script(1)/74:64 < UNTRANSLATED
+> CONTEXT: Scripts/Unnamed Script(1)/88:17 < UNTRANSLATED
+> CONTEXT: Scripts/Unnamed Script(1)/123:75 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"戦闘アニメーション"
+> CONTEXT: Scripts/Unnamed Script(1)/80:64 < UNTRANSLATED
+> CONTEXT: Scripts/Unnamed Script(1)/92:64 < UNTRANSLATED
+> CONTEXT: Scripts/Unnamed Script(1)/102:63 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"アイテムスティール"
+> CONTEXT: Scripts/Unnamed Script(1)/85:64 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"所持金スティール"
+> CONTEXT: Scripts/Unnamed Script(1)/86:64 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"自爆"
+> CONTEXT: Scripts/Unnamed Script(1)/87:64 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"属性計算改造"
+> CONTEXT: Scripts/Unnamed Script(1)/98:63 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"アクターバトラー実装"
+> CONTEXT: Scripts/Unnamed Script(1)/109:55 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"バトルスピード調整"
+> CONTEXT: Scripts/Unnamed Script(1)/134:69 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ＨＰ消費スキル"
+> CONTEXT: Scripts/Unnamed Script(1)/142:75 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"パラメータの追加"
+> CONTEXT: Scripts/Unnamed Script(1)/144:75 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ＴＰ概念実装"
+> CONTEXT: Scripts/Unnamed Script(1)/145:75 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"HNRGDS"
+> CONTEXT: Scripts/RGDS_Base/6:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'OpenMovieA'
+> CONTEXT: Scripts/RGDS_Base/22:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ip'
+> CONTEXT: Scripts/RGDS_Base/22:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'l'
+> CONTEXT: Scripts/RGDS_Base/22:55 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/28:59 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/29:54 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/29:59 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetVideoSize'
+> CONTEXT: Scripts/RGDS_Base/23:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'p'
+> CONTEXT: Scripts/RGDS_Base/23:55 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'i'
+> CONTEXT: Scripts/RGDS_Base/23:60 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/24:55 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/25:63 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/26:51 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/27:55 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/30:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CloseMovie'
+> CONTEXT: Scripts/RGDS_Base/24:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'v'
+> CONTEXT: Scripts/RGDS_Base/24:50 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/26:46 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/27:50 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/28:54 < UNTRANSLATED
+> CONTEXT: Scripts/RGDS_Base/30:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'UpdateVideo'
+> CONTEXT: Scripts/RGDS_Base/25:43 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'n'
+> CONTEXT: Scripts/RGDS_Base/25:58 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'RunMovie'
+> CONTEXT: Scripts/RGDS_Base/26:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'PauseMovie'
+> CONTEXT: Scripts/RGDS_Base/27:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetVolume'
+> CONTEXT: Scripts/RGDS_Base/28:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SetVolume'
+> CONTEXT: Scripts/RGDS_Base/29:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetState'
+> CONTEXT: Scripts/RGDS_Base/30:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\000"
+> CONTEXT: Scripts/RGDS_Base/102:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"エラー(\#{error_code})：\#{DSError::JP_ERROR[error_code]}"
+> CONTEXT: Scripts/RGDS_Base/111:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"エラー(\#{error_code})：\#{result}"
+> CONTEXT: Scripts/RGDS_Base/113:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ii"
+> CONTEXT: Scripts/RGDS_Base/120:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ERROR_NO_WINDOW"
+> CONTEXT: Scripts/RGDS_Base/198:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ERROR_WINDOW_OPENED"
+> CONTEXT: Scripts/RGDS_Base/199:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ERROR_NO_CONNECT"
+> CONTEXT: Scripts/RGDS_Base/200:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ERROR_CANT_OPEN_FILE"
+> CONTEXT: Scripts/RGDS_Base/201:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ERROR_MOVIE_LODING"
+> CONTEXT: Scripts/RGDS_Base/202:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ERROR_OPEN_TIMEOUT"
+> CONTEXT: Scripts/RGDS_Base/203:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ERROR_NOT_PLAYING"
+> CONTEXT: Scripts/RGDS_Base/204:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ERROR_DIFFERENT_SIZE"
+> CONTEXT: Scripts/RGDS_Base/205:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ERROR_FILTER_NOT_FOUND"
+> CONTEXT: Scripts/RGDS_Base/206:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ERROR_FILTER_UNSUPPORTED"
+> CONTEXT: Scripts/RGDS_Base/207:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"このピンは、提供されたメディア タイプを使えない"
+> CONTEXT: Scripts/RGDS_Base/211:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"このサンプルはレンダリングできない"
+> CONTEXT: Scripts/RGDS_Base/212:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"タイムアウト期間が過ぎた"
+> CONTEXT: Scripts/RGDS_Base/213:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ファイル フォーマットが無効"
+> CONTEXT: Scripts/RGDS_Base/214:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ビデオ ストリームを再生できない(レンダラ)"
+> CONTEXT: Scripts/RGDS_Base/215:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"オーディオ ストリームを再生できない(レンダラ)"
+> CONTEXT: Scripts/RGDS_Base/216:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"DirectShow はこのプロセッサ上で MPEG ムービーを再生できない"
+> CONTEXT: Scripts/RGDS_Base/217:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"オーディオ ストリームを再生できない(フォーマット)"
+> CONTEXT: Scripts/RGDS_Base/218:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ビデオ ストリームを再生できない(フォーマット)"
+> CONTEXT: Scripts/RGDS_Base/219:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"規格に準拠していないので DirectShow で再生できない"
+> CONTEXT: Scripts/RGDS_Base/220:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"フィルタグラフに存在しないオブジェクトに要求された関数を実行できない"
+> CONTEXT: Scripts/RGDS_Base/221:12
+"Unable to perform the requested function to an object that does not exist in the filter graph"
+> END STRING
+
+> BEGIN STRING
+"バッファが十分に満たされていない"
+> CONTEXT: Scripts/RGDS_Base/222:12
+"Buffer is not fully satisfied"
+> END STRING
+
+> BEGIN STRING
+"ファイルを再生できない(フォーマット)"
+> CONTEXT: Scripts/RGDS_Base/223:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"同じ転送をサポートしていないのでピンどうしを接続できない"
+> CONTEXT: Scripts/RGDS_Base/224:12
+"I can not connect a pin to each other because it does not support the same Transfer"
+> END STRING
+
+> BEGIN STRING
+"戦闘用アイテム"
+> CONTEXT: Scripts/アイテム分類/43:5
+> CONTEXT: Scripts/アイテム分類/94:5
+"Item for combat"
+> END STRING
+
+> BEGIN STRING
+"武器"
+> CONTEXT: Scripts/アイテム分類/44:5
+> CONTEXT: Scripts/アイテム分類/95:5
+> CONTEXT: Scripts/アイテム分類/184:18
+> CONTEXT: Scripts/アイテム分類/320:70
+> CONTEXT: Scripts/アイテム分類/329:59
+"Weapon"
+> END STRING
+
+> BEGIN STRING
+/<売却不可\>/
+> CONTEXT: Scripts/売却不可アイテム/46:21
+/<Cannot be sold\>/
+> END STRING
+
+> BEGIN STRING
+"盾"
+> CONTEXT: Scripts/アイテム分類/45:5
+> CONTEXT: Scripts/アイテム分類/96:5
+> CONTEXT: Scripts/アイテム分類/184:30
+> CONTEXT: Scripts/アイテム分類/344:22
+"Shield"
+> END STRING
+
+> BEGIN STRING
+"頭"
+> CONTEXT: Scripts/アイテム分類/46:5
+> CONTEXT: Scripts/アイテム分類/97:5
+"Head"
+> END STRING
+
+> BEGIN STRING
+"身体"
+> CONTEXT: Scripts/アイテム分類/47:5
+> CONTEXT: Scripts/アイテム分類/98:5
+"Body"
+> END STRING
+
+> BEGIN STRING
+"装飾品"
+> CONTEXT: Scripts/アイテム分類/48:5
+> CONTEXT: Scripts/アイテム分類/99:5
+> CONTEXT: Scripts/アイテム分類/184:50
+> CONTEXT: Scripts/アイテム分類/344:42
+"Ornaments"
+> END STRING
+
+> BEGIN STRING
+"素材"
+> CONTEXT: Scripts/アイテム分類/49:5
+> CONTEXT: Scripts/アイテム分類/67:5
+> CONTEXT: Scripts/アイテム分類/100:5
+"Material"
+> END STRING
+
+> BEGIN STRING
+"貴重品"
+> CONTEXT: Scripts/アイテム分類/50:5
+> CONTEXT: Scripts/アイテム分類/68:5
+> CONTEXT: Scripts/アイテム分類/101:5
+> CONTEXT: Scripts/アイテム分類/116:5
+> CONTEXT: Scripts/アイテム分類/184:11
+> CONTEXT: Scripts/アイテム分類/291:72
+> CONTEXT: Scripts/アイテム分類/302:61
+"Valuables"
+> END STRING
+
+> BEGIN STRING
+"全種"
+> CONTEXT: Scripts/アイテム分類/51:5
+> CONTEXT: Scripts/アイテム分類/102:5
+> CONTEXT: Scripts/アイテム分類/184:5
+> CONTEXT: Scripts/アイテム分類/474:48
+> CONTEXT: Scripts/アイテム分類/489:48
+"All species"
+> END STRING
+
+> BEGIN STRING
+"その他"
+> CONTEXT: Scripts/アイテム分類/55:27
+"Other"
+> END STRING
+
+> BEGIN STRING
+"戦闘用"
+> CONTEXT: Scripts/アイテム分類/61:5
+> CONTEXT: Scripts/アイテム分類/110:5
+"Combat"
+> END STRING
+
+> BEGIN STRING
+"\#{Vocab.armor2}防具"
+> CONTEXT: Scripts/アイテム分類/64:5 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム分類/113:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{Vocab.armor3}防具"
+> CONTEXT: Scripts/アイテム分類/65:5 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム分類/114:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"すべて"
+> CONTEXT: Scripts/アイテム分類/69:5 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム分類/118:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"戦闘時に使える\#{Vocab.item}を表示します。"
+> CONTEXT: Scripts/アイテム分類/75:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{Vocab.weapon}を表示します。"
+> CONTEXT: Scripts/アイテム分類/76:5 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム分類/125:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{Vocab.armor1}を表示します。"
+> CONTEXT: Scripts/アイテム分類/77:5 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム分類/126:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{Vocab.armor2}防具を表示します。"
+> CONTEXT: Scripts/アイテム分類/78:5 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム分類/127:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{Vocab.armor3}防具を表示します。"
+> CONTEXT: Scripts/アイテム分類/79:5 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム分類/128:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{Vocab.armor4}を表示します。"
+> CONTEXT: Scripts/アイテム分類/80:5 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム分類/129:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"素材を表示します。"
+> CONTEXT: Scripts/アイテム分類/81:5
+"Show the material."
+> END STRING
+
+> BEGIN STRING
+"貴重品の\#{Vocab.item}を表示します。"
+> CONTEXT: Scripts/アイテム分類/82:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"すべての\#{Vocab.item}を表示します。"
+> CONTEXT: Scripts/アイテム分類/83:5 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム分類/132:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"通常アイテム"
+> CONTEXT: Scripts/アイテム分類/105:34
+"Normal item"
+> END STRING
+
+> BEGIN STRING
+"通常"
+> CONTEXT: Scripts/アイテム分類/109:5
+"Normal"
+> END STRING
+
+> BEGIN STRING
+"イベント"
+> CONTEXT: Scripts/アイテム分類/117:5
+"Event"
+> END STRING
+
+> BEGIN STRING
+"ごく普通の\#{Vocab.item}を表示します。"
+> CONTEXT: Scripts/アイテム分類/123:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"戦闘用の\#{Vocab.item}を表示します。"
+> CONTEXT: Scripts/アイテム分類/124:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"貴重品を表示します。"
+> CONTEXT: Scripts/アイテム分類/130:5
+"Show the valuables."
+> END STRING
+
+> BEGIN STRING
+"イベント用の\#{Vocab.item}を表示します。"
+> CONTEXT: Scripts/アイテム分類/131:5 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"CategorizeItem"
+> CONTEXT: Scripts/アイテム分類/172:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"防具"
+> CONTEXT: Scripts/アイテム分類/184:24
+> CONTEXT: Scripts/アイテム分類/350:70
+> CONTEXT: Scripts/アイテム分類/363:59
+"Armor"
+> END STRING
+
+> BEGIN STRING
+"頭防具"
+> CONTEXT: Scripts/アイテム分類/184:35
+> CONTEXT: Scripts/アイテム分類/344:27
+"Head armor"
+> END STRING
+
+> BEGIN STRING
+"身体防具"
+> CONTEXT: Scripts/アイテム分類/184:42
+> CONTEXT: Scripts/アイテム分類/344:34
+"Body armor"
+> END STRING
+
+> BEGIN STRING
+/<(?:CATEGORY|分類|カテゴリー?)[ ]*(.*)\>/
+> CONTEXT: Scripts/アイテム分類/200:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"UsableEquipment"
+> CONTEXT: Scripts/アイテム分類/480:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"使用側アニメID"
+> CONTEXT: Scripts/使用側アニメーション /20:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\#{STRRGSS2::STR11KW}\\[(\\d+)\\]/
+> CONTEXT: Scripts/使用側アニメーション /31:21 < UNTRANSLATED
+> CONTEXT: Scripts/使用側アニメーション /33:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:1"
+> CONTEXT: Scripts/アイテム合成/31:28 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/53:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:20,3"
+> CONTEXT: Scripts/アイテム合成/31:35 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/35:35 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/39:37 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/53:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:2"
+> CONTEXT: Scripts/アイテム合成/32:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:21,3"
+> CONTEXT: Scripts/アイテム合成/32:35 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/36:35 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/40:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:3"
+> CONTEXT: Scripts/アイテム合成/33:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:22,1"
+> CONTEXT: Scripts/アイテム合成/33:35 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/37:35 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/41:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:4"
+> CONTEXT: Scripts/アイテム合成/34:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:34,1"
+> CONTEXT: Scripts/アイテム合成/34:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:6"
+> CONTEXT: Scripts/アイテム合成/35:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:7"
+> CONTEXT: Scripts/アイテム合成/36:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:8"
+> CONTEXT: Scripts/アイテム合成/37:28 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:9"
+> CONTEXT: Scripts/アイテム合成/38:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:32,1"
+> CONTEXT: Scripts/アイテム合成/38:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:11"
+> CONTEXT: Scripts/アイテム合成/39:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:12"
+> CONTEXT: Scripts/アイテム合成/40:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:13"
+> CONTEXT: Scripts/アイテム合成/41:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:14"
+> CONTEXT: Scripts/アイテム合成/42:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:33,1"
+> CONTEXT: Scripts/アイテム合成/42:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:16"
+> CONTEXT: Scripts/アイテム合成/43:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:35,1"
+> CONTEXT: Scripts/アイテム合成/43:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:24,3"
+> CONTEXT: Scripts/アイテム合成/43:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W:17"
+> CONTEXT: Scripts/アイテム合成/44:29 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/45:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:36,1"
+> CONTEXT: Scripts/アイテム合成/44:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:44,1"
+> CONTEXT: Scripts/アイテム合成/45:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:2"
+> CONTEXT: Scripts/アイテム合成/50:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:4"
+> CONTEXT: Scripts/アイテム合成/50:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:7"
+> CONTEXT: Scripts/アイテム合成/50:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"A:25"
+> CONTEXT: Scripts/アイテム合成/56:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I:8,3"
+> CONTEXT: Scripts/アイテム合成/56:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"強化する"
+> CONTEXT: Scripts/アイテム合成/61:24
+"Strengthen"
+> END STRING
+
+> BEGIN STRING
+"？"
+> CONTEXT: Scripts/アイテム合成/109:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"強化したことがありません"
+> CONTEXT: Scripts/アイテム合成/113:34
+"Do not strengthen. "
+> END STRING
+
+> BEGIN STRING
+"？？？？？？？？"
+> CONTEXT: Scripts/アイテム合成/118:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ComposeItem"
+> CONTEXT: Scripts/アイテム合成/125:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/([IWA])\\s*:\\s*(\\d+)(\\s*,\\s*\\d+)?/
+> CONTEXT: Scripts/アイテム合成/134:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\d+/
+> CONTEXT: Scripts/アイテム合成/267:33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"I"
+> CONTEXT: Scripts/アイテム合成/641:13 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/650:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"W"
+> CONTEXT: Scripts/アイテム合成/652:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"A"
+> CONTEXT: Scripts/アイテム合成/654:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"-"
+> CONTEXT: Scripts/アイテム合成/944:42 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム合成/948:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%d"
+> CONTEXT: Scripts/アイテム合成/944:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s/%d"
+> CONTEXT: Scripts/アイテム合成/946:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%2d"
+> CONTEXT: Scripts/アイテム合成/948:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%2s/%2d"
+> CONTEXT: Scripts/アイテム合成/950:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/namahanka/
+> CONTEXT: Scripts/HN_Light(プロトタイプ)/5:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/＠灯り(\\d+)/
+> CONTEXT: Scripts/HN_Light(プロトタイプ)/23:17
+/＠light(\\d+)/
+> END STRING
+
+> BEGIN STRING
+"light1"
+> CONTEXT: Scripts/HN_Light(プロトタイプ)/28:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"light2"
+> CONTEXT: Scripts/HN_Light(プロトタイプ)/29:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"light3"
+> CONTEXT: Scripts/HN_Light(プロトタイプ)/30:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"light4"
+> CONTEXT: Scripts/HN_Light(プロトタイプ)/31:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"MessageSpeed"
+> CONTEXT: Scripts/Ex/24:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"さざなみ明朝"
+> CONTEXT: Scripts/Main/13:21
+"さざなみ明朝"
+> END STRING
+
+> BEGIN STRING
+"\#{Font.default_name} フォントが見つかりません。"
+> CONTEXT: Scripts/Main/15:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"No such file or directory - "
+> CONTEXT: Scripts/Main/28:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ファイル \#{filename} が見つかりません。"
+> CONTEXT: Scripts/Main/29:9
+"The file \#{filename} was not found."
+> END STRING
+
+> BEGIN STRING
+"Easy"
+> CONTEXT: Scripts/戦闘難易度/46:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Normal"
+> CONTEXT: Scripts/戦闘難易度/55:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Hard"
+> CONTEXT: Scripts/戦闘難易度/59:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Legend"
+> CONTEXT: Scripts/戦闘難易度/68:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"BattleDifficulty"
+> CONTEXT: Scripts/戦闘難易度/96:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"CustomMenuCommand"
+> CONTEXT: Scripts/戦闘難易度/408:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"装備不可"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/315:21
+"It is not possible to equip it. "
+> END STRING
+
+> BEGIN STRING
+"能力不足,"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/323:30
+"Ability shortage"
+> END STRING
+
+> BEGIN STRING
+"<OR\>"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/374:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\<(!?)REQUIRED\\s+(WEAPON|ARMOR)\\s+(\\d+\\.\\.+\\d+)\\\>/
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/380:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"!"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/382:16 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/418:16 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/504:16 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/514:16 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/526:16 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/552:16 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/564:16 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/574:16 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/582:16 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/588:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"WEAPON"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/388:6 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/424:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ARMOR"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/400:6 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/436:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\<(!?)REQUIRED\\s+(WEAPON|ARMOR)\\s+(\\d+)\\\>/
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/416:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\<(!?)REQUIRED\\s+CLASS\\s+(.+)\\\>/
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/502:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\<(!?)REQUIRED\\s+SKILL\\s+(\\d+\\.\\.+\\d+)\\\>/
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/512:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\<(!?)REQUIRED\\s+SKILL\\s+(\\d+)\\\>/
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/524:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"SkillCPSystem"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/532:14 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/1110:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"PassiveSkill"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/534:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\<(!?)REQUIRED\\s+VARIABLE\\s+(\\d+)\\s+(\\d+)\\\>/
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/550:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\<(!?)REQUIRED\\s+VARIABLE\\s+(\\d+)\\s+(\\d+\\.\\.+\\d+)\\\>/
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/562:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"("
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/570:22 < UNTRANSLATED
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/584:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+").include?(value)"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/570:33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\<(!?)REQUIRED\\s+STATE\\s+(\\d+)\\\>/
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/572:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\<(!?)REQUIRED\\s+([a-z0-9_]+)\\s+(\\d+\\.\\.+\\d+)\\\>/
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/580:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+").include?(actor."
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/584:33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+")"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/584:60 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\<(!?)REQUIRED\\s+([a-z0-9_]+)\\s+(\\d+)\\\>/
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/586:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"actor."
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/590:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"RestrictedEquipment"
+> CONTEXT: Scripts/アイテム使用/武具装備の条件追加/612:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"引継ぎNEW GAME"
+> CONTEXT: Scripts/強くてニューゲーム/18:25
+"NEW GAME +"
+> END STRING
+
+> BEGIN STRING
+"★"
+> CONTEXT: Scripts/強くてニューゲーム/19:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"週目"
+> CONTEXT: Scripts/強くてニューゲーム/20:25
+"Week eyes"
+> END STRING
+
+> BEGIN STRING
+"どのファイルを引き継ぎますか？"
+> CONTEXT: Scripts/強くてニューゲーム/21:25
+"Save over which file?"
+> END STRING
+
+> BEGIN STRING
+"Save\#{$game_temp.last_file_index + 1}.rvdata"
+> CONTEXT: Scripts/強くてニューゲーム/73:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Save\#{i + 1}.rvdata"
+> CONTEXT: Scripts/強くてニューゲーム/134:18 < UNTRANSLATED
+
+> END STRING

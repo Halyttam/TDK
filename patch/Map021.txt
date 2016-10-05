@@ -1,0 +1,653 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+犯す
+> CONTEXT: Map021/events/4/pages/0/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Map021/events/14/pages/0/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Map021/events/21/pages/0/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Map021/events/28/pages/0/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Map021/events/30/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map018/events/9/pages/1/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map017/events/60/pages/1/4/Choice/2 < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/1/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/2/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map015/events/77/pages/1/4/Choice/2 < UNTRANSLATED
+> CONTEXT: Map005/events/8/pages/4/0/Choice/0 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/3/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/26/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/0/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/23/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/23/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/24/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/24/65/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/32/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/32/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/33/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/33/69/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/34/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/34/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/35/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/35/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/36/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/36/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/37/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/37/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/38/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/38/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/39/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/40/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/40/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/41/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/41/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/42/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/42/128/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/43/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/43/131/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/44/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/44/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/45/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/45/129/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/46/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/47/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/47/131/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/48/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/50/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/50/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/51/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/51/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/52/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/53/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/53/131/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/54/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/56/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/56/129/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/57/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/57/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/58/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/58/129/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/59/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/59/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/60/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/60/131/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/61/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/61/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/63/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/63/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/64/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/66/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/66/131/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/67/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/67/68/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/68/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/68/129/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/69/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+放っておく
+> CONTEXT: Map021/events/4/pages/0/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/21/pages/0/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/28/pages/0/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/30/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/32/pages/0/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/32/pages/2/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/35/pages/0/6/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/36/pages/0/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/37/pages/0/6/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/38/pages/0/6/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/39/pages/0/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map017/events/60/pages/1/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map015/events/77/pages/1/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/3/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/3/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/0/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/10/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/14/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/0/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/20/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/22/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/23/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/0/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/23/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/24/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/0/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/24/65/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/26/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/32/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/32/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/33/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/33/69/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/34/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/34/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/35/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/35/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/36/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/36/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/37/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/37/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/38/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/38/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/39/1/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/40/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/40/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/41/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/41/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/42/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/42/128/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/43/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/43/131/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/44/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/44/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/45/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/45/129/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/47/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/47/131/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/50/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/50/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/51/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/51/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/52/1/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/53/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/53/131/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/56/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/56/129/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/57/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/57/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/58/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/58/129/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/59/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/59/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/60/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/60/131/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/61/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/61/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/63/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/63/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/66/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/66/131/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/67/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/67/68/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/68/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/68/129/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/73/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/75/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/77/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/79/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/81/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/83/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/85/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/87/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/89/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/90/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/92/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/93/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/95/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/96/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/98/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/99/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/101/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/102/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/104/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/105/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/107/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/108/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/110/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/111/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/113/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/114/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/116/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/117/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/119/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/120/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/122/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/123/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/125/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/126/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/128/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/129/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/131/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/132/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/134/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/135/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/137/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/138/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/140/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/142/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/143/9/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/145/7/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「え・・・い、いや・・・
+　な、何をする気ですか・・・・・・？」
+> CONTEXT: Map021/events/4/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/121/pages/2/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「いやあああーーー！！」
+> CONTEXT: Map021/events/4/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/121/pages/2/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人の衣服を剥ぎ取り、縄で縛り上げた。
+> CONTEXT: Map021/events/4/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/121/pages/2/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何もしない
+> CONTEXT: Map021/events/14/pages/0/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/47/pages/0/0/Choice/1 < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/1/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/2/4/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/7/42/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「ん？
+　なんじゃ、おぬし・・・！？
+　こ、こら、やめろ！　やめぬか！！」
+> CONTEXT: Map021/events/14/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+囚われていた魔女をそのまま吊るし
+衣服をはいだ。
+> CONTEXT: Map021/events/14/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/1/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「・・・？
+　一体何をする気ですか？」
+> CONTEXT: Map021/events/21/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/77/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「！？
+　いや、やめて！
+　いやあぁぁぁぁ！！」
+> CONTEXT: Map021/events/21/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/77/pages/1/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖女を鎖でつなぎ、その場に組み伏せた。
+> CONTEXT: Map021/events/21/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/77/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「・・・？
+　どうした？
+　一体何を・・・」
+> CONTEXT: Map021/events/28/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/9/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「！？
+　な、何だ貴様！？
+　やめろ、離せ！！」
+> CONTEXT: Map021/events/28/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/9/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士を縛り上げ拘束し、その場に押し倒した。
+> CONTEXT: Map021/events/28/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/9/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コルネリア
+「助けて、くれるの・・・？」
+> CONTEXT: Map021/events/30/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map017/events/60/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コルネリア
+「？
+　え？　・・・何？」
+> CONTEXT: Map021/events/30/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map017/events/60/pages/1/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コルネリア
+「！？
+　え！？　い、いや
+　やだあぁ！！」
+> CONTEXT: Map021/events/30/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map017/events/60/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女を縛り上げその場に押し倒した。
+> CONTEXT: Map021/events/30/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map017/events/60/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鍛冶屋の娘が倒れている。
+> CONTEXT: Map021/events/32/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/10/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+脱がす
+> CONTEXT: Map021/events/32/pages/0/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/3/3/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/10/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/20/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/90/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/93/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/96/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/99/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/102/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/105/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/108/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/111/3/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/114/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/117/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/120/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/123/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/126/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/129/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/132/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/135/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/138/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/143/9/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム「一時の生身」を消費して、性交をしますか？
+> CONTEXT: Map021/events/32/pages/1/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/32/pages/2/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/13/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/14/18/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/21/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/25/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/72/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/74/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/76/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/78/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/80/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/82/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/84/10/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/86/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/88/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/91/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/94/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/97/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/100/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/103/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/106/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/109/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/112/3/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/115/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/118/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/121/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/124/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/127/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/130/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/133/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/136/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/139/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/141/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/144/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はい
+> CONTEXT: Map021/events/32/pages/1/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Map021/events/32/pages/2/20/Choice/0 < UNTRANSLATED
+> CONTEXT: Map020/events/72/pages/0/45/Choice/0 < UNTRANSLATED
+> CONTEXT: Map010/events/215/pages/2/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map007/events/121/pages/0/17/Choice/0 < UNTRANSLATED
+> CONTEXT: Map007/events/121/pages/1/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/3/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/4/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map005/events/11/pages/0/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/13/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/14/20/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/0/20/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/21/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/2/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/45/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/25/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/72/18/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/74/18/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/76/18/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/78/18/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/80/18/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/82/18/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/84/12/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/86/18/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/88/18/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/91/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/94/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/97/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/100/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/103/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/106/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/109/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/112/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/115/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/118/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/121/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/124/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/127/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/130/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/133/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/136/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/139/11/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/141/18/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/144/11/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+いいえ
+> CONTEXT: Map021/events/32/pages/1/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Map021/events/32/pages/2/20/Choice/1 < UNTRANSLATED
+> CONTEXT: Map020/events/72/pages/0/45/Choice/1 < UNTRANSLATED
+> CONTEXT: Map010/events/215/pages/2/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map007/events/121/pages/0/17/Choice/1 < UNTRANSLATED
+> CONTEXT: Map007/events/121/pages/1/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/3/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/4/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map005/events/11/pages/0/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/13/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/14/20/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/0/20/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/21/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/2/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/45/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/25/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/72/18/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/74/18/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/76/18/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/78/18/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/80/18/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/82/18/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/84/12/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/86/18/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/88/18/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/91/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/94/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/97/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/100/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/103/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/106/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/109/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/112/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/115/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/118/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/121/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/124/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/127/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/130/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/133/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/136/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/139/11/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/141/18/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/144/11/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さらに犯す
+> CONTEXT: Map021/events/32/pages/2/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/0/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/14/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/0/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/22/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/0/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/0/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/26/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/73/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/75/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/77/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/79/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/81/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/83/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/85/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/87/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/89/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/92/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/95/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/98/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/101/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/104/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/107/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/110/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/113/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/116/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/119/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/122/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/125/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/128/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/131/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/134/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/137/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/140/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/142/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/145/7/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性交する
+> CONTEXT: Map021/events/35/pages/0/6/Choice/0 < UNTRANSLATED
+> CONTEXT: Map021/events/36/pages/0/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map021/events/37/pages/0/6/Choice/0 < UNTRANSLATED
+> CONTEXT: Map021/events/38/pages/0/6/Choice/0 < UNTRANSLATED
+> CONTEXT: Map021/events/39/pages/0/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「・・・そ、そんなに見ないでください。
+　その・・・恥ずかしいですから・・・」
+> CONTEXT: Map021/events/35/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/89/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「あまりじろじろ見ないでくださいよ・・・。
+　その、・・・貧相な体なんで恥ずかしいですから・・・」
+> CONTEXT: Map021/events/36/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/72/pages/0/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/72/pages/0/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/58/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「よ、よし・・・。
+　・・・さあ、いつでもいいぞ」
+> CONTEXT: Map021/events/37/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/99/pages/1/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「そうまじまじとみるな。
+　・・・だらしのない体でがっかりしたのではないか？」
+> CONTEXT: Map021/events/38/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/1/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「今日はどっちでする？」
+> CONTEXT: Map021/events/39/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/3/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ようこそ、追憶の間へ。
+ここでは、攻略済みのキャラクターと何度でも性交することが可能です。
+一度部屋を出ますと、服装等がリセットされます。
+ＢＧＭは入り口にあるスイッチでＯＦＦに出来ます。
+> CONTEXT: Map021/events/43/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＢＧＭをとめる
+> CONTEXT: Map021/events/47/pages/0/0/Choice/0 < UNTRANSLATED
+
+> END STRING

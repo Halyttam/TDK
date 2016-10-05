@@ -1,0 +1,142 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+箱の中に縄梯子があった。
+> CONTEXT: Map007/events/15/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/114/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「ん？
+　あらら、誰だか知りませんがちょうどいいところへ」
+> CONTEXT: Map007/events/121/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「ほら、見てくださいよ、この穴の底。
+　すごいお宝がいっぱいあるんですよ」
+> CONTEXT: Map007/events/121/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「よかったら、二人で協力してあのお宝をとりませんか？
+　あたしが縄を持っておくんで、あなたがそれで下に下りて
+　お宝を回収したら、私が引き上げますんで」
+> CONTEXT: Map007/events/121/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「お宝は、二人で山分けにしましょうじゃないですか」
+> CONTEXT: Map007/events/121/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「あはは、馬鹿じゃないですか？
+　あたしがあなたみたいな重たそうな人なんて
+　持ち上げれるわけ無いじゃないですか？」
+> CONTEXT: Map007/events/121/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「そこのお宝は、全部あなたに差し上げますよ。
+　代わりに後であなたの死体から
+　めぼしい物はもらっときますんで」
+> CONTEXT: Map007/events/121/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/121/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「いいんですか？
+　せっかくのお宝ですよ？」
+> CONTEXT: Map007/events/121/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map007/events/121/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「やっぱり気が変わりましたか？」
+> CONTEXT: Map007/events/121/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「あはは、馬鹿じゃないですか？
+　私があなたみたいな重たそうな人なんて
+　持ち上げれるわけ無いじゃないですか？」
+> CONTEXT: Map007/events/121/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「え、ええ！？
+　も、戻ってこれたんですか？
+　い、いやだなあ、アレはほんの冗談ですよ」
+> CONTEXT: Map007/events/121/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「ね、ほら、勘弁してくださいよ。
+　お詫びにいいものも差し上げますんで」
+> CONTEXT: Map007/events/121/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+許す
+> CONTEXT: Map007/events/121/pages/2/10/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+許さない
+> CONTEXT: Map007/events/121/pages/2/10/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「あはは、さ、さすが心が広いですね。
+　ほら、これを受け取ってください」
+> CONTEXT: Map007/events/121/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人が持っていた「一時の生身」を奪い使った。
+> CONTEXT: Map007/events/121/pages/2/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人を捨て置き
+その場を立ち去った。
+> CONTEXT: Map007/events/121/pages/2/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「あらためて、あたしは行商人のカミラというものです。
+　お詫びに今度、いい物を仕入れておきますんで
+　期待しておいてくださいよ」
+> CONTEXT: Map007/events/121/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING

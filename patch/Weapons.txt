@@ -1,0 +1,207 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+ショートソード
+> CONTEXT: Weapons/1/name/
+Short Sword
+> END STRING
+
+> BEGIN STRING
+軽く短い剣。威力は低いが行動が速くなる。
+> CONTEXT: Weapons/1/description/
+> CONTEXT: Weapons/2/description/
+> CONTEXT: Weapons/3/description/
+> CONTEXT: Weapons/4/description/
+A light short sword. Low attack power but allows for quick actions.
+> END STRING
+
+> BEGIN STRING
+ショートソード+１
+> CONTEXT: Weapons/2/name/
+Short Sword +1
+> END STRING
+
+> BEGIN STRING
+ショートソード+２
+> CONTEXT: Weapons/3/name/
+Short Sword +2
+> END STRING
+
+> BEGIN STRING
+ショートソード+３
+> CONTEXT: Weapons/4/name/
+Short Sword +3
+> END STRING
+
+> BEGIN STRING
+水銀のショートソード
+> CONTEXT: Weapons/5/name/
+Mercury Short Sword
+> END STRING
+
+> BEGIN STRING
+刃先に毒を焼き付けたショートソード。
+> CONTEXT: Weapons/5/description/
+A short sword coated in poison.
+> END STRING
+
+> BEGIN STRING
+ロングソード
+> CONTEXT: Weapons/6/name/
+Long Sword
+> END STRING
+
+> BEGIN STRING
+標準的な剣。
+> CONTEXT: Weapons/6/description/
+> CONTEXT: Weapons/7/description/
+> CONTEXT: Weapons/8/description/
+> CONTEXT: Weapons/9/description/
+Your standard sword.
+> END STRING
+
+> BEGIN STRING
+ロングソード+１
+> CONTEXT: Weapons/7/name/
+Long Sword +1
+> END STRING
+
+> BEGIN STRING
+ロングソード+２
+> CONTEXT: Weapons/8/name/
+Long Sword +2
+> END STRING
+
+> BEGIN STRING
+ロングソード+３
+> CONTEXT: Weapons/9/name/
+Long Sword +3
+> END STRING
+
+> BEGIN STRING
+炎のロングソード
+> CONTEXT: Weapons/10/name/
+Flamming Long Sword
+> END STRING
+
+> BEGIN STRING
+炎のソウルを宿したロングソード。
+> CONTEXT: Weapons/10/description/
+Long sword infused with a flamming soul.
+> END STRING
+
+> BEGIN STRING
+グレートソード
+> CONTEXT: Weapons/11/name/
+Great Sword
+> END STRING
+
+> BEGIN STRING
+重く長大な剣。威力は高いが行動は遅くなる。
+> CONTEXT: Weapons/11/description/
+> CONTEXT: Weapons/12/description/
+> CONTEXT: Weapons/13/description/
+> CONTEXT: Weapons/14/description/
+A very heavy sword. Has a lot of attack power but slows how many actions you can take.
+> END STRING
+
+> BEGIN STRING
+グレートソード+１
+> CONTEXT: Weapons/12/name/
+Great Sword +1
+> END STRING
+
+> BEGIN STRING
+グレートソード+２
+> CONTEXT: Weapons/13/name/
+Great Sword +2
+> END STRING
+
+> BEGIN STRING
+グレートソード+３
+> CONTEXT: Weapons/14/name/
+Great Sword +3
+> END STRING
+
+> BEGIN STRING
+雷のグレートソード
+> CONTEXT: Weapons/15/name/
+Great Sword of Lightning
+> END STRING
+
+> BEGIN STRING
+雷の力を宿したグレートソード。
+> CONTEXT: Weapons/15/description/
+A great sword with the power of lightning infused into it.
+> END STRING
+
+> BEGIN STRING
+折れた剣
+> CONTEXT: Weapons/16/name/
+Broken Sword
+> END STRING
+
+> BEGIN STRING
+完全に折れてしまった剣。何の役にも立たない。
+> CONTEXT: Weapons/16/description/
+Sword broken beyond repair. Not useful. 
+> END STRING
+
+> BEGIN STRING
+聖剣ナーゲルリング
+> CONTEXT: Weapons/17/name/
+Holy Sword of Nageruringu
+> END STRING
+
+> BEGIN STRING
+かつてこの国を建国したクレプスクルム一世が持っていたといわれる剣。
+> CONTEXT: Weapons/17/description/
+A sword that legends say was once held by the leader of this country.
+> END STRING
+
+> BEGIN STRING
+魔を討ちし者の剣
+> CONTEXT: Weapons/18/name/
+Demon Killer Sword
+> END STRING
+
+> BEGIN STRING
+古の悪魔を討ち取った者の剣。
+> CONTEXT: Weapons/18/description/
+A sword used long time ago to kill demons.
+> END STRING
+
+> BEGIN STRING
+アイアンナックル
+> CONTEXT: Weapons/19/name/
+Iron Knuckle
+> END STRING
+
+> BEGIN STRING
+鋼鉄の拳で殴る漢の武器。
+> CONTEXT: Weapons/19/description/
+Used on fists for fighting.
+> END STRING
+
+> BEGIN STRING
+ゴッドハンド
+> CONTEXT: Weapons/20/name/
+God Hand
+> END STRING
+
+> BEGIN STRING
+神速の拳を繰り出す、まさに神の手。
+> CONTEXT: Weapons/20/description/
+God's hand that draws out fist of rapidity exactly. 
+> END STRING
+
+> BEGIN STRING
+名も無き戦士の剣
+> CONTEXT: Weapons/21/name/
+Sword of the Nameless Warrior
+> END STRING
+
+> BEGIN STRING
+志半ばに倒れた名も無き戦士の剣。
+> CONTEXT: Weapons/21/description/
+Sword of warrior who doesn't have name that succumbs to will middle either. 
+> END STRING

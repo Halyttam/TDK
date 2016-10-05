@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+The Demon's Kingdom ～亡国の女達～ Ver1.1
+> CONTEXT: GameINI/Title
+> CONTEXT: System/game_title/
+The Demon's Kingdom ～Women of the Lost Kingdom～ Ver1.1
+> END STRING

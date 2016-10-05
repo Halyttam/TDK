@@ -1,0 +1,850 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+アーデルハイド
+「ああ、お前か・・・すまない、助かった・・・。
+　それにしても、こんなところでまた会うとはな・・・。
+　奇妙な縁だ・・・」
+> CONTEXT: Map018/events/9/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「私か？
+　私は・・・
+> CONTEXT: Map018/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「母に真意を糺すためにここまでやってきたが
+　全ては無意味なことだった・・・」
+> CONTEXT: Map018/events/9/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「もはやあれは母でもなんでもない。
+　ただのソウルに狂った化け物だ・・・」
+> CONTEXT: Map018/events/9/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「・・・頼む。
+　どうか母を・・・女王クラウディアを討ってくれ・・・。
+　私にはもう・・・何も出来ない・・・」
+> CONTEXT: Map018/events/9/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「・・・私なら大丈夫だ。
+　母を・・・頼む・・・」
+> CONTEXT: Map018/events/9/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+約束する
+> CONTEXT: Map018/events/9/pages/1/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「・・・・・・そうか。
+　ならば私も
+　その結果を聞くまでは、死ぬわけにはいかないな・・・」
+> CONTEXT: Map018/events/9/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+騎士を捨て置き、この場を後にした。
+> CONTEXT: Map018/events/9/pages/1/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「私は大丈夫だ。
+　もはやこの程度のやつらに遅れはとらん。
+　気にせず先に進んでくれ」
+> CONTEXT: Map018/events/9/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'A'
+> CONTEXT: Map018/events/10/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map018/events/10/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map018/events/10/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map018/events/11/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map018/events/11/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map018/events/11/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map018/events/23/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map018/events/23/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map018/events/23/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map018/events/24/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map018/events/24/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map018/events/24/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/58/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/58/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/58/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/59/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/59/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/59/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/60/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map014/events/60/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/60/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/61/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/61/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/61/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/62/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/62/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/62/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/63/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/63/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/63/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/64/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/64/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/64/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/107/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/66/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map014/events/107/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/66/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/107/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/66/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/108/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/67/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map014/events/108/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/67/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/108/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/67/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/68/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/68/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/113/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/68/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/113/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map016/events/83/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/69/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map016/events/83/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/113/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/69/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map016/events/83/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/114/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map016/events/84/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/78/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/69/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/114/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map016/events/84/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/78/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/70/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map014/events/114/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/78/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/70/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map013/events/7/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map016/events/84/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/85/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/70/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map013/events/7/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/115/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/85/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/71/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map013/events/7/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/85/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/115/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/71/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map014/events/115/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/71/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/116/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/72/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/116/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/72/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/116/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/72/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/117/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/73/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/109/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/109/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map014/events/117/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/109/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/73/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/109/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/109/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/73/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/117/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/109/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/118/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/74/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/110/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map014/events/118/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/74/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/110/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/110/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/118/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/74/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/110/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/110/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/75/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map014/events/119/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/111/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/224/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/110/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/111/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/75/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/224/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/119/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/111/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/75/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/111/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/112/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/224/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/119/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/112/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/76/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/111/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/112/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/76/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/250/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/113/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/111/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/120/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/113/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/76/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/250/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/113/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/120/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/77/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/114/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/250/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/118/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map014/events/120/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/114/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/77/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/251/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/118/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/114/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/77/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/122/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/251/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/115/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/78/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/118/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/122/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/115/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/78/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/251/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/119/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/115/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/78/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map014/events/122/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/252/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/116/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/119/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/79/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/116/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/252/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/123/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/119/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/116/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/79/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/252/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/117/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/120/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map014/events/123/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/117/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/79/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/253/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/120/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/117/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/80/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/253/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map014/events/123/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/118/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/80/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/120/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/118/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/80/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/253/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map015/events/118/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/121/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/119/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/81/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/254/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map015/events/119/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/81/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/121/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map015/events/119/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/81/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/254/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/82/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/121/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/82/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/254/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/122/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/82/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/122/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/83/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/268/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/17/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map017/events/83/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/122/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/17/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/268/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/83/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/123/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/17/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/268/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/84/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/123/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map017/events/84/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/269/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/123/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map017/events/84/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/269/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/124/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/35/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/269/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/35/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/124/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/35/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/270/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/41/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/124/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/41/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/270/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/41/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/125/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/270/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/43/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/125/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/43/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/271/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/125/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/43/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/271/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/19/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/44/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/271/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/126/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/44/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/272/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/19/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/44/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map007/events/16/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/272/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/126/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/45/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map007/events/16/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/272/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/19/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/45/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map007/events/16/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/273/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/126/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/45/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map007/events/17/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/46/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/273/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/127/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/46/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map007/events/17/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/273/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/46/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/127/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map007/events/17/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/274/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/47/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/127/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/47/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map007/events/18/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/274/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/47/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map007/events/18/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/274/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/128/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/48/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map007/events/18/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/275/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/48/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/275/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/128/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/48/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map007/events/19/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/275/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/50/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map007/events/19/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/128/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/50/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map007/events/19/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map011/events/276/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/50/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map007/events/20/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/129/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/51/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map007/events/20/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map011/events/276/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/51/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map007/events/20/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/129/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/51/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map007/events/21/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map011/events/276/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/52/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/129/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/52/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map007/events/21/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/52/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/130/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map007/events/21/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/54/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/130/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/54/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/130/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/54/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map007/events/95/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/55/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/131/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map007/events/95/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/55/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map007/events/95/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/131/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/55/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/131/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map009/events/81/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map009/events/81/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map009/events/81/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/142/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/142/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/142/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map012/events/143/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map012/events/143/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map012/events/143/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map005/events/8/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map005/events/8/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map005/events/8/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map007/events/123/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map007/events/123/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map007/events/123/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map007/events/124/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map007/events/124/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map007/events/124/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map003/events/10/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map003/events/10/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map003/events/10/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/135/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/135/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/135/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map005/events/10/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map005/events/10/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map005/events/10/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/206/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/206/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/206/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/207/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/207/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/207/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/208/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/208/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/208/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/7/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/7/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map005/events/21/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/7/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map005/events/21/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map005/events/21/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map005/events/22/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/223/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map005/events/22/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/223/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map005/events/22/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/223/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map005/events/23/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/224/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map005/events/23/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/224/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map005/events/23/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/224/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map005/events/24/pages/0/7/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/227/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map005/events/24/pages/0/19/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/227/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map005/events/24/pages/0/33/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map005/events/25/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/227/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map005/events/25/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map005/events/25/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/232/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/232/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/232/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/233/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/233/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/233/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/234/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/234/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/234/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map008/events/235/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map008/events/235/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map008/events/235/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map006/events/65/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map006/events/65/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Commonevents/16/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map006/events/65/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Commonevents/16/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Commonevents/16/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Map006/events/73/pages/0/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Map006/events/73/pages/0/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Map006/events/73/pages/0/32/InlineScript/10:29 < UNTRANSLATED
+> CONTEXT: Commonevents/31/6/InlineScript/9:37 < UNTRANSLATED
+> CONTEXT: Commonevents/31/18/InlineScript/11:29 < UNTRANSLATED
+> CONTEXT: Commonevents/31/32/InlineScript/10:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"障害物"
+> CONTEXT: Map018/events/10/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map018/events/11/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map018/events/23/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map018/events/24/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/58/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/59/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/60/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/61/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/62/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/63/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/64/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/107/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/66/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/108/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/67/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/68/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/113/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map016/events/83/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/69/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/114/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map016/events/84/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/78/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/70/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map013/events/7/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/85/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/115/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/71/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/116/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/72/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/117/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/109/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/73/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/109/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/118/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/74/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/110/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/110/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/111/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/75/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/224/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/119/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/112/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/111/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/76/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/113/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/250/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/120/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/114/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/77/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/118/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/251/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/122/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/115/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/78/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/119/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/116/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/252/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/79/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map014/events/123/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/117/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/120/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/253/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/80/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/118/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map015/events/119/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/81/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/121/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/254/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/82/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/122/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/83/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/17/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/268/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/123/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map017/events/84/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/269/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/35/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/124/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/41/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/270/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/125/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/43/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/271/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/44/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/19/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/272/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/126/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map007/events/16/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/45/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/273/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/46/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map007/events/17/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/127/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/47/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/274/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map007/events/18/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/48/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/275/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/128/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map007/events/19/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/50/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map007/events/20/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map011/events/276/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/51/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/129/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/52/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map007/events/21/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/130/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/54/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map007/events/95/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/55/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/131/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map009/events/81/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/142/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map012/events/143/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map005/events/8/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map007/events/123/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map007/events/124/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map003/events/10/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/135/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map005/events/10/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/206/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/207/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/208/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/7/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map005/events/21/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map005/events/22/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/223/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map005/events/23/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/224/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map005/events/24/pages/0/19/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/227/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map005/events/25/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/232/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/233/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/234/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map008/events/235/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map006/events/65/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Commonevents/16/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Map006/events/73/pages/0/18/InlineScript/10:27 < UNTRANSLATED
+> CONTEXT: Commonevents/31/18/InlineScript/10:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/dst ;iy=ev.y+dy*i/
+> CONTEXT: Map018/events/10/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map018/events/11/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map018/events/23/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map018/events/24/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/58/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/59/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/60/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/61/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/62/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/63/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/64/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/107/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/66/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/108/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/67/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/68/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/113/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map016/events/83/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/69/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/114/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/78/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map016/events/84/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/70/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map013/events/7/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/85/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/115/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/71/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map013/events/8/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/116/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/72/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/109/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/73/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/117/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/109/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/118/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/74/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/110/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/110/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/111/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/75/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/224/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/119/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/112/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/111/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/76/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/113/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/250/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/120/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/114/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/77/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/118/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/251/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/115/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/78/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/122/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/119/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/116/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/252/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/79/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/117/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map014/events/123/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/120/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/80/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/253/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/118/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map015/events/119/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/81/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/121/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/254/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/82/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/122/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/83/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/17/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/268/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/123/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map017/events/84/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/269/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/35/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/124/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/41/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/270/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/125/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/43/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/271/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/44/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/272/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/19/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map007/events/16/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/126/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/45/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/273/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/46/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map007/events/17/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/127/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/47/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/274/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map007/events/18/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/48/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/275/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/128/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map007/events/19/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/50/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map007/events/20/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/51/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map011/events/276/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/129/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/52/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map007/events/21/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/130/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/54/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map007/events/95/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/55/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/131/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map009/events/81/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/142/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map012/events/143/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map005/events/8/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map007/events/123/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map007/events/124/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map003/events/10/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/135/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map005/events/10/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/206/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/207/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/208/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/7/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map005/events/21/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map005/events/22/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/223/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map005/events/23/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/224/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map005/events/24/pages/0/33/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/227/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map005/events/25/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/232/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/233/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/234/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map008/events/235/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map006/events/65/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Commonevents/16/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Map006/events/73/pages/0/32/InlineScript/7:13 < UNTRANSLATED
+> CONTEXT: Commonevents/31/32/InlineScript/7:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「くっ、もはやここまでか・・・」
+> CONTEXT: Map018/events/20/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"玉座"
+> CONTEXT: Map018/events/22/pages/0/2/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"クイーンキラー"
+> CONTEXT: Map018/events/22/pages/0/10/InlineScript/1:8 < UNTRANSLATED
+> CONTEXT: Commonevents/190/54/InlineScript/1:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"女王を倒す"
+> CONTEXT: Map018/events/22/pages/0/10/InlineScript/1:19 < UNTRANSLATED
+> CONTEXT: Commonevents/190/54/InlineScript/1:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女王クラウディアを倒しました。
+これにより隠されていた石碑の一つが開放されました。
+この石版からも「朽ちた聖域」への転送が可能です。
+> CONTEXT: Map018/events/22/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING

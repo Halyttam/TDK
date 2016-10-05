@@ -1,0 +1,4758 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+
+        　　        　　　   YOU DIED
+> CONTEXT: Commonevents/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+         　　 　　           YOU DIED
+> CONTEXT: Commonevents/2/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+              　　　  　     YOU DIED
+> CONTEXT: Commonevents/2/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+             　　 　　 　    YOU DIED
+> CONTEXT: Commonevents/2/233/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　 　　　　　　　YOU REGAINED
+> CONTEXT: Commonevents/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生身に戻る
+> CONTEXT: Commonevents/7/42/Choice/0
+Back to the flesh-and-blood
+> END STRING
+
+> BEGIN STRING
+セーブする
+> CONTEXT: Commonevents/7/42/Choice/1
+> CONTEXT: Commonevents/7/84/Choice/0
+Save
+> END STRING
+
+> BEGIN STRING
+
+
+       　　                YOU REVIVIED
+> CONTEXT: Commonevents/7/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　　　人間性がありません
+> CONTEXT: Commonevents/7/70/Dialogue
+
+　　　　　　　　　　　There is no human nature
+> END STRING
+
+> BEGIN STRING
+セーブしない
+> CONTEXT: Commonevents/7/84/Choice/1
+Do not save
+> END STRING
+
+> BEGIN STRING
+
+          　　　　         YOU DIED
+> CONTEXT: Commonevents/10/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+断面図ON
+> CONTEXT: Commonevents/11/0/Choice/0
+Cross section ON
+> END STRING
+
+> BEGIN STRING
+断面図OFF
+> CONTEXT: Commonevents/11/0/Choice/1
+Cross section OFF
+> END STRING
+
+> BEGIN STRING
+H時のメッセージを消す
+> CONTEXT: Commonevents/12/0/Choice/0
+Turn off the message at the time of H
+> END STRING
+
+> BEGIN STRING
+H時のメッセージを表示する
+> CONTEXT: Commonevents/12/0/Choice/1
+To display a message at the time of H
+> END STRING
+
+> BEGIN STRING
+バトルスピードを選択してください。
+> CONTEXT: Commonevents/13/0/Dialogue
+Please select the battle speed. 
+> END STRING
+
+> BEGIN STRING
+H時のモードを選んでください。
+「睡姦モード」では倒した亡者を一時的に浄化し
+人間状態でのHが可能です。
+> CONTEXT: Commonevents/14/0/Dialogue
+Please choose the mode. 
+"[****] mode"Then, purify the dead who knocked it down temporarily. 
+It is possible to have sex the human condition. 
+> END STRING
+
+> BEGIN STRING
+通常モード
+> CONTEXT: Commonevents/14/4/Choice/0
+Normal mode
+> END STRING
+
+> BEGIN STRING
+睡姦モード
+> CONTEXT: Commonevents/14/4/Choice/1
+Nemukan mode
+> END STRING
+
+> BEGIN STRING
+"つわもの"
+> CONTEXT: Commonevents/15/2/InlineScript/1:8
+> CONTEXT: Commonevents/190/40/InlineScript/1:8
+"Strong man"
+> END STRING
+
+> BEGIN STRING
+"戦闘勝利数が１００回を超える"
+> CONTEXT: Commonevents/15/2/InlineScript/1:16
+> CONTEXT: Commonevents/190/40/InlineScript/1:16
+"The number of combat victory exceeds 100 times. "
+> END STRING
+
+> BEGIN STRING
+"初体験"
+> CONTEXT: Commonevents/15/11/InlineScript/1:8
+> CONTEXT: Commonevents/190/1/InlineScript/1:8
+"Initial experience"
+> END STRING
+
+> BEGIN STRING
+"初めて性交をする"
+> CONTEXT: Commonevents/15/11/InlineScript/1:15
+> CONTEXT: Commonevents/190/1/InlineScript/1:15
+"Have sexual intercourse for the first time. "
+> END STRING
+
+> BEGIN STRING
+"絶倫"
+> CONTEXT: Commonevents/15/19/InlineScript/1:8
+> CONTEXT: Commonevents/190/45/InlineScript/1:8
+"Unequaled"
+> END STRING
+
+> BEGIN STRING
+"性交回数が100回を超える"
+> CONTEXT: Commonevents/15/19/InlineScript/1:14
+> CONTEXT: Commonevents/190/45/InlineScript/1:14
+"The sexual intercourse frequency exceeds 100 times. "
+> END STRING
+
+> BEGIN STRING
+"折れない心"
+> CONTEXT: Commonevents/15/27/InlineScript/1:8
+> CONTEXT: Commonevents/190/19/InlineScript/1:8
+"Heart that doesn't break"
+> END STRING
+
+> BEGIN STRING
+"ソウルを10回、回収する"
+> CONTEXT: Commonevents/15/27/InlineScript/1:17
+> CONTEXT: Commonevents/190/19/InlineScript/1:17
+"Collect Saul ten times. "
+> END STRING
+
+> BEGIN STRING
+"純潔"
+> CONTEXT: Commonevents/15/36/InlineScript/1:8
+> CONTEXT: Commonevents/190/68/InlineScript/1:8
+"Purity"
+> END STRING
+
+> BEGIN STRING
+"一度も性交せずにクリアする"
+> CONTEXT: Commonevents/15/36/InlineScript/1:14
+> CONTEXT: Commonevents/190/68/InlineScript/1:14
+"Clear no having sexual intercourse. "
+> END STRING
+
+> BEGIN STRING
+"無敵"
+> CONTEXT: Commonevents/15/44/InlineScript/1:8
+> CONTEXT: Commonevents/190/76/InlineScript/1:8
+"Invincibility"
+> END STRING
+
+> BEGIN STRING
+"一度も死なずにクリアする"
+> CONTEXT: Commonevents/15/44/InlineScript/1:14
+> CONTEXT: Commonevents/190/76/InlineScript/1:14
+"Also clear without dying once"
+> END STRING
+
+> BEGIN STRING
+"救世主"
+> CONTEXT: Commonevents/15/60/InlineScript/1:8
+> CONTEXT: Commonevents/190/72/InlineScript/1:8
+"The saviour"
+> END STRING
+
+> BEGIN STRING
+"生存者を全員助ける"
+> CONTEXT: Commonevents/15/60/InlineScript/1:15
+> CONTEXT: Commonevents/190/72/InlineScript/1:15
+"All members must help the survivor. "
+> END STRING
+
+> BEGIN STRING
+"剣聖"
+> CONTEXT: Commonevents/15/88/InlineScript/1:8
+> CONTEXT: Commonevents/190/24/InlineScript/1:8
+"KenKiyoshi"
+> END STRING
+
+> BEGIN STRING
+"全ての剣を最大強化する"
+> CONTEXT: Commonevents/15/88/InlineScript/1:14
+> CONTEXT: Commonevents/190/24/InlineScript/1:14
+"All of the sword to maximum strengthening"
+> END STRING
+
+> BEGIN STRING
+"ハーレム"
+> CONTEXT: Commonevents/15/143/InlineScript/1:8
+> CONTEXT: Commonevents/190/15/InlineScript/1:8
+"Harem"
+> END STRING
+
+> BEGIN STRING
+"全員を攻略する"
+> CONTEXT: Commonevents/15/143/InlineScript/1:16
+> CONTEXT: Commonevents/190/15/InlineScript/1:16
+"Capture all members. "
+> END STRING
+
+> BEGIN STRING
+"最も強きソウル"
+> CONTEXT: Commonevents/15/246/InlineScript/1:8
+> CONTEXT: Commonevents/190/80/InlineScript/1:8
+"Strongest Saul"
+> END STRING
+
+> BEGIN STRING
+"トロフィーをコンプリート
+する"
+> CONTEXT: Commonevents/15/246/InlineScript/1:19
+> CONTEXT: Commonevents/190/80/InlineScript/1:19
+"The trophy is complete. 
+Do. "
+> END STRING
+
+> BEGIN STRING
+
+          　　　　　　         YOU DIED
+　　　　　※チュートリアルなのでペナルティはありません
+> CONTEXT: Commonevents/18/30/Dialogue
+
+          　　　　　　         YOU DIED
+　　　　　※ Since the tutorial there is no penalty
+> END STRING
+
+> BEGIN STRING
+生身でなければ何も出来ない・・・。
+> CONTEXT: Commonevents/21/22/Dialogue
+> CONTEXT: Commonevents/72/29/Dialogue
+> CONTEXT: Commonevents/74/29/Dialogue
+> CONTEXT: Commonevents/76/29/Dialogue
+> CONTEXT: Commonevents/78/29/Dialogue
+> CONTEXT: Commonevents/80/29/Dialogue
+> CONTEXT: Commonevents/82/29/Dialogue
+> CONTEXT: Commonevents/84/23/Dialogue
+> CONTEXT: Commonevents/86/29/Dialogue
+> CONTEXT: Commonevents/88/29/Dialogue
+> CONTEXT: Commonevents/91/22/Dialogue
+> CONTEXT: Commonevents/94/22/Dialogue
+> CONTEXT: Commonevents/97/22/Dialogue
+> CONTEXT: Commonevents/100/22/Dialogue
+> CONTEXT: Commonevents/103/22/Dialogue
+> CONTEXT: Commonevents/106/22/Dialogue
+> CONTEXT: Commonevents/109/22/Dialogue
+> CONTEXT: Commonevents/112/16/Dialogue
+> CONTEXT: Commonevents/115/22/Dialogue
+> CONTEXT: Commonevents/118/22/Dialogue
+> CONTEXT: Commonevents/121/22/Dialogue
+> CONTEXT: Commonevents/124/22/Dialogue
+> CONTEXT: Commonevents/127/22/Dialogue
+> CONTEXT: Commonevents/130/22/Dialogue
+> CONTEXT: Commonevents/133/22/Dialogue
+> CONTEXT: Commonevents/136/22/Dialogue
+> CONTEXT: Commonevents/139/22/Dialogue
+> CONTEXT: Commonevents/141/29/Dialogue
+> CONTEXT: Commonevents/144/22/Dialogue
+If it is not a living body, anything cannot be done. 
+> END STRING
+
+> BEGIN STRING
+"movie/01bz.wmv"
+> CONTEXT: Commonevents/23/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/24/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02bz.wmv"
+> CONTEXT: Commonevents/23/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/23/28/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/24/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/24/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03bz.wmv"
+> CONTEXT: Commonevents/23/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性器から精液が流れ出し、
+戦士の顔に何の感情も宿ることはなかった。
+> CONTEXT: Commonevents/23/50/Dialogue
+Semen effuses from genitals,
+Feelings did not stay in warrior's face either. 
+> END STRING
+
+> BEGIN STRING
+"movie/01baz.wmv"
+> CONTEXT: Commonevents/23/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物言わぬ戦士の肛門に
+深く陰茎を突き入れる。
+> CONTEXT: Commonevents/23/75/Dialogue
+> CONTEXT: Commonevents/23/200/Dialogue
+To warrior's with no words anus
+The penis can be deeply pierced in. 
+> END STRING
+
+> BEGIN STRING
+"movie/02baz.wmv"
+> CONTEXT: Commonevents/23/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/23/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03baz.wmv"
+> CONTEXT: Commonevents/23/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+肛門から精液が流れ出し、
+戦士の顔に何の感情も宿ることはなかった。
+> CONTEXT: Commonevents/23/109/Dialogue
+Semen effuses from the anus,
+Feelings did not stay in warrior's face either. 
+> END STRING
+
+> BEGIN STRING
+"movie/03b.wmv"
+> CONTEXT: Commonevents/23/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ba.wmv"
+> CONTEXT: Commonevents/23/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ba.wmv"
+> CONTEXT: Commonevents/23/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/23/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ba.wmv"
+> CONTEXT: Commonevents/23/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+肛門から精液が流れ出し、
+戦士のうつろな瞳はただ虚空を仰いでいた。
+> CONTEXT: Commonevents/23/234/Dialogue
+Semen effuses from the anus,
+The space of the warrior was nothing but looked up at empty looking. 
+> END STRING
+
+> BEGIN STRING
+体験版ではここまでです。
+続きは製品版でお楽しみください。
+> CONTEXT: Commonevents/24/45/Dialogue
+> CONTEXT: Commonevents/24/108/Dialogue
+Here in the trial version. 
+Please enjoy continuing in the commercial release. 
+> END STRING
+
+> BEGIN STRING
+体験版では選択できません。
+続きは製品版でお楽しみください。
+> CONTEXT: Commonevents/24/55/Dialogue
+> CONTEXT: Commonevents/24/118/Dialogue
+It is not possible to select it in the trial version. 
+Please enjoy continuing in the commercial release. 
+> END STRING
+
+> BEGIN STRING
+"入手！"
+> CONTEXT: Commonevents/27/1/InlineScript/6:8
+> CONTEXT: Commonevents/28/1/InlineScript/6:8
+> CONTEXT: Commonevents/29/1/InlineScript/6:8
+> CONTEXT: Commonevents/30/1/InlineScript/6:8
+> CONTEXT: Commonevents/152/1/InlineScript/6:8
+> CONTEXT: Commonevents/153/1/InlineScript/6:8
+> CONTEXT: Commonevents/154/1/InlineScript/6:8
+> CONTEXT: Commonevents/155/1/InlineScript/6:8
+"Obtained!"
+> END STRING
+
+> BEGIN STRING
+"movie/01zz.wmv"
+> CONTEXT: Commonevents/32/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暴れださぬよう縛り付けた鍛冶屋の小さな性器に
+容赦なく陰茎を突き入れる。
+> CONTEXT: Commonevents/32/16/Dialogue
+> CONTEXT: Commonevents/32/141/Dialogue
+To small genitals of the blacksmith who bound so as not to enrage
+The penis can be pierced in without mercy. 
+> END STRING
+
+> BEGIN STRING
+"movie/02zz.wmv"
+> CONTEXT: Commonevents/32/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/32/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狭いその穴に何度も挿入を繰り返し
+その中に精液を流し込む。
+> CONTEXT: Commonevents/32/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/32/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/32/162/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/32/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03zz.wmv"
+> CONTEXT: Commonevents/32/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性器から精液が流れ出すが
+もはや少女は何も感じることは無いだろう。
+> CONTEXT: Commonevents/32/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/32/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01zaz.wmv"
+> CONTEXT: Commonevents/32/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暴れださぬよう縛り付けた鍛冶屋の小さな肛門に
+容赦なく陰茎を突き入れる。
+> CONTEXT: Commonevents/32/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/32/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02zaz.wmv"
+> CONTEXT: Commonevents/32/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/32/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03zaz.wmv"
+> CONTEXT: Commonevents/32/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+肛門から精液が流れ出すが
+もはや少女は何も感じることは無いだろう。
+> CONTEXT: Commonevents/32/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/32/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01z.wmv"
+> CONTEXT: Commonevents/32/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02z.wmv"
+> CONTEXT: Commonevents/32/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/32/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03z.wmv"
+> CONTEXT: Commonevents/32/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01za.wmv"
+> CONTEXT: Commonevents/32/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02za.wmv"
+> CONTEXT: Commonevents/32/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/32/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03za.wmv"
+> CONTEXT: Commonevents/32/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01az.wmv"
+> CONTEXT: Commonevents/33/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+巨体を横たわせるアラクニドの体にまたがり
+その性器に陰茎を挿入する。
+> CONTEXT: Commonevents/33/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/33/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02az.wmv"
+> CONTEXT: Commonevents/33/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/33/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その巨体に見合わぬ小さく締まる性器に
+何度も陰茎を突き入れ、射精する。
+> CONTEXT: Commonevents/33/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/33/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03az.wmv"
+> CONTEXT: Commonevents/33/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性器から流れ出た精液が
+その赤黒い体に流れ落ちていった。
+> CONTEXT: Commonevents/33/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/33/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01a.wmv"
+> CONTEXT: Commonevents/33/78/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02a.wmv"
+> CONTEXT: Commonevents/33/89/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/33/95/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03a.wmv"
+> CONTEXT: Commonevents/33/110/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ddz.wmv"
+> CONTEXT: Commonevents/34/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+正気を失った女を縛り上げ
+その性器に陰茎を挿入する。
+> CONTEXT: Commonevents/34/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/34/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ddz.wmv"
+> CONTEXT: Commonevents/34/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/34/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の中へと何度も挿入を繰り返し
+その子宮内に精子を流し込む。
+> CONTEXT: Commonevents/34/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/34/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ddz.wmv"
+> CONTEXT: Commonevents/34/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性器から流れ出た精子は
+土の中へと沈んでいった。
+> CONTEXT: Commonevents/34/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/34/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ddaz.wmv"
+> CONTEXT: Commonevents/34/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+正気を失った女を縛り上げ
+その肛門に陰茎を挿入する。
+> CONTEXT: Commonevents/34/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/34/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ddaz.wmv"
+> CONTEXT: Commonevents/34/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/34/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女の中へと何度も挿入を繰り返し
+その直腸内に精子を流し込む。
+> CONTEXT: Commonevents/34/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/34/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ddaz.wmv"
+> CONTEXT: Commonevents/34/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+肛門から流れ出た精子は
+土の中へと沈んでいった。
+> CONTEXT: Commonevents/34/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/34/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dd.wmv"
+> CONTEXT: Commonevents/34/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dd.wmv"
+> CONTEXT: Commonevents/34/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/34/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dd.wmv"
+> CONTEXT: Commonevents/34/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dda.wmv"
+> CONTEXT: Commonevents/34/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dda.wmv"
+> CONTEXT: Commonevents/34/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/34/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dda.wmv"
+> CONTEXT: Commonevents/34/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01djz.wmv"
+> CONTEXT: Commonevents/35/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者と成り果ててなおその熟れた肉体に
+欲望のまま陰茎を突き入れる。
+> CONTEXT: Commonevents/35/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/141/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02djz.wmv"
+> CONTEXT: Commonevents/35/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/35/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+繰り返し挿入を続け
+やがて、その子宮の奥へと精液を流し込む。
+> CONTEXT: Commonevents/35/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03djz.wmv"
+> CONTEXT: Commonevents/35/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あふれ出た精液は
+その体に滴っていった。
+> CONTEXT: Commonevents/35/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/175/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01djaz.wmv"
+> CONTEXT: Commonevents/35/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02djaz.wmv"
+> CONTEXT: Commonevents/35/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/35/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+繰り返し挿入を続け
+やがて、その尻の奥へと精液を流し込む。
+> CONTEXT: Commonevents/35/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/35/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03djaz.wmv"
+> CONTEXT: Commonevents/35/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dj.wmv"
+> CONTEXT: Commonevents/35/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dj.wmv"
+> CONTEXT: Commonevents/35/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/35/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dj.wmv"
+> CONTEXT: Commonevents/35/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dja.wmv"
+> CONTEXT: Commonevents/35/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dja.wmv"
+> CONTEXT: Commonevents/35/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/35/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dja.wmv"
+> CONTEXT: Commonevents/35/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01doz.wmv"
+> CONTEXT: Commonevents/36/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異形の姿をしたその娘の性器に
+ただ欲望のまま、陰茎を突き入れる。
+> CONTEXT: Commonevents/36/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02doz.wmv"
+> CONTEXT: Commonevents/36/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/36/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人の子と変わらぬ締め付けを持つその膣に
+精子を注ぎ込む。
+> CONTEXT: Commonevents/36/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03doz.wmv"
+> CONTEXT: Commonevents/36/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただ欲望を満たすためだけに吐き出された精液は
+むなしく流れ落ちていった。
+> CONTEXT: Commonevents/36/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/175/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01doaz.wmv"
+> CONTEXT: Commonevents/36/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異形の姿をしたその娘の肛門に
+ただ欲望のまま、陰茎を突き入れる。
+> CONTEXT: Commonevents/36/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02doaz.wmv"
+> CONTEXT: Commonevents/36/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/36/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人の子と変わらぬ締め付けを持つその直腸に
+精子を注ぎ込む。
+> CONTEXT: Commonevents/36/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/36/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03doaz.wmv"
+> CONTEXT: Commonevents/36/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01do.wmv"
+> CONTEXT: Commonevents/36/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02do.wmv"
+> CONTEXT: Commonevents/36/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/36/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03do.wmv"
+> CONTEXT: Commonevents/36/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01doa.wmv"
+> CONTEXT: Commonevents/36/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02doa.wmv"
+> CONTEXT: Commonevents/36/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/36/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03doa.wmv"
+> CONTEXT: Commonevents/36/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dsz.wmv"
+> CONTEXT: Commonevents/37/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや歩く屍とかした少女の性器に
+強引に陰茎を差し込む。
+> CONTEXT: Commonevents/37/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/37/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dsz.wmv"
+> CONTEXT: Commonevents/37/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/37/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その小さな子宮の奥へと陰茎をつき入れ
+奥深くに精液を流し込む。
+> CONTEXT: Commonevents/37/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/37/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dsz.wmv"
+> CONTEXT: Commonevents/37/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女の子宮から流れ出た精子は
+その体を伝い地面へと落ちていった。
+> CONTEXT: Commonevents/37/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/37/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dsaz.wmv"
+> CONTEXT: Commonevents/37/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや歩く屍とかした少女の肛門に
+強引に陰茎を差し込む。
+> CONTEXT: Commonevents/37/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/37/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dsaz.wmv"
+> CONTEXT: Commonevents/37/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/37/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その小さな直腸の奥へと陰茎をつき入れ
+奥深くに精液を流し込む。
+> CONTEXT: Commonevents/37/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/37/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dsaz.wmv"
+> CONTEXT: Commonevents/37/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女の直腸から流れ出た精子は
+その体を伝い地面へと落ちていった。
+> CONTEXT: Commonevents/37/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/37/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ds.wmv"
+> CONTEXT: Commonevents/37/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ds.wmv"
+> CONTEXT: Commonevents/37/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/37/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ds.wmv"
+> CONTEXT: Commonevents/37/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dsa.wmv"
+> CONTEXT: Commonevents/37/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dsa.wmv"
+> CONTEXT: Commonevents/37/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/37/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dsa.wmv"
+> CONTEXT: Commonevents/37/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dtz.wmv"
+> CONTEXT: Commonevents/38/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+縛り上げた少女の小さな性器に
+不釣合いな大きさの陰茎を挿入する。
+> CONTEXT: Commonevents/38/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/38/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dtz.wmv"
+> CONTEXT: Commonevents/38/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/38/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物言わぬ少女の子宮に
+本能の赴くままに精液を流しいれる。
+> CONTEXT: Commonevents/38/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/38/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dtz.wmv"
+> CONTEXT: Commonevents/38/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女の子宮が受け入れきれなかった精子が
+少女の中からあふれ出ていた。
+> CONTEXT: Commonevents/38/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/38/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dtaz.wmv"
+> CONTEXT: Commonevents/38/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+縛り上げた少女の小さな肛門に
+不釣合いな大きさの陰茎を挿入する。
+> CONTEXT: Commonevents/38/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/38/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dtaz.wmv"
+> CONTEXT: Commonevents/38/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/38/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物言わぬ少女の直腸に
+本能の赴くままに精液を流しいれる。
+> CONTEXT: Commonevents/38/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/38/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dtaz.wmv"
+> CONTEXT: Commonevents/38/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女の直腸に入りきれなかった精子が
+少女の中からあふれ出ていた。
+> CONTEXT: Commonevents/38/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/38/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dt.wmv"
+> CONTEXT: Commonevents/38/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dt.wmv"
+> CONTEXT: Commonevents/38/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/38/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dt.wmv"
+> CONTEXT: Commonevents/38/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dta.wmv"
+> CONTEXT: Commonevents/38/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dta.wmv"
+> CONTEXT: Commonevents/38/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/38/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dta.wmv"
+> CONTEXT: Commonevents/38/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dy.wmv"
+> CONTEXT: Commonevents/39/10/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+首の無い異様な風体をしてはいるが
+穴さえあれば問題は無い。
+> CONTEXT: Commonevents/39/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/39/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dy.wmv"
+> CONTEXT: Commonevents/39/21/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/39/27/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鎧に包まれたその肉体の奥深くに
+精子を流し込む。
+> CONTEXT: Commonevents/39/36/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/39/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dy.wmv"
+> CONTEXT: Commonevents/39/42/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あふれ出た精子が
+冷たく光る鎧に垂れていった。
+> CONTEXT: Commonevents/39/49/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/39/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01dya.wmv"
+> CONTEXT: Commonevents/39/69/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02dya.wmv"
+> CONTEXT: Commonevents/39/80/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/39/86/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03dya.wmv"
+> CONTEXT: Commonevents/39/101/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01gz.wmv"
+> CONTEXT: Commonevents/40/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴーレムの核として、まるで物のように扱われていた少女を
+さらにまた、性処理の道具として使う。
+> CONTEXT: Commonevents/40/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/40/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/40/141/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/40/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02gz.wmv"
+> CONTEXT: Commonevents/40/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/40/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんの反応も示さない少女の中に
+欲望のまま、精液を吐き出す。
+> CONTEXT: Commonevents/40/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/40/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/40/162/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/40/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03gz.wmv"
+> CONTEXT: Commonevents/40/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+体内から流れ出た精液はすぐに冷たくなり
+そのまま地面へ染みていった。
+> CONTEXT: Commonevents/40/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/40/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/40/175/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/40/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01gaz.wmv"
+> CONTEXT: Commonevents/40/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02gaz.wmv"
+> CONTEXT: Commonevents/40/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/40/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03gaz.wmv"
+> CONTEXT: Commonevents/40/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01g.wmv"
+> CONTEXT: Commonevents/40/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02g.wmv"
+> CONTEXT: Commonevents/40/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/40/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03g.wmv"
+> CONTEXT: Commonevents/40/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ga.wmv"
+> CONTEXT: Commonevents/40/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ga.wmv"
+> CONTEXT: Commonevents/40/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/40/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ga.wmv"
+> CONTEXT: Commonevents/40/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01hz.wmv"
+> CONTEXT: Commonevents/41/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女の姿をした何かの性器に
+無造作に陰茎を挿入する。
+> CONTEXT: Commonevents/41/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/41/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02hz.wmv"
+> CONTEXT: Commonevents/41/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/41/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その矮躯な体の奥深くへと
+精液を注ぐ。
+> CONTEXT: Commonevents/41/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/41/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/41/162/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/41/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03hz.wmv"
+> CONTEXT: Commonevents/41/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その小さな子宮に入りきらなかった精液が
+草むらへと流れ落ちていった。
+> CONTEXT: Commonevents/41/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/41/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01haz.wmv"
+> CONTEXT: Commonevents/41/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女の姿をした何かの肛門に
+無造作に陰茎を挿入する。
+> CONTEXT: Commonevents/41/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/41/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02haz.wmv"
+> CONTEXT: Commonevents/41/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/41/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03haz.wmv"
+> CONTEXT: Commonevents/41/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その小さな直腸に入りきらなかった精液が
+草むらへと流れ落ちていった。
+> CONTEXT: Commonevents/41/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/41/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01h.wmv"
+> CONTEXT: Commonevents/41/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02h.wmv"
+> CONTEXT: Commonevents/41/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/41/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03h.wmv"
+> CONTEXT: Commonevents/41/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ha.wmv"
+> CONTEXT: Commonevents/41/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ha.wmv"
+> CONTEXT: Commonevents/41/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/41/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ha.wmv"
+> CONTEXT: Commonevents/41/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01kz.wmv"
+> CONTEXT: Commonevents/42/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや知性を感じさせることの無い賢者を
+罪人の様に縛り上げ犯す。
+> CONTEXT: Commonevents/42/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/42/76/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/42/142/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/42/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02kz.wmv"
+> CONTEXT: Commonevents/42/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/42/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生前それほど使われていなかったのか
+膣は程よく陰茎を締め付け
+そのまま、中へと射精する。
+> CONTEXT: Commonevents/42/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/42/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03kz.wmv"
+> CONTEXT: Commonevents/42/44/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淫猥な穴から流れ出た精子は
+硬い石畳に染みていった。
+> CONTEXT: Commonevents/42/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/42/110/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/42/177/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/42/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01kaz.wmv"
+> CONTEXT: Commonevents/42/71/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02kaz.wmv"
+> CONTEXT: Commonevents/42/82/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/42/88/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者の肛門は程よく陰茎を締め付け
+そのまま、中へと射精する。
+> CONTEXT: Commonevents/42/97/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/42/223/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03kaz.wmv"
+> CONTEXT: Commonevents/42/103/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01k.wmv"
+> CONTEXT: Commonevents/42/137/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02k.wmv"
+> CONTEXT: Commonevents/42/148/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/42/154/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03k.wmv"
+> CONTEXT: Commonevents/42/170/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ka.wmv"
+> CONTEXT: Commonevents/42/197/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ka.wmv"
+> CONTEXT: Commonevents/42/208/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/42/214/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ka.wmv"
+> CONTEXT: Commonevents/42/229/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01kbz.wmv"
+> CONTEXT: Commonevents/43/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪魔といえど人の形をしているのなら
+そこには当然、穴があり
+人の陰茎を受け入れ、その奥へと飲み込んでいく。
+> CONTEXT: Commonevents/43/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/43/77/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/43/145/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/43/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02kbz.wmv"
+> CONTEXT: Commonevents/43/23/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/43/29/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪魔の膣は
+意識を失っていようとも、まるで意志を持つかのようにうねり
+快楽の絶頂へと導く。
+> CONTEXT: Commonevents/43/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/43/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03kbz.wmv"
+> CONTEXT: Commonevents/43/45/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古き悪魔の子宮に
+人の精子が流し込まれた。
+> CONTEXT: Commonevents/43/52/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/43/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01kbaz.wmv"
+> CONTEXT: Commonevents/43/72/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02kbaz.wmv"
+> CONTEXT: Commonevents/43/84/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/43/90/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+悪魔の直腸は、まるではじめからそこで受け入れるものだったかのように
+意識を失っていようとも、意志を持つかのようにうねり
+快楽の絶頂へと導く。
+> CONTEXT: Commonevents/43/99/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/43/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03kbaz.wmv"
+> CONTEXT: Commonevents/43/106/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+古き悪魔の中に
+人の精子が流し込まれた。
+> CONTEXT: Commonevents/43/113/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/43/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01kb.wmv"
+> CONTEXT: Commonevents/43/140/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02kb.wmv"
+> CONTEXT: Commonevents/43/152/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/43/158/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03kb.wmv"
+> CONTEXT: Commonevents/43/174/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01kba.wmv"
+> CONTEXT: Commonevents/43/201/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02kba.wmv"
+> CONTEXT: Commonevents/43/213/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/43/219/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03kba.wmv"
+> CONTEXT: Commonevents/43/235/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01kiz.wmv"
+> CONTEXT: Commonevents/44/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鍛えられた肉体も、もはや意味を成さず
+ただ肉の塊として扱われる。
+> CONTEXT: Commonevents/44/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/44/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/44/141/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/44/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02kiz.wmv"
+> CONTEXT: Commonevents/44/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/44/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+引き締まった筋肉は今もなお陰茎を締め付け
+その子宮に精液が注がれる。
+> CONTEXT: Commonevents/44/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/44/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03kiz.wmv"
+> CONTEXT: Commonevents/44/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あふれ出た精液は
+荒れ果てた城の床へただ流れていった。
+> CONTEXT: Commonevents/44/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/44/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/44/175/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/44/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01kiaz.wmv"
+> CONTEXT: Commonevents/44/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02kiaz.wmv"
+> CONTEXT: Commonevents/44/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/44/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+引き締まった筋肉は今もなお陰茎を締め付け
+その直腸に精液が注がれる。
+> CONTEXT: Commonevents/44/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/44/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03kiaz.wmv"
+> CONTEXT: Commonevents/44/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ki.wmv"
+> CONTEXT: Commonevents/44/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ki.wmv"
+> CONTEXT: Commonevents/44/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/44/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ki.wmv"
+> CONTEXT: Commonevents/44/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01kia.wmv"
+> CONTEXT: Commonevents/44/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02kia.wmv"
+> CONTEXT: Commonevents/44/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/44/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03kia.wmv"
+> CONTEXT: Commonevents/44/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01koz.wmv"
+> CONTEXT: Commonevents/45/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+正気を失い、亡者と化した少女を
+手足を縛り、まるで獣のように犯す。
+> CONTEXT: Commonevents/45/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/45/76/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/45/143/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/45/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02koz.wmv"
+> CONTEXT: Commonevents/45/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/45/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだまだ未熟な性器だが
+もはや何の遠慮の必要も無く
+ただ挿入を繰り返し、そのまま小さな子宮へ精液を流しいれる。
+> CONTEXT: Commonevents/45/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/45/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03koz.wmv"
+> CONTEXT: Commonevents/45/44/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+穢れ犯された少女の性器からは
+ただ精子が流れ落ち、むなしく床へ染みていった。
+> CONTEXT: Commonevents/45/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/45/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01koaz.wmv"
+> CONTEXT: Commonevents/45/71/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02koaz.wmv"
+> CONTEXT: Commonevents/45/82/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/45/88/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小さな狭い肛門だが
+もはや何の遠慮の必要も無く
+ただ挿入を繰り返し、そのまま直腸へ精液を流しいれる。
+> CONTEXT: Commonevents/45/97/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/45/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03koaz.wmv"
+> CONTEXT: Commonevents/45/104/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+穢れ犯された少女の肛門からは
+ただ精子が流れ落ち、むなしく床へ染みていった。
+> CONTEXT: Commonevents/45/111/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/45/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ko.wmv"
+> CONTEXT: Commonevents/45/138/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ko.wmv"
+> CONTEXT: Commonevents/45/149/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/45/155/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ko.wmv"
+> CONTEXT: Commonevents/45/171/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01koa.wmv"
+> CONTEXT: Commonevents/45/198/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02koa.wmv"
+> CONTEXT: Commonevents/45/209/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/45/215/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03koa.wmv"
+> CONTEXT: Commonevents/45/231/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01kog.wmv"
+> CONTEXT: Commonevents/46/10/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「いっ！？
+　ひぎいぃぃぃぃぃぃ！！？」
+> CONTEXT: Commonevents/46/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/46/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+縛り上げられ、逃げることの出来ない少女は
+男の陰茎をその小さな性器に差し込まれ
+口を縛られてもなお、悲鳴をあげる。
+> CONTEXT: Commonevents/46/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02kog.wmv"
+> CONTEXT: Commonevents/46/26/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/46/32/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「う・・・！
+　ぐう・・・！！
+　ひぃ・・・・・・！？」
+> CONTEXT: Commonevents/46/41/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/46/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乱暴に、そして執拗に
+その未熟な性器を嬲られ
+少女はひたすら痛みをこらえるしかすべは無い。
+> CONTEXT: Commonevents/46/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03kog.wmv"
+> CONTEXT: Commonevents/46/53/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女
+「あぅ・・・！
+　う・・・・・・・・・ぐ・・・」
+> CONTEXT: Commonevents/46/60/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/46/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+痛みに耐え切れなかったのか
+少女はその中に精液を注がれると同時に気を失い
+もはやその瞳の焦点は合っていなかった。
+> CONTEXT: Commonevents/46/64/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/46/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01koag.wmv"
+> CONTEXT: Commonevents/46/85/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+縛り上げられ、逃げることの出来ない少女は
+男の陰茎をその小さな肛門に差し込まれ
+口を縛られてもなお、悲鳴をあげる。
+> CONTEXT: Commonevents/46/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02koag.wmv"
+> CONTEXT: Commonevents/46/101/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/46/107/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乱暴に、そして執拗に
+その狭い肛門を嬲られ
+少女はひたすら痛みをこらえるしかすべは無い。
+> CONTEXT: Commonevents/46/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03koag.wmv"
+> CONTEXT: Commonevents/46/128/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01mz.wmv"
+> CONTEXT: Commonevents/47/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暴れださぬよう両手と片足を縛り、吊るし上げる。
+生前の面影は失われた今もなお
+その熟れた肉体は十分な魅力を持ち
+熱くたぎる陰茎を、その性器に突き入れる。
+> CONTEXT: Commonevents/47/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/47/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02mz.wmv"
+> CONTEXT: Commonevents/47/24/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/47/30/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年の割りに締まるその膣の中に
+生暖かい精液を流し込む。
+> CONTEXT: Commonevents/47/39/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/47/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03mz.wmv"
+> CONTEXT: Commonevents/47/45/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大きく開かれた股間から流れ出る精液は
+その足を伝い、垂れ落ちていった。
+> CONTEXT: Commonevents/47/52/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/47/113/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/47/181/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/47/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01maz.wmv"
+> CONTEXT: Commonevents/47/72/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暴れださぬよう両手と片足を縛り、吊るし上げる。
+生前の面影は失われた今もなお
+その熟れた肉体は十分な魅力を持ち
+熱くたぎる陰茎を、その肛門に突き入れる。
+> CONTEXT: Commonevents/47/77/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/47/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02maz.wmv"
+> CONTEXT: Commonevents/47/85/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/47/91/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+豊満な尻の間のその肛門の中に
+生暖かい精液を流し込む。
+> CONTEXT: Commonevents/47/100/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/47/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03maz.wmv"
+> CONTEXT: Commonevents/47/106/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01m.wmv"
+> CONTEXT: Commonevents/47/140/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02m.wmv"
+> CONTEXT: Commonevents/47/153/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/47/159/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03m.wmv"
+> CONTEXT: Commonevents/47/174/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ma.wmv"
+> CONTEXT: Commonevents/47/201/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ma.wmv"
+> CONTEXT: Commonevents/47/214/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/47/220/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ma.wmv"
+> CONTEXT: Commonevents/47/235/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01mg.wmv"
+> CONTEXT: Commonevents/48/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「き、貴様、やめぬか！
+　このようなことをしている場合ではないであろう！？」
+> CONTEXT: Commonevents/48/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02mg.wmv"
+> CONTEXT: Commonevents/48/23/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/48/29/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「ええい！
+　さっさとやめろと言うておろう！
+　この痴れ者が！！」
+> CONTEXT: Commonevents/48/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/48/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03mg.wmv"
+> CONTEXT: Commonevents/48/46/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「っく・・・・・・。
+　気がすんだであろう・・・。
+　さっさと放さぬか・・・」
+> CONTEXT: Commonevents/48/53/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/48/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01mag.wmv"
+> CONTEXT: Commonevents/48/76/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「き、貴様、やめぬか！
+　このようなことをしている場合ではないであろう！？
+ 　しかも、尻になどと何を考えておる！」
+> CONTEXT: Commonevents/48/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02mag.wmv"
+> CONTEXT: Commonevents/48/89/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/48/95/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03mag.wmv"
+> CONTEXT: Commonevents/48/112/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01mw.wmv"
+> CONTEXT: Commonevents/49/8/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「このような老いぼれの体を欲するとは
+　おぬしも変わり者よのう・・・」
+> CONTEXT: Commonevents/49/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02mw.wmv"
+> CONTEXT: Commonevents/49/20/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/49/26/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「どうだ？　気持ちよいのか？
+　なら、遠慮することは無い。
+　そのまま中に出すがよい」
+> CONTEXT: Commonevents/49/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03mw.wmv"
+> CONTEXT: Commonevents/49/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「ふふ、
+　このようなことをしたのはいつよりか・・・。
+　こんな体でも満足できたのなら何よりだ」
+> CONTEXT: Commonevents/49/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01mez.wmv"
+> CONTEXT: Commonevents/50/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや誰にも使われぬであろうその体を縛り上げ
+名残惜しむかのように犯す。
+> CONTEXT: Commonevents/50/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/141/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02mez.wmv"
+> CONTEXT: Commonevents/50/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/50/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生きながらえることのかなわなかった少女の子宮に
+熱い精子を注ぐ。
+> CONTEXT: Commonevents/50/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03mez.wmv"
+> CONTEXT: Commonevents/50/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生暖かい精液が流れ出て
+冷たく固い床に零れ落ちていった。
+> CONTEXT: Commonevents/50/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/175/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01meaz.wmv"
+> CONTEXT: Commonevents/50/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02meaz.wmv"
+> CONTEXT: Commonevents/50/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/50/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生きながらえることのかなわなかった少女の直腸に
+熱い精子を注ぐ。
+> CONTEXT: Commonevents/50/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/50/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03meaz.wmv"
+> CONTEXT: Commonevents/50/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01me.wmv"
+> CONTEXT: Commonevents/50/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02me.wmv"
+> CONTEXT: Commonevents/50/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/50/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03me.wmv"
+> CONTEXT: Commonevents/50/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01mea.wmv"
+> CONTEXT: Commonevents/50/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02mea.wmv"
+> CONTEXT: Commonevents/50/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/50/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03mea.wmv"
+> CONTEXT: Commonevents/50/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01miz.wmv"
+> CONTEXT: Commonevents/51/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神に仕えていたであろうその少女の性器に
+容赦なく陰茎を突き刺す。
+> CONTEXT: Commonevents/51/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/51/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02miz.wmv"
+> CONTEXT: Commonevents/51/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/51/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+なんら報われることの無かった少女の中に
+本能に従い精子を注ぐ。
+> CONTEXT: Commonevents/51/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/51/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/51/162/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/51/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03miz.wmv"
+> CONTEXT: Commonevents/51/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性欲のままに吐き出された精子は
+少女の中よりあふれ出て、床をわずかに濡らしていった。
+> CONTEXT: Commonevents/51/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/51/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/51/175/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/51/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01miaz.wmv"
+> CONTEXT: Commonevents/51/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神に仕えていたであろうその少女の肛門に
+容赦なく陰茎を突き刺す。
+> CONTEXT: Commonevents/51/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/51/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02miaz.wmv"
+> CONTEXT: Commonevents/51/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/51/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03miaz.wmv"
+> CONTEXT: Commonevents/51/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01mi.wmv"
+> CONTEXT: Commonevents/51/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02mi.wmv"
+> CONTEXT: Commonevents/51/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/51/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03mi.wmv"
+> CONTEXT: Commonevents/51/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01mia.wmv"
+> CONTEXT: Commonevents/51/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02mia.wmv"
+> CONTEXT: Commonevents/51/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/51/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03mia.wmv"
+> CONTEXT: Commonevents/51/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01n.wmv"
+> CONTEXT: Commonevents/52/10/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かつて嬲られたあげく
+その亡骸を人形へと変えられた少女の性器に
+陰茎を突き入れる。
+> CONTEXT: Commonevents/52/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02n.wmv"
+> CONTEXT: Commonevents/52/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/52/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや意味を成さないその子宮に
+精液を注ぎ込む。
+> CONTEXT: Commonevents/52/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03n.wmv"
+> CONTEXT: Commonevents/52/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+空虚な人形から流れ出た精子が
+ただただ床へと広がっていった。
+> CONTEXT: Commonevents/52/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/52/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01na.wmv"
+> CONTEXT: Commonevents/52/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かつて嬲られたあげく
+その亡骸を人形へと変えられた少女の肛門に
+陰茎を突き入れる。
+> CONTEXT: Commonevents/52/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02na.wmv"
+> CONTEXT: Commonevents/52/82/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/52/88/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや意味を成さないその直腸に
+精液を注ぎ込む。
+> CONTEXT: Commonevents/52/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03na.wmv"
+> CONTEXT: Commonevents/52/103/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pz.wmv"
+> CONTEXT: Commonevents/53/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者へと身を窶したかつての騎士を縛り上げ
+その性器に陰茎を突き入れる。
+> CONTEXT: Commonevents/53/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pz.wmv"
+> CONTEXT: Commonevents/53/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/53/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや意志も誇りも失った騎士は
+ただ犯され
+その子宮に精液を注がれる。
+> CONTEXT: Commonevents/53/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pz.wmv"
+> CONTEXT: Commonevents/53/44/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+犯され、穢されようとも
+騎士はなんの反応も示さず
+ただその股間から精液を垂れ流していた。
+> CONTEXT: Commonevents/53/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/112/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/180/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01paz.wmv"
+> CONTEXT: Commonevents/53/72/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者へと身を窶したかつての騎士を縛り上げ
+その肛門に陰茎を突き入れる。
+> CONTEXT: Commonevents/53/77/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02paz.wmv"
+> CONTEXT: Commonevents/53/83/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/53/89/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや意志も誇りも失った騎士は
+ただ犯され
+その直腸に精液を注がれる。
+> CONTEXT: Commonevents/53/98/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/53/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03paz.wmv"
+> CONTEXT: Commonevents/53/105/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01p.wmv"
+> CONTEXT: Commonevents/53/140/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02p.wmv"
+> CONTEXT: Commonevents/53/151/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/53/157/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03p.wmv"
+> CONTEXT: Commonevents/53/173/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pa.wmv"
+> CONTEXT: Commonevents/53/201/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pa.wmv"
+> CONTEXT: Commonevents/53/212/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/53/218/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pa.wmv"
+> CONTEXT: Commonevents/53/234/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pg.wmv"
+> CONTEXT: Commonevents/54/10/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイト
+「き、貴様！？
+　こんなことをしてただで済むと思っているのか！！
+　この下郎が！！」
+> CONTEXT: Commonevents/54/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/54/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイト
+「さっさとその汚いものを抜け！
+　汚らわしい！！」
+> CONTEXT: Commonevents/54/20/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/54/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pg.wmv"
+> CONTEXT: Commonevents/54/27/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/54/33/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイト
+「くそ！放せ！腰を動かすな！！
+　貴様のような屑がこの私にこのようなことをして
+　決して許さんぞ！！」
+> CONTEXT: Commonevents/54/42/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/54/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイト
+「！？
+　まさか貴様、射精する気か！？
+　やめろ！！出すな！！　絶対に中には出すなよ！！」
+> CONTEXT: Commonevents/54/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pg.wmv"
+> CONTEXT: Commonevents/54/55/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイト
+「き、貴様、中に出したのか・・・？
+　な、なんということを・・・・・
+　おのれ・・・！　殺してやる！！」
+> CONTEXT: Commonevents/54/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pag.wmv"
+> CONTEXT: Commonevents/54/84/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pag.wmv"
+> CONTEXT: Commonevents/54/101/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/54/107/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pag.wmv"
+> CONTEXT: Commonevents/54/124/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイト
+「く・・・
+　このような屈辱・・・
+　かならず・・・殺してやる・・・」
+> CONTEXT: Commonevents/54/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pw.wmv"
+> CONTEXT: Commonevents/55/8/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「っつ！？
+　い、いや、私はあまりその、こういった経験が無いのでな・・・。
+　その・・・お手柔らかに頼む・・・。」
+> CONTEXT: Commonevents/55/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pw.wmv"
+> CONTEXT: Commonevents/55/21/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/55/27/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「んっ・・・くっ・・・。
+　い、いや、大丈夫だ。
+　かまわん続けてくれ。」
+> CONTEXT: Commonevents/55/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「中に・・・？
+　あ、ああ。私ももはやこんな身だからな・・・。かまわん。
+　お前のものを、注いでくれ・・・」
+> CONTEXT: Commonevents/55/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pw.wmv"
+> CONTEXT: Commonevents/55/49/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「あ、ああ。終わったのか・・・。
+　・・・・・・不思議な感じだな。
+　腹の中がまだ熱いようだ・・・・・・・」
+> CONTEXT: Commonevents/55/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pdz.wmv"
+> CONTEXT: Commonevents/56/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年頃だったであろう女を拘束し
+その肉体を性欲のはけ口として使う。
+> CONTEXT: Commonevents/56/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/56/76/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/56/143/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/56/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pdz.wmv"
+> CONTEXT: Commonevents/56/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/56/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+身動きの取れぬ女の
+子宮の奥深くへ陰茎をつき入れ
+そのまま精子を流しいれる。
+> CONTEXT: Commonevents/56/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/56/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pdz.wmv"
+> CONTEXT: Commonevents/56/44/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+犯された女の性器から
+ただただ精液が流れ出ていた。
+> CONTEXT: Commonevents/56/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/56/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pdaz.wmv"
+> CONTEXT: Commonevents/56/71/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pdaz.wmv"
+> CONTEXT: Commonevents/56/82/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/56/88/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+身動きの取れぬ女の
+直腸の奥深くへ陰茎をつき入れ
+そのまま精子を流しいれる。
+> CONTEXT: Commonevents/56/97/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/56/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pdaz.wmv"
+> CONTEXT: Commonevents/56/104/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+犯された女の肛門から
+ただただ精液が流れ出ていた。
+> CONTEXT: Commonevents/56/111/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/56/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pd.wmv"
+> CONTEXT: Commonevents/56/138/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pd.wmv"
+> CONTEXT: Commonevents/56/149/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/56/155/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pd.wmv"
+> CONTEXT: Commonevents/56/171/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pda.wmv"
+> CONTEXT: Commonevents/56/198/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pda.wmv"
+> CONTEXT: Commonevents/56/209/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/56/215/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pda.wmv"
+> CONTEXT: Commonevents/56/231/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pjz.wmv"
+> CONTEXT: Commonevents/57/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かつては夫に抱かれていたであろう婦人の性器に
+なんのためらいも無く陰茎を挿入する。
+> CONTEXT: Commonevents/57/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/57/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pjz.wmv"
+> CONTEXT: Commonevents/57/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/57/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人のものであったであろうその肉体に
+おのれの精液を注ぎ込む。
+> CONTEXT: Commonevents/57/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/57/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/57/162/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/57/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pjz.wmv"
+> CONTEXT: Commonevents/57/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熟れた性器の割れ目から
+精液が流れ落ちていった。
+> CONTEXT: Commonevents/57/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/57/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pjaz.wmv"
+> CONTEXT: Commonevents/57/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かつては夫に抱かれていたであろう婦人の肛門に
+なんのためらいも無く陰茎を挿入する。
+> CONTEXT: Commonevents/57/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/57/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pjaz.wmv"
+> CONTEXT: Commonevents/57/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/57/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pjaz.wmv"
+> CONTEXT: Commonevents/57/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+熟れた尻の割れ目から
+精液が流れ落ちていった。
+> CONTEXT: Commonevents/57/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/57/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pj.wmv"
+> CONTEXT: Commonevents/57/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pj.wmv"
+> CONTEXT: Commonevents/57/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/57/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pj.wmv"
+> CONTEXT: Commonevents/57/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pja.wmv"
+> CONTEXT: Commonevents/57/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pja.wmv"
+> CONTEXT: Commonevents/57/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/57/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pja.wmv"
+> CONTEXT: Commonevents/57/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01psz.wmv"
+> CONTEXT: Commonevents/58/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小さくとももはや人に仇をなす存在でしかない少女を縛り上げ
+その稚拙な穴に陰茎を突き刺す。
+> CONTEXT: Commonevents/58/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/58/76/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/58/143/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/58/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02psz.wmv"
+> CONTEXT: Commonevents/58/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/58/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+男のものを受け入れるには早すぎた少女の膣は
+侵入を拒むかのように陰茎を締め付け
+その中に精液を流し込まれる。
+> CONTEXT: Commonevents/58/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/58/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03psz.wmv"
+> CONTEXT: Commonevents/58/44/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狭く小さな穴からあふれ出た精子は
+そのまま床へ垂れ広がっていった。
+> CONTEXT: Commonevents/58/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/58/111/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/58/178/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/58/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01psaz.wmv"
+> CONTEXT: Commonevents/58/71/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02psaz.wmv"
+> CONTEXT: Commonevents/58/82/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/58/88/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もとより男のものを受け入れる用に出来ていない少女の肛門は
+侵入を拒むかのように陰茎を締め付け
+その中に精液を流し込まれる。
+> CONTEXT: Commonevents/58/97/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/58/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03psaz.wmv"
+> CONTEXT: Commonevents/58/104/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ps.wmv"
+> CONTEXT: Commonevents/58/138/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ps.wmv"
+> CONTEXT: Commonevents/58/149/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/58/155/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ps.wmv"
+> CONTEXT: Commonevents/58/171/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01psa.wmv"
+> CONTEXT: Commonevents/58/198/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02psa.wmv"
+> CONTEXT: Commonevents/58/209/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/58/215/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03psa.wmv"
+> CONTEXT: Commonevents/58/231/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ptz.wmv"
+> CONTEXT: Commonevents/59/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+未熟なまま亡者へと身を窶した少女の肉体を
+欲望の赴くままに貪る。
+> CONTEXT: Commonevents/59/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/59/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/59/141/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/59/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ptz.wmv"
+> CONTEXT: Commonevents/59/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/59/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その狭さゆえに締め付ける少女の膣内に
+精液を流し込む。
+> CONTEXT: Commonevents/59/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/59/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ptz.wmv"
+> CONTEXT: Commonevents/59/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女の中から押し出された精子が
+乾いた床に染みていった。
+> CONTEXT: Commonevents/59/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/59/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/59/175/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/59/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01ptaz.wmv"
+> CONTEXT: Commonevents/59/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02ptaz.wmv"
+> CONTEXT: Commonevents/59/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/59/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その狭さゆえに締め付ける少女の直腸に
+精液を流し込む。
+> CONTEXT: Commonevents/59/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/59/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03ptaz.wmv"
+> CONTEXT: Commonevents/59/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pt.wmv"
+> CONTEXT: Commonevents/59/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pt.wmv"
+> CONTEXT: Commonevents/59/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/59/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pt.wmv"
+> CONTEXT: Commonevents/59/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01pta.wmv"
+> CONTEXT: Commonevents/59/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02pta.wmv"
+> CONTEXT: Commonevents/59/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/59/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03pta.wmv"
+> CONTEXT: Commonevents/59/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01qz.wmv"
+> CONTEXT: Commonevents/60/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソウルに狂い、もはや威厳も無く異形の輩へと身を窶した女王の
+かつては高貴であったであろうその性器に
+無造作に陰茎を突き入れる。
+> CONTEXT: Commonevents/60/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/60/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02qz.wmv"
+> CONTEXT: Commonevents/60/23/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/60/29/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その膣は衰えを感じさせぬ締め付けで陰茎を包み
+子宮の奥へと精液を誘う。
+> CONTEXT: Commonevents/60/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/60/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03qz.wmv"
+> CONTEXT: Commonevents/60/44/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+国は滅び、すべてを失った女王は
+故も知らぬ男に犯され、
+ただその玉座の前に横たわる。
+> CONTEXT: Commonevents/60/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/60/112/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/60/180/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/60/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01qaz.wmv"
+> CONTEXT: Commonevents/60/72/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソウルに狂い、もはや威厳も無く異形の輩へと身を窶した女王の
+かつては高貴であったであろうその肛門に
+無造作に陰茎を突き入れる。
+> CONTEXT: Commonevents/60/77/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/60/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02qaz.wmv"
+> CONTEXT: Commonevents/60/84/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/60/90/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その肛門は衰えを感じさせぬ締め付けで陰茎を包み
+直腸の奥へと精液を誘う。
+> CONTEXT: Commonevents/60/99/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/60/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03qaz.wmv"
+> CONTEXT: Commonevents/60/105/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01q.wmv"
+> CONTEXT: Commonevents/60/140/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02q.wmv"
+> CONTEXT: Commonevents/60/152/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/60/158/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03q.wmv"
+> CONTEXT: Commonevents/60/173/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01qa.wmv"
+> CONTEXT: Commonevents/60/201/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02qa.wmv"
+> CONTEXT: Commonevents/60/213/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/60/219/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03qa.wmv"
+> CONTEXT: Commonevents/60/234/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01sz.wmv"
+> CONTEXT: Commonevents/61/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かつて幾人もの男たちに抱かれたであろう娼婦の肉体も
+もはや一人の男の慰み者でしかない。
+> CONTEXT: Commonevents/61/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/61/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/61/141/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/61/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02sz.wmv"
+> CONTEXT: Commonevents/61/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/61/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商売道具だったはずのその穴に
+無造作に男の精子が流し込まれる。
+> CONTEXT: Commonevents/61/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/61/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/61/162/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/61/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03sz.wmv"
+> CONTEXT: Commonevents/61/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使い込まれたであろう性器から
+精液は静かに流れ落ちていった。
+> CONTEXT: Commonevents/61/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/61/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01saz.wmv"
+> CONTEXT: Commonevents/61/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02saz.wmv"
+> CONTEXT: Commonevents/61/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/61/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03saz.wmv"
+> CONTEXT: Commonevents/61/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+使い込まれたであろう肛門から
+精液は静かに流れ落ちていった。
+> CONTEXT: Commonevents/61/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/61/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01s.wmv"
+> CONTEXT: Commonevents/61/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02s.wmv"
+> CONTEXT: Commonevents/61/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/61/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03s.wmv"
+> CONTEXT: Commonevents/61/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01sa.wmv"
+> CONTEXT: Commonevents/61/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02sa.wmv"
+> CONTEXT: Commonevents/61/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/61/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03sa.wmv"
+> CONTEXT: Commonevents/61/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アナルでする
+> CONTEXT: Commonevents/62/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01sw.wmv"
+> CONTEXT: Commonevents/62/10/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「どう？気持ちいいでしょ？
+　以前は私、売れっ子だったのよ」
+> CONTEXT: Commonevents/62/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02sw.wmv"
+> CONTEXT: Commonevents/62/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/62/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「ほら、もっと締め付けてあげるから。
+　遠慮しないで、
+　たっぷり中に出していいわよ」
+> CONTEXT: Commonevents/62/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/62/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03sw.wmv"
+> CONTEXT: Commonevents/62/45/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「ふふ、熱いのがいっぱい出たわね・・・。
+　私の中、いっぱいになっちゃった」
+> CONTEXT: Commonevents/62/52/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/62/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01swa.wmv"
+> CONTEXT: Commonevents/62/73/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「お尻の方がいいの？
+　ふふ、いいわよ。
+　こっちにも私、自信あるのよ」
+> CONTEXT: Commonevents/62/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02swa.wmv"
+> CONTEXT: Commonevents/62/86/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/62/92/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03swa.wmv"
+> CONTEXT: Commonevents/62/109/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01sez.wmv"
+> CONTEXT: Commonevents/63/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かつての姿の面影すらない聖女を
+鎖でつなぎ犬のような格好のまま犯す。
+> CONTEXT: Commonevents/63/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/63/75/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/63/141/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/63/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02sez.wmv"
+> CONTEXT: Commonevents/63/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/63/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人としての尊厳などどこにも無いような状態で
+かつての聖女は、その子宮に精液を注がれる。
+> CONTEXT: Commonevents/63/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/63/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03sez.wmv"
+> CONTEXT: Commonevents/63/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+突き出された尻から垂れた精液は
+薄汚れた聖衣へと染み込んでいった。
+> CONTEXT: Commonevents/63/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/63/109/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/63/175/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/63/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01seaz.wmv"
+> CONTEXT: Commonevents/63/70/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02seaz.wmv"
+> CONTEXT: Commonevents/63/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/63/87/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人としての尊厳などどこにも無いような状態で
+かつての聖女は、その直腸に精液を注がれる。
+> CONTEXT: Commonevents/63/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/63/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03seaz.wmv"
+> CONTEXT: Commonevents/63/102/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01se.wmv"
+> CONTEXT: Commonevents/63/136/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02se.wmv"
+> CONTEXT: Commonevents/63/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/63/153/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03se.wmv"
+> CONTEXT: Commonevents/63/168/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01sea.wmv"
+> CONTEXT: Commonevents/63/195/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02sea.wmv"
+> CONTEXT: Commonevents/63/206/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/63/212/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03sea.wmv"
+> CONTEXT: Commonevents/63/227/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01seg.wmv"
+> CONTEXT: Commonevents/64/10/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「ひぅっ！？
+　お、おやめなさい！
+　このようなこと、神はお許しになりませんよ！」
+> CONTEXT: Commonevents/64/15/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/64/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02seg.wmv"
+> CONTEXT: Commonevents/64/23/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/64/29/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「ぐ・・・ひぎぃ・・・。
+　ああ、神よ・・・、なぜ私にこのような試練を・・・」
+> CONTEXT: Commonevents/64/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/64/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03seg.wmv"
+> CONTEXT: Commonevents/64/45/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「う・・・うう・・・。
+　神よ・・・、穢れたこの身をお許しください・・・」
+> CONTEXT: Commonevents/64/52/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/64/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01seag.wmv"
+> CONTEXT: Commonevents/64/73/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02seag.wmv"
+> CONTEXT: Commonevents/64/86/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/64/92/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03seag.wmv"
+> CONTEXT: Commonevents/64/108/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01sew.wmv"
+> CONTEXT: Commonevents/65/8/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「うぐ・・・！。
+　い、いえ、大丈夫・・・です。
+　不浄の穴ならば、神もきっとお許しになるでしょう・・・」
+> CONTEXT: Commonevents/65/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02sew.wmv"
+> CONTEXT: Commonevents/65/21/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/65/27/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「ぐ・・・ん・・・。
+　へ、平気です・・・。
+　こ、この程度、この国の民の苦しみに比べれば何でもありません」
+> CONTEXT: Commonevents/65/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03sew.wmv"
+> CONTEXT: Commonevents/65/44/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「あっ・・・はぁっ・・・。
+　お、終わったのですね？
+　・・・神よ、どうぞお許しください・・・」
+> CONTEXT: Commonevents/65/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01soz.wmv"
+> CONTEXT: Commonevents/66/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+法衣に包まれていたその豊満な肉体を
+縄で縛り上げ性処理の道具として扱う。
+> CONTEXT: Commonevents/66/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/66/77/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/66/145/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/66/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02soz.wmv"
+> CONTEXT: Commonevents/66/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/66/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+柔らかく深いその肉穴に
+陰茎を何度も出し入れし
+その奥深くへと精子を送り込む。
+> CONTEXT: Commonevents/66/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/66/98/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/66/166/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/66/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03soz.wmv"
+> CONTEXT: Commonevents/66/44/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+子宮からあふれ出た精子が
+かつて守るべきはずだった城の
+その床へと染み込んでいった。
+> CONTEXT: Commonevents/66/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/66/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01soaz.wmv"
+> CONTEXT: Commonevents/66/72/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02soaz.wmv"
+> CONTEXT: Commonevents/66/83/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/66/89/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03soaz.wmv"
+> CONTEXT: Commonevents/66/105/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+肛門からあふれ出た精子が
+かつて守るべきはずだった城の
+その床へと染み込んでいった。
+> CONTEXT: Commonevents/66/112/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/66/241/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01so.wmv"
+> CONTEXT: Commonevents/66/140/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02so.wmv"
+> CONTEXT: Commonevents/66/151/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/66/157/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03so.wmv"
+> CONTEXT: Commonevents/66/173/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01soa.wmv"
+> CONTEXT: Commonevents/66/201/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02soa.wmv"
+> CONTEXT: Commonevents/66/212/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/66/218/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03soa.wmv"
+> CONTEXT: Commonevents/66/234/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01suz.wmv"
+> CONTEXT: Commonevents/67/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おぞましくも淫靡な姿をしたその異形の者の
+艶かしい性器へ陰茎を差し込む。
+> CONTEXT: Commonevents/67/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/67/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02suz.wmv"
+> CONTEXT: Commonevents/67/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/67/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ぬめぬめと絡みつく異形の子宮の中へ
+欲望の赴くまま、精子を注ぐ。
+> CONTEXT: Commonevents/67/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/67/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03suz.wmv"
+> CONTEXT: Commonevents/67/43/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性器から流れ出た精液が
+その青白い肌に垂れ広がっていった。
+> CONTEXT: Commonevents/67/50/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/67/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01su.wmv"
+> CONTEXT: Commonevents/67/77/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02su.wmv"
+> CONTEXT: Commonevents/67/88/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/67/94/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03su.wmv"
+> CONTEXT: Commonevents/67/109/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01syz.wmv"
+> CONTEXT: Commonevents/68/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや歩く屍同然に成り下がった娘を縛り
+その小さな性器に陰茎を突き刺す。
+> CONTEXT: Commonevents/68/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/68/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02syz.wmv"
+> CONTEXT: Commonevents/68/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/68/28/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+まだ男を知らぬであっただろう少女の中に
+何度も挿入を繰り返し
+そのまま、奥へ射精する。
+> CONTEXT: Commonevents/68/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/68/97/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/68/164/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/68/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03syz.wmv"
+> CONTEXT: Commonevents/68/44/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+少女の中へ注がれた精子は
+むなしく流れ落ちていった。
+> CONTEXT: Commonevents/68/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/68/111/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/68/178/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/68/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01syaz.wmv"
+> CONTEXT: Commonevents/68/71/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+もはや歩く屍同然に成り下がった娘を縛り
+その小さな肛門に陰茎を突き刺す。
+> CONTEXT: Commonevents/68/76/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/68/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02syaz.wmv"
+> CONTEXT: Commonevents/68/82/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/68/88/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03syaz.wmv"
+> CONTEXT: Commonevents/68/104/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01sy.wmv"
+> CONTEXT: Commonevents/68/138/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02sy.wmv"
+> CONTEXT: Commonevents/68/149/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/68/155/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03sy.wmv"
+> CONTEXT: Commonevents/68/171/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01sya.wmv"
+> CONTEXT: Commonevents/68/198/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02sya.wmv"
+> CONTEXT: Commonevents/68/209/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/68/215/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03sya.wmv"
+> CONTEXT: Commonevents/68/231/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01syg.wmv"
+> CONTEXT: Commonevents/69/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「ひぎゃあぁ！！？
+　い、痛い！！
+　・・・や、やめて！　抜いて！」
+> CONTEXT: Commonevents/69/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02syg.wmv"
+> CONTEXT: Commonevents/69/24/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/69/30/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「あがっ・・・！　いぎ・・・！
+　お、お願い・・・動かさないで・・・！」
+> CONTEXT: Commonevents/69/39/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/69/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03syg.wmv"
+> CONTEXT: Commonevents/69/46/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「うあ、・・・ああ・・・・・・。
+　こんな・・・ひどい・・・・・・」
+> CONTEXT: Commonevents/69/53/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/69/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01syag.wmv"
+> CONTEXT: Commonevents/69/76/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「ひぎゃあぁ！！？
+　い、痛い！！
+　・・・や、やめて！　抜いて！　そんな所はいんない！！」
+> CONTEXT: Commonevents/69/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02syag.wmv"
+> CONTEXT: Commonevents/69/89/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/69/95/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03syag.wmv"
+> CONTEXT: Commonevents/69/111/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01syw.wmv"
+> CONTEXT: Commonevents/70/8/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「ちょ、ちょっと
+　もう少し優しくしてくださいよ。
+　わ、あたしはこういうこと初めてなんですから・・・」
+> CONTEXT: Commonevents/70/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02syw.wmv"
+> CONTEXT: Commonevents/70/21/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/70/27/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「む・・・うぅ・・・。
+　う、うわさぬたがわぬ痛み・・・。
+　ま、まだ終わらないですか・・・？」
+> CONTEXT: Commonevents/70/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「え？　中に・・・？
+　あ、だ、大丈夫ですよ・・・。あたしは、アレまだなんで・・・。
+　さっさと出しちゃってください・・・」
+> CONTEXT: Commonevents/70/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/03syw.wmv"
+> CONTEXT: Commonevents/70/49/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「ひぅ・・・・・・。
+　ど、どうでしたか・・・？
+　お、お代はきっちりといただきますからね」
+> CONTEXT: Commonevents/70/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"神殿"
+> CONTEXT: Commonevents/71/5/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"坑道"
+> CONTEXT: Commonevents/71/9/InlineScript/1:36 < UNTRANSLATED
+> CONTEXT: Commonevents/71/17/InlineScript/1:36 < UNTRANSLATED
+> CONTEXT: Commonevents/71/21/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"坑道２"
+> CONTEXT: Commonevents/71/13/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"崖"
+> CONTEXT: Commonevents/71/25/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"崖２"
+> CONTEXT: Commonevents/71/29/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"坑道３"
+> CONTEXT: Commonevents/71/33/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"塔"
+> CONTEXT: Commonevents/71/37/InlineScript/1:36 < UNTRANSLATED
+> CONTEXT: Commonevents/71/41/InlineScript/1:36 < UNTRANSLATED
+> CONTEXT: Commonevents/71/45/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ラスト"
+> CONTEXT: Commonevents/71/57/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アラクニドが倒れている。
+> CONTEXT: Commonevents/72/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者の女が倒れている。
+> CONTEXT: Commonevents/74/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者の熟女が倒れている。
+> CONTEXT: Commonevents/76/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アルラウネが倒れている。
+> CONTEXT: Commonevents/78/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者の奴隷少女が倒れている。
+> CONTEXT: Commonevents/80/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者の奴隷娘が倒れている。
+> CONTEXT: Commonevents/82/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デュラハンが倒れている。
+> CONTEXT: Commonevents/84/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ゴーレムの核に使われていた娘が倒れている。
+> CONTEXT: Commonevents/86/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーピーが倒れている。
+> CONTEXT: Commonevents/88/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者となった賢者が倒れている。
+> CONTEXT: Commonevents/90/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者となった魔女エレオノーラが倒れている。
+> CONTEXT: Commonevents/93/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+灯守の娘が倒れている。
+> CONTEXT: Commonevents/96/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者騎士が倒れている。
+> CONTEXT: Commonevents/99/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者となった小間使いの少女が倒れている。
+> CONTEXT: Commonevents/102/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者のメイドが倒れている。
+> CONTEXT: Commonevents/105/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者の巫女が倒れている。
+> CONTEXT: Commonevents/108/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人形が倒れている。
+> CONTEXT: Commonevents/111/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者となった騎士アーデルハイトが倒れている。
+> CONTEXT: Commonevents/114/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者の村娘が倒れている。
+> CONTEXT: Commonevents/117/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者の婦人が倒れている。
+> CONTEXT: Commonevents/120/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者の少女が倒れている。
+> CONTEXT: Commonevents/123/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者の娘が倒れている。
+> CONTEXT: Commonevents/126/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+女王が倒れている。
+> CONTEXT: Commonevents/129/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者となった娼婦が倒れている。
+> CONTEXT: Commonevents/132/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者となった聖女ユーリアが倒れている。
+> CONTEXT: Commonevents/135/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者の僧侶が倒れている。
+> CONTEXT: Commonevents/138/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スキュラが倒れている。
+> CONTEXT: Commonevents/141/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+亡者となった商人カミラが倒れている。
+> CONTEXT: Commonevents/143/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「すまない、助かった。
+　私は騎士アーデルハイド。
+　故あってこの国に訪れたのだが、油断してこの様だ」
+> CONTEXT: Commonevents/151/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「とにかく例を言う。
+　今はこんなものしかないが、受け取ってくれ」
+> CONTEXT: Commonevents/151/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「すまない。また、助けられたな。
+　だが、無謀かもしれんが
+　私はあきらめるわけにはいかないのだ」
+> CONTEXT: Commonevents/151/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「助けてもらったのはありがたいのだが
+　あまり出来ることが無くてな・・・。
+　これでも受け取ってくれ」
+> CONTEXT: Commonevents/151/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「なんども申し訳ない・・・。
+　だが、もう少しで目的を果たすことができそうだ」
+> CONTEXT: Commonevents/151/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「もう会うことも無いかもしれないが
+　感謝の印だ。受け取ってくれ。
+　今までありがとう」
+> CONTEXT: Commonevents/151/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"蜘蛛退治"
+> CONTEXT: Commonevents/156/6/InlineScript/1:8 < UNTRANSLATED
+> CONTEXT: Commonevents/190/36/InlineScript/1:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"アラクニドを倒す"
+> CONTEXT: Commonevents/156/6/InlineScript/1:16 < UNTRANSLATED
+> CONTEXT: Commonevents/190/36/InlineScript/1:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+タルパ坑道に潜むデーモンの長の一人を倒しました。
+これにより隠されていた石碑の一つが開放されました。
+この石版からも「朽ちた聖域」への転送が可能です。
+> CONTEXT: Commonevents/156/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリアデータをセーブします。
+> CONTEXT: Commonevents/188/6/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+おめでとうございます。
+ゲームクリアです。
+> CONTEXT: Commonevents/188/10/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このエンディングはノーマルエンディングとなっています。
+是非、トゥルーエンドを目指してがんばってみてください。
+> CONTEXT: Commonevents/188/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+トゥルーエンドに特に難しい条件はありません。
+最後の場面での行動の選択により結末が変わります。
+> CONTEXT: Commonevents/188/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+さて、全キャラクターを攻略出来たでしょうか？
+攻略対象のキャラクターは全部で３０人います。
+> CONTEXT: Commonevents/188/19/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その内、メインヒロインの５人はゾンビ姦のほか
+強姦と和姦があり（和姦は４人だけ）
+それぞれ攻略方法が違うので探してみてください。
+> CONTEXT: Commonevents/188/22/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+基本的に和姦をするには各ヒロインを救出する必要があります。
+救出せず、なおかつ強姦もしていない場合だと亡者となり
+ゾンビ姦が可能になります。
+> CONTEXT: Commonevents/188/26/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+朽ちた聖域にいるキャラクターも
+条件によっては亡者化しゾンビ姦が可能になります。
+> CONTEXT: Commonevents/188/30/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+実績のトロフィーは全部で１９種類となっています。
+こちらのコンプリートも目指してみると楽しいかもしれません。
+（仕様上、入手日時がリセットされてしまうのでご了承ください）
+> CONTEXT: Commonevents/188/33/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コンプリートを目指す方やトゥルーエンドを目指す方のために
+レベルや装備、アイテムを引き継いでの
+ニューゲームモードをご用意してあります。
+> CONTEXT: Commonevents/188/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、このまま朽ちた聖域へ戻り、
+マップ上部の扉からいける追憶の間で
+攻略したキャラクターと何度でも性交ができる
+ハーレムモードもあります。
+> CONTEXT: Commonevents/188/41/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーレムモードでも新たなキャラクターを攻略できれば
+追憶の間に追加されます。
+ただし、メインヒロインは
+ゲームが進行すると攻略できなくなる場合が多いのでご注意を。
+> CONTEXT: Commonevents/188/46/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+追憶の間は、二週目以降はハーレムモードでなくとも
+入室できますのでご安心ください。
+> CONTEXT: Commonevents/188/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+引き継いでニューゲーム
+> CONTEXT: Commonevents/188/54/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/189/47/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハーレムモード
+> CONTEXT: Commonevents/188/54/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/189/47/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それではタイトルに戻りますので
+引き継いでニューゲームをお選びください。
+> CONTEXT: Commonevents/188/56/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+それでは引き続き、お楽しみください。
+> CONTEXT: Commonevents/188/63/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/189/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+このエンディングはトゥルーエンディングとなっています。
+本当に、おめでとうございます。
+> CONTEXT: Commonevents/189/9/Dialogue < UNTRANSLATED
+
+> END STRING

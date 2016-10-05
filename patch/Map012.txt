@@ -1,0 +1,42 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+箱の中にあった縄梯子を崖の裏から下に下ろした。
+> CONTEXT: Map012/events/50/pages/0/1/Dialogue
+The rope ladder was lowered down the cliff below.
+> END STRING
+
+> BEGIN STRING
+？？？
+「すまん、そこに誰かいるなら
+　手を貸してはもらえないか！？
+　身動きが取れんのだ！」
+> CONTEXT: Map012/events/114/pages/0/0/Dialogue
+？？？
+「Sorry, is someone there?
+　Can you please help me！？
+　I have pulled my hamstring and cannot move！」
+> END STRING
+
+> BEGIN STRING
+"鉄屑"
+> CONTEXT: Map012/events/139/pages/0/8/InlineScript/1:8
+> CONTEXT: Commonevents/190/28/InlineScript/1:8
+"Iron scrap"
+> END STRING
+
+> BEGIN STRING
+"ゴーレムを倒す"
+> CONTEXT: Map012/events/139/pages/0/8/InlineScript/1:14
+> CONTEXT: Commonevents/190/28/InlineScript/1:14
+"Defeat the golem"
+> END STRING
+
+> BEGIN STRING
+モンターナの丘に佇むデーモンの長の一人を倒しました。
+これにより隠されていた石碑の一つが開放されました。
+この石版からも「朽ちた聖域」への転送が可能です。
+> CONTEXT: Map012/events/139/pages/0/12/Dialogue
+One of the demons that stopped in the hill of [monta-na] eternal was defeated. 
+As a result, one of the hid stone monuments was opened. 
+From this lithography"Rotted sanctuary"[Heno] can be forwarded. 
+> END STRING

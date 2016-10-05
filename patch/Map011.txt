@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+崖から落ちると死ぬ
+> CONTEXT: Map011/events/258/pages/0/0/Dialogue
+Die and fall from cliff
+> END STRING

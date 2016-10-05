@@ -1,0 +1,12 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+転落に注意！
+> CONTEXT: Map009/events/53/pages/0/0/Dialogue
+Note to fall!
+> END STRING
+
+> BEGIN STRING
+この先の敵、魔術が有効だ
+> CONTEXT: Map009/events/98/pages/0/0/Dialogue
+Enemy of this earlier, magic is the effective
+> END STRING

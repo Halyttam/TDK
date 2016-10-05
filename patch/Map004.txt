@@ -1,0 +1,158 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"城"
+> CONTEXT: Map004/events/1/pages/0/1/InlineScript/1:36 < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/1/InlineScript/1:36 < UNTRANSLATED
+> CONTEXT: Map001/events/1/pages/1/0/InlineScript/1:36 < UNTRANSLATED
+> CONTEXT: Commonevents/71/1/InlineScript/1:36 < UNTRANSLATED
+> CONTEXT: Commonevents/71/49/InlineScript/1:36 < UNTRANSLATED
+> CONTEXT: Commonevents/71/53/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+難易度を選択してください。
+> CONTEXT: Map004/events/1/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「Legend」二週目以降推奨超高難易度です。
+> CONTEXT: Map004/events/1/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Easy
+> CONTEXT: Map004/events/1/pages/0/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Map004/events/1/pages/0/28/Choice/0 < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/9/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Normal
+> CONTEXT: Map004/events/1/pages/0/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Map004/events/1/pages/0/28/Choice/1 < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/9/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Hard
+> CONTEXT: Map004/events/1/pages/0/7/Choice/2 < UNTRANSLATED
+> CONTEXT: Map004/events/1/pages/0/28/Choice/2 < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/9/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legend
+> CONTEXT: Map004/events/1/pages/0/7/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「Easy」は敵は弱く、気軽にプレイできます。
+落下死のペナルティもありません。
+「Normal」も比較的容易です。
+「Hard」ここからが本当のデモンズキングダムだ”
+> CONTEXT: Map004/events/1/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘時のスピードを選択してください。
+> CONTEXT: Map004/events/1/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「遅い」は落ち着いて戦闘ができるでしょう。
+「普通」は標準的速度です。
+「速い」は消化試合などにどうぞ。
+なお、戦闘速度はゲーム中でも変更可能です。
+> CONTEXT: Map004/events/1/pages/0/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遅い
+> CONTEXT: Map004/events/1/pages/0/51/Choice/0 < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/30/Choice/0 < UNTRANSLATED
+> CONTEXT: Commonevents/13/2/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+普通
+> CONTEXT: Map004/events/1/pages/0/51/Choice/1 < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/30/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/13/2/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+速い
+> CONTEXT: Map004/events/1/pages/0/51/Choice/2 < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/30/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/13/2/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+主人公の名前を入力してください。
+> CONTEXT: Map004/events/1/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map003/events/9/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　それは、一人の男と、滅びゆく王国の物語。
+> CONTEXT: Map004/events/1/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　その国がまだ活気にあふれ、人々が懸命に生きていたころ
+　　　終焉は突如として訪れた。
+
+> CONTEXT: Map004/events/1/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　国を治める女王が病に伏せ、国が混乱する最中
+　　　異形のデーモン達が王国へ攻め込み人々を襲ったのだ。
+
+> CONTEXT: Map004/events/1/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　立ち向かった男達は皆殺され、
+　　　残った女達も生きながらにして魂（ソウル）を奪われ
+　　　皆、亡者へとなっていった。
+> CONTEXT: Map004/events/1/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　国は滅び、
+　　　ソウルを求める亡者とデーモン達が彷徨うだけの
+　　　亡国へと成り果てた。
+> CONTEXT: Map004/events/1/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　そして今、
+　　　その国へ何を求めてか
+　　　一人の男が訪れた・・・・・・。
+> CONTEXT: Map004/events/1/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,39 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+西塔二階の鍵を使った。
+> CONTEXT: Map014/events/42/pages/0/3/Dialogue
+> CONTEXT: Map014/events/58/pages/0/3/Dialogue
+> CONTEXT: Map014/events/112/pages/0/3/Dialogue
+The key to the second floor in the west tower was used. 
+> END STRING
+
+> BEGIN STRING
+罠に注意
+> CONTEXT: Map014/events/50/pages/0/0/Dialogue
+The trap is noted.
+> END STRING
+
+> BEGIN STRING
+塔三階の鍵を使った。
+> CONTEXT: Map014/events/55/pages/0/3/Dialogue
+> CONTEXT: Map014/events/57/pages/0/3/Dialogue
+> CONTEXT: Map014/events/59/pages/0/3/Dialogue
+> CONTEXT: Map015/events/59/pages/0/3/Dialogue
+> CONTEXT: Map015/events/60/pages/0/3/Dialogue
+The key to the third floor in the tower was used. 
+> END STRING
+
+> BEGIN STRING
+隠し階段を下ろした。
+> CONTEXT: Map014/events/61/pages/0/1/Dialogue
+The hidden staircase was lowered.
+> END STRING
+
+> BEGIN STRING
+ここにショートカットがあるぞ
+> CONTEXT: Map014/events/130/pages/0/0/Dialogue
+> CONTEXT: Map017/events/91/pages/0/0/Dialogue
+> CONTEXT: Map007/events/14/pages/0/0/Dialogue
+> CONTEXT: Map012/events/144/pages/0/0/Dialogue
+There is a shortcut here
+> END STRING

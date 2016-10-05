@@ -1,0 +1,608 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"スカベンジャー"
+> CONTEXT: Map005/events/2/pages/0/12/InlineScript/1:8 < UNTRANSLATED
+> CONTEXT: Commonevents/190/5/InlineScript/1:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"遺体からアイテムを手に入
+れる"
+> CONTEXT: Map005/events/2/pages/0/12/InlineScript/1:19 < UNTRANSLATED
+> CONTEXT: Commonevents/190/5/InlineScript/1:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アナルを犯す
+> CONTEXT: Map005/events/8/pages/4/0/Choice/1 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/26/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/0/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/23/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/23/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/24/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/24/65/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/32/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/32/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/34/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/34/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/35/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/35/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/36/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/36/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/37/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/37/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/38/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/38/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/39/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/40/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/40/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/41/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/41/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/42/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/42/128/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/43/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/43/131/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/44/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/44/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/45/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/45/129/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/46/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/47/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/47/131/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/48/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/50/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/50/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/51/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/51/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/52/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/53/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/53/131/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/54/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/56/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/56/129/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/57/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/57/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/58/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/58/129/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/59/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/59/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/60/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/60/131/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/61/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/61/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/63/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/63/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/64/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/66/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/66/131/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/68/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/68/129/Choice/1 < UNTRANSLATED
+> CONTEXT: Commonevents/69/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+口を犯す
+> CONTEXT: Map005/events/8/pages/4/0/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/26/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/0/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/2/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/2/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/y01.wmv"
+> CONTEXT: Map005/events/8/pages/4/9/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/35/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/9/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/11/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハンス「こ、これが女の人の中･･･。
+　　　　すごく･･･気持ちいい･･･」
+
+> CONTEXT: Map005/events/8/pages/4/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/y02.wmv"
+> CONTEXT: Map005/events/8/pages/4/16/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/42/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/17/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/17/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/16/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/17/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/23/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/17/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハンス「はぁはぁ、
+　　　　さすが優等生だね･･･。
+　　　　凄い締め付けだ。もう射精（で）ちゃいそうだよ。
+　　　　たっぷりと君の子宮に射精（だ）してあげるね」
+> CONTEXT: Map005/events/8/pages/4/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/y03.wmv"
+> CONTEXT: Map005/events/8/pages/4/24/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/43/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/44/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/50/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/23/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/23/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/24/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/33/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/23/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハンス「ふぅ･･･。
+        君の中はとても良かったよ。
+　　　　もしかしたら君の大嫌いな劣等生の子供を
+　　　　妊娠するかもしれないけどね」
+> CONTEXT: Map005/events/8/pages/4/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/yA01.wmv"
+> CONTEXT: Map005/events/8/pages/4/47/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/67/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/68/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/73/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/46/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/46/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/47/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/53/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/46/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハンス「うぅ、なんてきついんだ。
+　　　　でも、さすがに前を犯すのは可哀想だからね。
+　　　　お尻の穴で勘弁してあげるよ」
+
+> CONTEXT: Map005/events/8/pages/4/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/yA02.wmv"
+> CONTEXT: Map005/events/8/pages/4/55/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/75/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/76/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/52/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/52/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/55/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/59/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/52/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハンス「はぁはぁ、
+　　　　さすが優等生だ･･･。
+　　　　お尻の穴でもしごく締め付けてきて気持ちいいよ。
+　　　　たっぷりとお尻の中に出してあげるね」
+> CONTEXT: Map005/events/8/pages/4/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/77/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/yA03.wmv"
+> CONTEXT: Map005/events/8/pages/4/63/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/83/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/84/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/89/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/58/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/58/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/63/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/65/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/58/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハンス「ふぅ･･･。
+        君の中はとても良かったよ。
+　　　　君の大嫌いな劣等生の精子をお尻から垂れ流して
+　　　　どんな気分だい？」
+> CONTEXT: Map005/events/8/pages/4/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エルネスタの口を無理矢理広げた。
+> CONTEXT: Map005/events/8/pages/4/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/yK01.wmv"
+> CONTEXT: Map005/events/8/pages/4/87/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/113/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/81/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/87/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/85/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/81/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハンス「どうだい？
+　　　　君の大嫌いな劣等生の
+　　　　汚いチンコを咥えさせられる気分は？」
+
+> CONTEXT: Map005/events/8/pages/4/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/yK02.wmv"
+> CONTEXT: Map005/events/8/pages/4/95/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/121/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/88/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/88/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/95/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/92/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/88/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハンス「はぁはぁ、
+　　　　さすが優等生だ･･･。
+　　　　喉の奥で僕の亀頭を咥えて離さないよ。
+　　　　このまま口の中にたっぷり射精（だ）してあげるね」
+> CONTEXT: Map005/events/8/pages/4/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/123/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/yK03.wmv"
+> CONTEXT: Map005/events/8/pages/4/103/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/129/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/1/94/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/2/94/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/103/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/1/98/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/2/94/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ハンス「ふぅ･･･。
+        君の口は最高だね。
+　　　　お礼に、僕の精子を存分に味わってくれよ」
+> CONTEXT: Map005/events/8/pages/4/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/24/pages/0/134/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/25/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦士が倒れている。
+> CONTEXT: Map005/events/9/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/20/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/01b.wmv"
+> CONTEXT: Map005/events/9/pages/4/11/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/12/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/23/136/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/24/74/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物言わぬ戦士の性器に
+深く陰茎を突き入れる。
+> CONTEXT: Map005/events/9/pages/4/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/17/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/141/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/16/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"movie/02b.wmv"
+> CONTEXT: Map005/events/9/pages/4/22/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/4/28/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/23/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/29/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/23/147/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/23/153/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/24/85/InlineScript/1:21 < UNTRANSLATED
+> CONTEXT: Commonevents/24/91/InlineScript/1:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+激しくピストンを繰り返し
+絶頂に達する。
+> CONTEXT: Map005/events/9/pages/4/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/38/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/96/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/162/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/221/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/37/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/24/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性器から精液が流れ出し、
+戦士のうつろな瞳はただ虚空を仰いでいた。
+> CONTEXT: Map005/events/9/pages/4/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/5/51/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/23/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チュートリアルでの説明を飛ばしますか？
+> CONTEXT: Map005/events/11/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ここは、チュートリアルステージです。
+このゲームの基本部分のレクチャーをします。
+> CONTEXT: Map005/events/11/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム「透視鏡」と「耳栓」は使用することにより
+それぞれ、H時の断面図表現とメッセージの有無を選択することができ
+ます。
+> CONTEXT: Map005/events/11/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「砂時計」は、バトルスピードの調整が可能です。
+> CONTEXT: Map005/events/11/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+そして「一時の浄化」は
+倒した亡者等を一時的に浄化し、人間状態での性交が出来る
+「睡姦モード」への切り替えが可能なアイテムです。
+> CONTEXT: Map005/events/11/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+これらの設定の変更は何度でも可能です。
+> CONTEXT: Map005/events/11/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この焚き火が、このゲームでの
+セーブポイントならびにチェックポイントになります。
+かつて誰かがこの場で火をともした跡です。
+この周りは安全です。
+> CONTEXT: Map005/events/15/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘に負けるなどして死んでしまった時は
+直前に触れた焚き火から復活します。
+> CONTEXT: Map005/events/15/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、焚き火に触れると
+HPとMP、ならびに状態異常が回復しますが
+ボスなどの一部を除く敵が復活してしまいますのでご注意ください。
+> CONTEXT: Map005/events/15/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一時の生身を手に入れた！
+> CONTEXT: Map005/events/16/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵はこちらを見つけると追いかけてきます。
+捕まってしまうと戦闘開始です。
+> CONTEXT: Map005/events/25/pages/3/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘はリアルタイムで進行していきますので、
+素早く、適切に判断していく必要があります。
+> CONTEXT: Map005/events/25/pages/3/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+戦闘画面の説明をします。
+> CONTEXT: Map005/events/25/pages/3/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+①プレイヤーカウントゲージです。フルになると行動できます。
+②プレイヤーHPです。０になると戦闘不能になります。
+③プレイヤーMPです。魔術を使うと消費します。
+> CONTEXT: Map005/events/25/pages/3/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+④敵カウントゲージです。フルになると敵が行動します。
+⑤敵HPゲージです。ダメージを与えた際に表示されます。
+⑥敵に与えたダメージが表示されます。
+> CONTEXT: Map005/events/25/pages/3/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+⑦状態異常が出た際に、こちらに表示されます。
+⑧行動コマンドです。この中から行動を選択してください。
+> CONTEXT: Map005/events/25/pages/3/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+攻撃：敵に攻撃をします
+防御：次の行動を選択し始めるまでの間、ダメージを軽減します。
+　　　盾を装備することにより大幅に軽減することが出来ます。
+　　　敵の攻撃のタイミングにあわせて使っていきましょう。
+> CONTEXT: Map005/events/25/pages/3/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+道具：戦闘中に使えるさまざまな道具を使います。
+魔術：MPを消費して魔術を使います。
+回避：自分か敵が次の行動をするまでの間、回避率が上がります。
+> CONTEXT: Map005/events/25/pages/3/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+⑨逃走ゲージです。
+　キーボードの「Q」キーを押し続けるとゲージがたまっていき
+　ゲージがフルになると逃走できます。
+> CONTEXT: Map005/events/25/pages/3/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵に勝利すると、ほとんどの敵はその場に倒れこみます。
+この状態の敵を調べると服を脱がせたり、
+自分が生身の状態であれば性交をすることが可能です。
+> CONTEXT: Map005/events/25/pages/3/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性交シーンはアニメーションとなっており
+二番目のアニメーションは
+決定キーを押すまでループする使用になっています。
+> CONTEXT: Map005/events/25/pages/3/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この血文字は、心半ばに倒れた先人達が残した言葉です。
+ゲームに役立つヒントなどが書いてあるかもしれません。
+> CONTEXT: Map005/events/28/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+チュートリアルでは死んでもペナルティは無い。
+> CONTEXT: Map005/events/28/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+遺体にはアイテムがある場合も…。
+> CONTEXT: Map005/events/29/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"城門"
+> CONTEXT: Map005/events/34/pages/0/0/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"想定外"
+> CONTEXT: Map005/events/34/pages/0/4/InlineScript/1:8 < UNTRANSLATED
+> CONTEXT: Commonevents/190/49/InlineScript/1:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"チュートリアルゴーレムを倒す"
+> CONTEXT: Map005/events/34/pages/0/4/InlineScript/1:15 < UNTRANSLATED
+> CONTEXT: Commonevents/190/49/InlineScript/1:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+          　　　  　　       YOU DIED
+> CONTEXT: Map005/events/34/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+          　　　　  　       YOU DIED
+> CONTEXT: Map005/events/34/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔を討ちし者の剣を手に入れた！
+> CONTEXT: Map005/events/45/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING

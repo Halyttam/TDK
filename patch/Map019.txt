@@ -1,0 +1,198 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「ありがとうございます。
+　これでようやくソウルをあるべき場所へ還すことが出来ます。
+　・・・・・私は最後に役目を果たしますので
+　あなたは向こうにある石碑から、元の世界へ帰ってください」
+> CONTEXT: Map019/events/6/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+殺す
+> CONTEXT: Map019/events/6/pages/1/0/Choice/0 < UNTRANSLATED
+> CONTEXT: Map016/events/61/pages/0/10/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+殺さない
+> CONTEXT: Map019/events/6/pages/1/0/Choice/1 < UNTRANSLATED
+> CONTEXT: Map016/events/61/pages/0/10/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・・・・なんだ。
+　貴様、気づいていたのか？」
+> CONTEXT: Map019/events/6/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　「おとなしくソウルを差し出す気はないというわけか・・・。
+　　　ようやく、全てのソウルが手に入ると思ったものを・・・」
+> CONTEXT: Map019/events/6/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　「契約は絶対だ。それを破るわけにはいかぬ。
+　　　　　　だから、女王には約束どおりソウルの業を教え
+　　　　　　　　この国の半分のソウルを渡した・・・」
+> CONTEXT: Map019/events/6/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　「だがな・・・目の前に旨そうな贄があるというのに
+　　　　　　　　　　ほうっておく事など出来ようか」
+
+> CONTEXT: Map019/events/6/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　「しかも我は永き眠りから目覚めたばかり。
+　　　　　　　　　　　ソウルはあればある程よい」
+> CONTEXT: Map019/events/6/pages/2/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　　「だから貴様らのような輩が、
+　　　　　　　　女王のソウルを奪うのを待っていたのだ」
+> CONTEXT: Map019/events/6/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　　　「その為に力も貸してやった」
+> CONTEXT: Map019/events/6/pages/2/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　「そして今、貴様はここにソウルをもってやってきた」
+> CONTEXT: Map019/events/6/pages/2/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　「全ては我にソウルを捧げる為」
+> CONTEXT: Map019/events/6/pages/2/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　　「契約をしたのは女王だけ。
+　　　　　　　　　貴様を殺してソウルを奪うことは
+　　　　　　　　　　　　なんら問題はない」
+> CONTEXT: Map019/events/6/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　　　　　　「さあ、ソウルを捧げるのだ！！」
+> CONTEXT: Map019/events/6/pages/2/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"魔を討ちし者"
+> CONTEXT: Map019/events/6/pages/2/44/InlineScript/1:8 < UNTRANSLATED
+> CONTEXT: Commonevents/190/63/InlineScript/1:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"トゥルーエンディング"
+> CONTEXT: Map019/events/6/pages/2/44/InlineScript/1:18 < UNTRANSLATED
+> CONTEXT: Commonevents/190/63/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+                      THE DEMON WAS DESTROYED
+> CONTEXT: Map019/events/6/pages/2/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/22/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/78/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/139/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/156/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「人の身にして・・・これほどのソウルを取り込み・・・
+　もはや貴様も・・・・・・
+　人ならざる・・・もの・・・・・・だ・・・」
+> CONTEXT: Map019/events/6/pages/2/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「人の身にしてこれほどのソウルを溜め込んでいたか。
+　まったくたいしたものだ。
+　ありがたく頂戴しておこう・・・・・・」
+> CONTEXT: Map019/events/6/pages/2/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/9/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+     　　　   　 　          YOU DIED
+> CONTEXT: Map019/events/6/pages/2/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/9/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Commonevents/2/300/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+     　　　   　 　           THE END
+> CONTEXT: Map019/events/6/pages/2/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map019/events/9/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"悲劇的な結末"
+> CONTEXT: Map019/events/6/pages/2/87/InlineScript/1:8 < UNTRANSLATED
+> CONTEXT: Map019/events/9/pages/0/29/InlineScript/1:8 < UNTRANSLATED
+> CONTEXT: Commonevents/190/58/InlineScript/1:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ノーマルエンディング"
+> CONTEXT: Map019/events/6/pages/2/87/InlineScript/1:18 < UNTRANSLATED
+> CONTEXT: Map019/events/9/pages/0/29/InlineScript/1:18 < UNTRANSLATED
+> CONTEXT: Commonevents/190/58/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「そう・・・
+　これでようやく・・・」
+
+> CONTEXT: Map019/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　　　　「全てのソウルが手に入った・・・」
+> CONTEXT: Map019/events/8/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING

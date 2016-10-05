@@ -1,0 +1,12 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+「Easy」は敵は弱く、気軽にプレイできます。
+落下死のペナルティもありません。
+「Normal」は標準的難易度です。
+「Hard」”ここからが本当のデモンズキングダムだ”
+> CONTEXT: Map003/events/9/pages/0/4/Dialogue
+「Easy」Weak enimies and you can walk around freely.
+There is no penalty forr death.
+「Normal」Standard level of difficulty
+「Hard」”The true Demon Kingdom"
+> END STRING

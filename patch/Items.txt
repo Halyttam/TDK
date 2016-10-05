@@ -1,0 +1,462 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+薬草
+> CONTEXT: Items/1/name/
+Healing Herb
+> END STRING
+
+> BEGIN STRING
+体力を少量回復する草。
+> CONTEXT: Items/1/description/
+Herb that will allow you to recover a small amount of strength.
+> END STRING
+
+> BEGIN STRING
+干し薬草
+> CONTEXT: Items/2/name/
+Dry Healing Herb
+> END STRING
+
+> BEGIN STRING
+体力をそこそこ回復する草。
+> CONTEXT: Items/2/description/
+Herb that will allow you to recover a medium amount of strength.
+> END STRING
+
+> BEGIN STRING
+漬け薬草
+> CONTEXT: Items/3/name/
+Large Healing Herb
+> END STRING
+
+> BEGIN STRING
+体力を大きく回復する草。
+> CONTEXT: Items/3/description/
+Herb that will allow you to recover a large amount of strength.
+> END STRING
+
+> BEGIN STRING
+熟成薬草
+> CONTEXT: Items/4/name/
+Ripe Healing Herb
+> END STRING
+
+> BEGIN STRING
+体力を完全に回復する草。
+> CONTEXT: Items/4/description/
+Herb that will comepletely recover strength.
+> END STRING
+
+> BEGIN STRING
+月光草
+> CONTEXT: Items/5/name/
+Moonlight Seedling
+> END STRING
+
+> BEGIN STRING
+ＭＰを回復する草。
+> CONTEXT: Items/5/description/
+A seedling that recovers some MP.
+> END STRING
+
+> BEGIN STRING
+人間性
+> CONTEXT: Items/6/name/
+Human Nature
+> END STRING
+
+> BEGIN STRING
+人間性を1得る。
+> CONTEXT: Items/6/description/
+Obtain one human nature.
+> END STRING
+
+> BEGIN STRING
+月光花
+> CONTEXT: Items/7/name/
+Moonlight Flower
+> END STRING
+
+> BEGIN STRING
+ＭＰを完全に回復する花。
+> CONTEXT: Items/7/description/
+A flower that completely recovers MP.
+> END STRING
+
+> BEGIN STRING
+透視鏡
+> CONTEXT: Items/8/name/
+X-Ray Mirror
+> END STRING
+
+> BEGIN STRING
+使用することにより、断面図表現の有無を選択できる。
+> CONTEXT: Items/8/description/
+Turns on or off the cross section display.
+> END STRING
+
+> BEGIN STRING
+耳栓
+> CONTEXT: Items/9/name/
+Earplug
+> END STRING
+
+> BEGIN STRING
+使用することにより、H時のメッセージの有無を変更できる。
+> CONTEXT: Items/9/description/
+Turns on or off messages during sex scenes.
+> END STRING
+
+> BEGIN STRING
+砂時計
+> CONTEXT: Items/10/name/
+Hourglass
+> END STRING
+
+> BEGIN STRING
+使用することにより、戦闘時のバトルスピードを変更できます。
+> CONTEXT: Items/10/description/
+Allows you to change the action speed during battle.
+> END STRING
+
+> BEGIN STRING
+一時の浄化
+> CONTEXT: Items/11/name/
+Purification of temporarily
+> END STRING
+
+> BEGIN STRING
+使用することにより、睡姦モードを設定できる。
+> CONTEXT: Items/11/description/
+You can set the mode?
+> END STRING
+
+> BEGIN STRING
+一時の生身
+> CONTEXT: Items/12/name/
+Temp Living Body
+> END STRING
+
+> BEGIN STRING
+一時的に生身を取り戻し、一度だけHが可能になる。
+> CONTEXT: Items/12/description/
+Temporarily regained flesh and blood, it is possible to H only once.
+> END STRING
+
+> BEGIN STRING
+苦無
+> CONTEXT: Items/13/name/
+Kunai
+> END STRING
+
+> BEGIN STRING
+先端に毒の塗られた投擲武器。敵を毒状態にする。
+> CONTEXT: Items/13/description/
+A poisoned throwing weapon. Has a chance to inflict poison on an enemy.
+> END STRING
+
+> BEGIN STRING
+武器に炎を纏わせる。
+> CONTEXT: Items/14/description/
+Weapon to clothe the flame.
+> END STRING
+
+> BEGIN STRING
+武器に強力な炎を纏わせる。
+> CONTEXT: Items/15/description/
+Wear a strong flame to arms. 
+> END STRING
+
+> BEGIN STRING
+武器に魔力を宿らせる。
+> CONTEXT: Items/16/description/
+To dwell magic weapon.
+> END STRING
+
+> BEGIN STRING
+油をつめた壷。敵に投げつける武器。
+> CONTEXT: Items/17/description/
+Oil the nails was pot. Weapon throwing the enemy.
+> END STRING
+
+> BEGIN STRING
+油に火薬を混ぜた火炎壷。
+> CONTEXT: Items/18/description/
+Flame jar that mixed gunpowder with oil. 
+> END STRING
+
+> BEGIN STRING
+爆裂火炎壷
+> CONTEXT: Items/19/name/
+Explosion Flame Jar
+> END STRING
+
+> BEGIN STRING
+非常に強力な火炎壷。
+> CONTEXT: Items/19/description/
+Very Strong Flame Jar
+> END STRING
+
+> BEGIN STRING
+刃石の欠片
+> CONTEXT: Items/20/name/
+Fragments of the blade stone
+> END STRING
+
+> BEGIN STRING
+武器強化の素材。
+> CONTEXT: Items/20/description/
+> CONTEXT: Items/21/description/
+> CONTEXT: Items/22/description/
+> CONTEXT: Items/23/description/
+Material of weapons enhancement.
+> END STRING
+
+> BEGIN STRING
+刃石の大欠片
+> CONTEXT: Items/21/name/
+Large pieces of stone blade
+> END STRING
+
+> BEGIN STRING
+刃石の塊
+> CONTEXT: Items/22/name/
+Mass of blade stone
+> END STRING
+
+> BEGIN STRING
+純粋な刃石
+> CONTEXT: Items/23/name/
+Pure blade stone
+> END STRING
+
+> BEGIN STRING
+剣の破片
+> CONTEXT: Items/24/name/
+Debris of the sword
+> END STRING
+
+> BEGIN STRING
+砕けた剣の破片。
+> CONTEXT: Items/24/description/
+Splinter of broken sword. 
+> END STRING
+
+> BEGIN STRING
+身代わり
+> CONTEXT: Items/25/name/
+Substitute
+> END STRING
+
+> BEGIN STRING
+一度だけ、死んでも何も失わない。
+> CONTEXT: Items/25/description/
+You will not loose anything when you die. (One time use)
+> END STRING
+
+> BEGIN STRING
+遺書
+> CONTEXT: Items/26/name/
+Testament
+> END STRING
+
+> BEGIN STRING
+一度だけ何処でもセーブができる。
+> CONTEXT: Items/26/description/
+Allows you to save anywhere. (One time use)
+> END STRING
+
+> BEGIN STRING
+亡者を一時的に混乱させる。
+> CONTEXT: Items/27/description/
+Confuse the dead temporarily. 
+> END STRING
+
+> BEGIN STRING
+故も知らぬ戦士のソウル
+> CONTEXT: Items/28/name/
+Soul of warrior who doesn't know reason
+> END STRING
+
+> BEGIN STRING
+使用することにより、わずかにソウルを得る。
+> CONTEXT: Items/28/description/
+Obtain Soul by using it slightly. 
+> END STRING
+
+> BEGIN STRING
+高名な戦士のソウル
+> CONTEXT: Items/29/name/
+Soul of the famous warrior
+> END STRING
+
+> BEGIN STRING
+使用することにより、ソウルを得る。
+> CONTEXT: Items/29/description/
+Obtain soul by using.
+> END STRING
+
+> BEGIN STRING
+伝承の戦士のソウル
+> CONTEXT: Items/30/name/
+Soul of a Legendary Warrior
+> END STRING
+
+> BEGIN STRING
+使用することにより、多くのソウルを得る。
+> CONTEXT: Items/30/description/
+Obtain a large amount of souls by using.
+> END STRING
+
+> BEGIN STRING
+伝説の戦士のソウル
+> CONTEXT: Items/31/name/
+Soul of a Legendary Warrior
+> END STRING
+
+> BEGIN STRING
+使用することにより、膨大なソウルを得る。
+> CONTEXT: Items/31/description/
+Obtain a huge amount of souls by using.
+> END STRING
+
+> BEGIN STRING
+アラクニドのデモンズソウル
+> CONTEXT: Items/32/name/
+Arachnids Soul
+> END STRING
+
+> BEGIN STRING
+デーモン「アラクニド」のソウル。使用できるが武器の素材にもなる。
+> CONTEXT: Items/32/description/
+A Arachnid Demons soul. It can be used also as a weapon of the material.
+> END STRING
+
+> BEGIN STRING
+ゴーレムの核
+> CONTEXT: Items/33/name/
+Golem Nucleus
+> END STRING
+
+> BEGIN STRING
+デーモン「ゴーレム」の核。使用出来るが武器の素材にもなる。
+> CONTEXT: Items/33/description/
+The nucleus of a Golem Demon. A crafting material for weapons.
+> END STRING
+
+> BEGIN STRING
+人形のデモンズソウル
+> CONTEXT: Items/34/name/
+Doll Demon Soul
+> END STRING
+
+> BEGIN STRING
+デーモン「人形」のソウル。使用出来るが武器の素材にもなる。
+> CONTEXT: Items/34/description/
+A Doll Demons soul. It can be used also as a weapon of the material.
+> END STRING
+
+> BEGIN STRING
+女王のデモンズソウル
+> CONTEXT: Items/35/name/
+Demon Queen's Soul
+> END STRING
+
+> BEGIN STRING
+女王「クラウディア」のソウル。使用出来るが武器の素材にもなる。
+> CONTEXT: Items/35/description/
+The Demon Queens soul. It can be used also as a weapon of the material.
+> END STRING
+
+> BEGIN STRING
+灯守のデモンズソウル
+> CONTEXT: Items/36/name/
+Demons of Light protect Seoul
+> END STRING
+
+> BEGIN STRING
+灯守のソウル。使用出来るが武器の素材にもなる。
+> CONTEXT: Items/36/description/
+The soul of Akarimori. It can be used also as a weapon of the material.
+> END STRING
+
+> BEGIN STRING
+大きな種火
+> CONTEXT: Items/37/name/
+Large seed fire
+> END STRING
+
+> BEGIN STRING
+非常に高温が出せる種火。より強力な武器を作り出せる。
+> CONTEXT: Items/37/description/
+Pilot flame that very put out a high temperature. Able to produce a more powerful weapon.
+> END STRING
+
+> BEGIN STRING
+霊樹の杖
+> CONTEXT: Items/38/name/
+Cane spirit tree
+> END STRING
+
+> BEGIN STRING
+魔術の触媒となる杖。
+> CONTEXT: Items/38/description/
+Walking stick that becomes catalyst of sorcery. 
+> END STRING
+
+> BEGIN STRING
+塔一階の鍵
+> CONTEXT: Items/39/name/
+1st Floor Tower Key
+> END STRING
+
+> BEGIN STRING
+ファーブラの塔の鍵。
+> CONTEXT: Items/39/description/
+> CONTEXT: Items/40/description/
+> CONTEXT: Items/41/description/
+> CONTEXT: Items/42/description/
+The key to the tower of Fabra.
+> END STRING
+
+> BEGIN STRING
+東塔二階の鍵
+> CONTEXT: Items/40/name/
+2nd Floor East Tower Key
+> END STRING
+
+> BEGIN STRING
+西塔二階の鍵
+> CONTEXT: Items/41/name/
+2nd Floor West Tower Key
+> END STRING
+
+> BEGIN STRING
+塔三階の鍵
+> CONTEXT: Items/42/name/
+3rd Floor Tower Key
+> END STRING
+
+> BEGIN STRING
+毒消し草
+> CONTEXT: Items/43/name/
+Antidote Seed
+> END STRING
+
+> BEGIN STRING
+毒を消す草。
+> CONTEXT: Items/43/description/
+Seed that coutneracts poison.
+> END STRING
+
+> BEGIN STRING
+名も無き戦士のデモンズソウル
+> CONTEXT: Items/44/name/
+Dead Warrior's Soul
+> END STRING
+
+> BEGIN STRING
+戦士のソウル。使用出来るが武器の素材にもなる。
+> CONTEXT: Items/44/description/
+Warrior's Soul. It can be used also as a weapon of the material.
+> END STRING

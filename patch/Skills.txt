@@ -1,0 +1,177 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+雷電
+> CONTEXT: Skills/1/name/
+> CONTEXT: Skills/16/name/
+Thunderbolt
+> END STRING
+
+> BEGIN STRING
+魔術による雷。
+> CONTEXT: Skills/1/description/
+> CONTEXT: Skills/16/description/
+> CONTEXT: Skills/19/description/
+Cast a lightning bolt.
+> END STRING
+
+> BEGIN STRING
+噛み付き
+> CONTEXT: Skills/2/name/
+> CONTEXT: Skills/12/name/
+Bite
+> END STRING
+
+> BEGIN STRING
+斬りつけ
+> CONTEXT: Skills/3/name/
+Put the sword
+> END STRING
+
+> BEGIN STRING
+踏み潰し
+> CONTEXT: Skills/4/name/
+Crushing
+> END STRING
+
+> BEGIN STRING
+轟雷
+> CONTEXT: Skills/5/name/
+Roaring thunder
+> END STRING
+
+> BEGIN STRING
+複数の雷電を同時に収束し放つ魔術。
+> CONTEXT: Skills/5/description/
+Sorcery that settles at the same time and shoots two or more thunders. 
+> END STRING
+
+> BEGIN STRING
+雷の嵐
+> CONTEXT: Skills/6/name/
+> CONTEXT: Skills/19/name/
+Storm of thunder
+> END STRING
+
+> BEGIN STRING
+全てをなぎ払う雷。
+> CONTEXT: Skills/6/description/
+Thunder that everything is cut down. 
+> END STRING
+
+> BEGIN STRING
+完全なる防護
+> CONTEXT: Skills/7/name/
+> CONTEXT: States/10/name/
+Complete protection
+> END STRING
+
+> BEGIN STRING
+奇跡の力により、ダメージを大幅に減少させる。
+> CONTEXT: Skills/7/description/
+Decrease damage by the miraculous power greatly. 
+> END STRING
+
+> BEGIN STRING
+治癒
+> CONTEXT: Skills/8/name/
+Recovery
+> END STRING
+
+> BEGIN STRING
+奇跡の力により、体を癒す。
+> CONTEXT: Skills/8/description/
+Heal the body according to the miraculous power. 
+> END STRING
+
+> BEGIN STRING
+触手
+> CONTEXT: Skills/9/name/
+Tentacle
+> END STRING
+
+> BEGIN STRING
+回避
+> CONTEXT: Skills/10/name/
+> CONTEXT: States/19/name/
+Evasion
+> END STRING
+
+> BEGIN STRING
+体当たり
+> CONTEXT: Skills/11/name/
+Hurling
+> END STRING
+
+> BEGIN STRING
+火炎壷
+> CONTEXT: Skills/13/name/
+> CONTEXT: Items/17/name/
+Flame pot
+> END STRING
+
+> BEGIN STRING
+黒火炎壷
+> CONTEXT: Skills/14/name/
+> CONTEXT: Items/18/name/
+Black flame pot
+> END STRING
+
+> BEGIN STRING
+火炎
+> CONTEXT: Skills/15/name/
+Flame
+> END STRING
+
+> BEGIN STRING
+毒花粉
+> CONTEXT: Skills/17/name/
+Poisonous flower powder
+> END STRING
+
+> BEGIN STRING
+鉤爪
+> CONTEXT: Skills/18/name/
+Claw
+> END STRING
+
+> BEGIN STRING
+ソウルの矢
+> CONTEXT: Skills/20/name/
+Saul's arrow
+> END STRING
+
+> BEGIN STRING
+ソウルの大矢
+> CONTEXT: Skills/21/name/
+Saul's large arrow
+> END STRING
+
+> BEGIN STRING
+突き
+> CONTEXT: Skills/22/name/
+Piercing
+> END STRING
+
+> BEGIN STRING
+ソウルの刃
+> CONTEXT: Skills/23/name/
+Saul's blade
+> END STRING
+
+> BEGIN STRING
+乱れ切り
+> CONTEXT: Skills/24/name/
+Disorder cutting
+> END STRING
+
+> BEGIN STRING
+スマッシャー
+> CONTEXT: Skills/25/name/
+Smasher
+> END STRING
+
+> BEGIN STRING
+発破
+> CONTEXT: Skills/26/name/
+Blast
+> END STRING

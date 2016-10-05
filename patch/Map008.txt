@@ -1,0 +1,24 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+マグマに触れると危険
+> CONTEXT: Map008/events/204/pages/0/0/Dialogue
+Dangerous to touch the lava
+> END STRING
+
+> BEGIN STRING
+ここから飛び降りれそうだ。
+> CONTEXT: Map008/events/214/pages/0/0/Dialogue
+It seems I can jump down from here.
+> END STRING
+
+> BEGIN STRING
+？？？
+「すまない！
+　そこに誰かいるのなら助けてはもらえないか！？
+　化け物に追われて動けんのだ！」
+> CONTEXT: Map008/events/230/pages/0/0/Dialogue
+？？？
+「Sorry!
+　Can I please get some help！？
+　I was chased by a monster and now I am stuck！」
+> END STRING

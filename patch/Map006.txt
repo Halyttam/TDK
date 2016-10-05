@@ -1,0 +1,1022 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+生存者も亡者になることがある。
+> CONTEXT: Map006/events/1/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+クリア後に訪れれば…
+> CONTEXT: Map006/events/2/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「タルパ鉱山」
+かつて多くの鉱物を採掘していた国の資源の要だった場所。
+いまはただ、亡者となってなお無意味に働く奴隷達と
+穴倉に潜むデーモンがさ迷う薄気味の悪い洞穴になっている。
+> CONTEXT: Map006/events/10/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/61/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/69/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+あなたは倒れ、ソウルのみがこの地に囚われました。
+> CONTEXT: Map006/events/24/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソウル体ではHPが半減し、性交をすることも出来ません。
+（一部イベントを除く）
+生身を取り戻すには、
+この地のどこかで人間性を得る必要があります。
+> CONTEXT: Map006/events/24/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム「人間性」は使用することにより、
+人間性を得ることが出来ます。
+現在の人間性はメニュー画面で確認できます。
+> CONTEXT: Map006/events/24/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+焚き火で人間性を消費することによって
+生身に戻ることが出来ます。
+> CONTEXT: Map006/events/24/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+また、敵に倒されるなどして死亡してしまった場合
+今まで持っていたソウルと人間性を失ってしまいます。
+（アイテムなどは失いません）
+> CONTEXT: Map006/events/24/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+しかし、自分が死亡した場所まで戻り
+その場に残されている「剣」に触れると
+失ったソウルと人間性を取り戻すことが出来ます。
+> CONTEXT: Map006/events/24/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ただし、死亡する直前のソウルと人間性しか残らないので
+その点は注意してください。
+> CONTEXT: Map006/events/24/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+つまりは、失ったソウルを回収しないまま、
+もう一度死亡してしまった場合は、
+回収できなかったソウルと人間性は
+永久にロストすることになってしまうということです。
+> CONTEXT: Map006/events/24/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"亡国への誘い"
+> CONTEXT: Map006/events/24/pages/0/46/InlineScript/1:8 < UNTRANSLATED
+> CONTEXT: Commonevents/190/10/InlineScript/1:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"クレスプクルムへ入国"
+> CONTEXT: Map006/events/24/pages/0/46/InlineScript/1:18 < UNTRANSLATED
+> CONTEXT: Commonevents/190/10/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「・・・お待ちしていました、デーモンを殺す者よ・・・」
+> CONTEXT: Map006/events/45/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ここは、呪われた亡国”クレスプクルム”の
+　かつての聖域・・・。
+　今はただ朽ち果て、私が灯守をしているだけです。」
+> CONTEXT: Map006/events/45/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「不思議とここには亡者もデーモンを訪れませんが
+　わずかに生き残った人々も、ここを出ることも出来ずにいます」
+> CONTEXT: Map006/events/45/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あなたがなぜこの地に訪れたのかは分かりませんが
+　もしもあなたに戦う力があるのならば
+　どうぞ、彼らをお救いください。
+　その為ならば、私もわずかながらですが力をお貸ししましょう」
+> CONTEXT: Map006/events/45/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「幸い、不思議なことに私には
+　生まれながらにしてソウルを操る力があります。
+　もしあなたがソウルを持ってきたのなら
+　それをあなたの力に変えましょう」
+> CONTEXT: Map006/events/45/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そしてどうかその力で
+　この悲劇の元凶である女王を打ち倒してください」
+> CONTEXT: Map006/events/45/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「この国の女王こそが
+　すべてのデーモンを操っています。」
+> CONTEXT: Map006/events/45/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「かつて女王は不治の病に倒れ、
+　死を恐れた彼女は永遠の命を手に入れるため
+　デーモンを使いソウルを集めているのです。」
+> CONTEXT: Map006/events/45/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「彼女を倒し、ソウルをあるべき場所に戻せば
+　この悲劇も終わらせることが出来るでしょう」
+> CONTEXT: Map006/events/45/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうか、お願いします。
+　女王を倒してください」
+> CONTEXT: Map006/events/45/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソウルの力を求めますか？\\G　　　　　　　　　　必要ソウル”\\V[8]”
+> CONTEXT: Map006/events/45/pages/2/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+求める
+> CONTEXT: Map006/events/45/pages/2/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+求めない
+> CONTEXT: Map006/events/45/pages/2/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/5/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+HPを100あげる
+> CONTEXT: Map006/events/45/pages/2/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/13/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/8/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+MPを20あげる
+> CONTEXT: Map006/events/45/pages/2/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/13/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/8/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+他の能力を上げる
+> CONTEXT: Map006/events/45/pages/2/8/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/7/Choice/2 < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/13/Choice/2 < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/8/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+筋力を10上げる
+> CONTEXT: Map006/events/45/pages/2/22/Choice/0 < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/21/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/27/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/22/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頑強を10上げる
+> CONTEXT: Map006/events/45/pages/2/22/Choice/1 < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/21/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/27/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/22/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔力を10上げる
+> CONTEXT: Map006/events/45/pages/2/22/Choice/2 < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/21/Choice/2 < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/27/Choice/2 < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/22/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俊敏を10上げる
+> CONTEXT: Map006/events/45/pages/2/22/Choice/3 < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/21/Choice/3 < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/27/Choice/3 < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/22/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソウルが足りません。
+> CONTEXT: Map006/events/45/pages/2/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/27/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/127/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/128/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+扉は硬く閉ざされている。
+> CONTEXT: Map006/events/46/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+
+       　　                 YOU REVIVIED
+> CONTEXT: Map006/events/46/pages/3/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術は強力だが、その分詠唱に時間がかかる。
+> CONTEXT: Map006/events/48/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「なんだ、あんた？
+　いったい、こんな国に何しに来たんだ？」
+> CONTEXT: Map006/events/51/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「正義の味方を気取って悪魔退治か？
+　それとも火事場泥棒？
+　なんにしたって悪いことはいわねーから
+　さっさと帰ったほうがいいぜ？」
+> CONTEXT: Map006/events/51/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ま、こんな体じゃどこにも帰れはしないがな・・・。」
+> CONTEXT: Map006/events/51/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「もし、ソウルや人間性が欲しいなら
+　この上の光る石版の向こうにたんとあるさ。
+　亡者やデーモンどもと一緒にな」
+> CONTEXT: Map006/events/51/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どんな仕組みかは知らないが
+　あの石版に触れれば
+　この国のあちこちにいける」
+> CONTEXT: Map006/events/51/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ま、帰ってこれる保証は無いがね」
+> CONTEXT: Map006/events/51/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「それにしても、物好きなやつらは意外と多いんだな。
+　お前の前にも
+　教会の尼さんやら、変なばばあやら
+　ガキみたいな商人まできやがった」
+> CONTEXT: Map006/events/51/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「いったい、何をやりたいのやら・・・」
+> CONTEXT: Map006/events/51/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ん？なんだ？
+　まだなんか用事があんのか？
+　・・・・・・はん。
+　だったらこれをやるよ」
+> CONTEXT: Map006/events/51/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「金なんかじゃないぜ。
+　ソウルと交換だ」
+> CONTEXT: Map006/events/51/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あんたもこういうのが好きなたちなんだろ？
+　俺はもういいさ。
+　どうだってな・・・」
+> CONTEXT: Map006/events/51/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+性交をすると人間性を得ることがある
+> CONTEXT: Map006/events/52/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この紙で実績が確認できる。
+> CONTEXT: Map006/events/54/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「あ、
+　・・・・・・も、もしかして
+　あなたもデーモンと戦うんですか？」
+> CONTEXT: Map006/events/55/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だ、だったら、どうか
+　私に武器を鍛えさせてください！
+　どうか、その武器で
+　私の父の敵をとってください」
+> CONTEXT: Map006/events/55/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「私に鍛冶を教えてくれた父は
+　私をかばってデーモンに殺されました・・・。
+　だけど、私には敵なんて取れない・・・」
+> CONTEXT: Map006/events/55/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「だからどうか、私が鍛えた武器で
+　デーモンを殺してください。
+　父には遠く及びませんが
+　それでも基本ぐらいは分かります」
+> CONTEXT: Map006/events/55/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうか、お願いします」
+> CONTEXT: Map006/events/55/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鍛冶を頼む
+> CONTEXT: Map006/events/55/pages/1/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/2/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/3/21/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/4/21/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/5/1/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/6/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+物を買う
+> CONTEXT: Map006/events/55/pages/1/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/2/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/3/21/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/4/21/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/5/1/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/6/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「！？
+　その種火は・・・。
+　すごい炎・・・！
+　それがあればきっともっと強い武器を作れます！」
+> CONTEXT: Map006/events/55/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「どうかそれを私に譲ってくれませんか！？」
+> CONTEXT: Map006/events/55/pages/3/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/4/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ありがとうございます！
+　きっと最高の武器を作って見せます！」
+> CONTEXT: Map006/events/55/pages/3/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/4/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「そうですか・・・。
+　わかりました・・・・・・」
+> CONTEXT: Map006/events/55/pages/3/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/55/pages/4/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「おぬし・・・城へ向かうのか？
+　そうか・・・ならわしに出来ることであれば協力しよう。
+　さりとて簡単な魔術を教えることぐらいしかできぬが・・・」
+> CONTEXT: Map006/events/58/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+話を聞く
+> CONTEXT: Map006/events/58/pages/1/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術を教わる
+> CONTEXT: Map006/events/58/pages/1/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「せめてソウルを奪われたものたちを
+　この亡者という呪縛から開放し
+　安からに眠らせてやりたいのだが・・・」
+> CONTEXT: Map006/events/58/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/58/pages/1/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/58/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「わしはそもそも、宮廷の文官として勤めておったのだ。
+　だが、女王様が病に伏せられて以来
+　城の中は一変してしまった」
+> CONTEXT: Map006/events/58/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「女王様の病は医者ではどうにも出来ず
+　高名な魔術師にも手の程こうしようが無かった」
+> CONTEXT: Map006/events/58/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「とうとう女王様はわらにもすがる思いで
+　怪しげな儀式を行い
+　古き魔物を呼び覚ましたのじゃ」
+> CONTEXT: Map006/events/58/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「古き魔物は女王様にソウルの業を教え
+　その見返りとして民のソウルを望んだのじゃ」
+> CONTEXT: Map006/events/58/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「以前の女王様であればそのような取引に
+　応じるはずも無かったのじゃが
+　女王様はすでにソウルに酔い、ソウルに狂っておった・・・」
+> CONTEXT: Map006/events/58/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「悪魔は契約をなし
+　民のソウルを次々と奪い、そして
+　その半分を女王に渡し、去っていった・・・」
+> CONTEXT: Map006/events/58/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「あとはごらんの有様じゃ。
+　もはやこの国は滅び去る運命・・・」
+> CONTEXT: Map006/events/58/pages/1/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「1000ソウルがあれば魔術「雷電」を教えれるのだが
+　どうする？」\\G
+> CONTEXT: Map006/events/58/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+教わる
+> CONTEXT: Map006/events/58/pages/1/60/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+教わらない
+> CONTEXT: Map006/events/58/pages/1/60/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術「雷電」を覚えた。
+> CONTEXT: Map006/events/58/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賢者
+「そうか。ならば仕方あるまい。
+　気が向いたらまた声をかけてくれ」
+> CONTEXT: Map006/events/58/pages/1/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「ファーブラの塔」
+もともとは教会として建てられた美しい塔であったが、
+巨大な牢獄にその姿を変えた。
+> CONTEXT: Map006/events/59/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/87/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+乱心した女王に刃向かった物が次々に囚われ、
+無意味な拷問にかけられ獄死していった狂った場所となる。
+> CONTEXT: Map006/events/59/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/87/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頂上の教会では
+見せしめの為に殺され、その骸を人形に変えられた少女が
+デーモンに操られている。
+> CONTEXT: Map006/events/59/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/87/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この先の敵、魔法が有効
+> CONTEXT: Map006/events/60/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+怪しげな商人
+「おやおや、
+　あなたもこの国で一儲けしようと、こられたんですか？」
+> CONTEXT: Map006/events/63/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+怪しげな商人
+「ならば、持ちつ持たれつ。
+　ここではソウルがないとすぐに亡者になってしまいますからねぇ。
+　私の商品と交換しましょうじゃないですか」
+> CONTEXT: Map006/events/63/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「あら？
+　あなたソウルを持ってる？
+　だったら、あたしの体、買わない？」
+> CONTEXT: Map006/events/66/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「前は娼婦をしてたから
+　いい仕事できると思うわよ？」
+> CONTEXT: Map006/events/66/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「あたしも亡者になんてなりたくないから
+　・・・３０００ソウルでどう？」\\G
+> CONTEXT: Map006/events/66/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「どう？
+　なかなかいい体してるでしょ？」
+> CONTEXT: Map006/events/66/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「またよろしくね」
+> CONTEXT: Map006/events/66/pages/1/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/3/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+娼婦
+「あら？
+　またあたしのこと、買ってくれる？」
+
+> CONTEXT: Map006/events/66/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3000ソウル　\\G
+> CONTEXT: Map006/events/66/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「モンターナの丘」
+国内随一の高さを誇る渓谷。貴重な薬剤として使われる花が自生し
+かつては国の重要な貿易品の採取場であったが、今はただ
+亡者とデーモンが徘徊し、崖から落ちれば無事ではすまないだろう。
+> CONTEXT: Map006/events/68/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/70/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/77/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強大な力により封印されている。
+デーモンの長によって守られる三つの石碑を開放すれば
+この道は開かれるであろう。
+> CONTEXT: Map006/events/71/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/92/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「クレプスクルム城」
+崖の上に佇むその城は、かつては難攻不落の名城として
+称えられていたが、デーモンの襲撃と女王の裏切りにより
+もはや見る影もなく荒廃している。
+> CONTEXT: Map006/events/71/pages/1/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/92/pages/1/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/98/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+頂上の荒れ果てた謁見の間に
+女王は静かに立っている・・・。
+> CONTEXT: Map006/events/71/pages/1/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/92/pages/1/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/98/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「あ、ご無事でしたか。
+　え？　いやあの、大事な取引相手ですからね。それだけですよ。
+　ほら、何か買ってくださいよ」
+> CONTEXT: Map006/events/72/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この先の敵、炎が有効
+> CONTEXT: Map006/events/74/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「息災のようで何よりだ。
+　わしに出来ることであれば微力ながら力を貸そう」
+> CONTEXT: Map006/events/78/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔術を教えてもらう
+> CONTEXT: Map006/events/78/pages/1/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/2/6/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+体でお礼をしてもらう
+> CONTEXT: Map006/events/78/pages/1/5/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「わしはこの国の女王が契約を交わしたという
+　古のデーモンを探してきたのだが
+　どうも、みつからぬ」
+> CONTEXT: Map006/events/78/pages/1/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「古のデーモンがもつというソウルの業に興味があったのだが
+　姿が見えんのではどうしようもない。
+　まだ、立ち去ってはおらぬと思うが」
+> CONTEXT: Map006/events/78/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「強大な力の気配はするのだが
+　それらしいものなど見当たらぬのでな・・・」
+> CONTEXT: Map006/events/78/pages/1/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「悪魔と女王がどのような契約を交わしたかは知らぬが
+　悪魔は契約だけは必ず守る。
+　しかし、結局は契約者自身の破滅を招くのが常」
+> CONTEXT: Map006/events/78/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「女王も半ばだまされたような形で契約したのか
+　それとも・・・」
+> CONTEXT: Map006/events/78/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「いずれにせよ、この国はもはやどうしようもあるまい・・・」
+> CONTEXT: Map006/events/78/pages/1/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/2/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「？
+　体で・・・？
+　それはその・・・わしとまぐわいたいというのか？」
+> CONTEXT: Map006/events/78/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「いや、
+　おぬしには恩もあるのでやぶさかではないが・・・
+　わしなどで本当によいのか？」
+> CONTEXT: Map006/events/78/pages/1/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「・・・うむ、わかった。
+　そこまでゆうのであれば、おぬしといたそう」
+> CONTEXT: Map006/events/78/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「息災のようだな。
+　次も無事に戻るのだぞ。
+　おぬしの亡者など見たくはないのでな」
+> CONTEXT: Map006/events/78/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「よかった、ご無事でしたか・・・。
+　あなたに神のご加護がありますように・・・」
+> CONTEXT: Map006/events/89/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「しかし、この地はもはや救われぬ亡者で溢れかえり
+　私ごとき後からでは到底しようもありませんでした・・・」
+> CONTEXT: Map006/events/89/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「お供はみな倒れ、私一人が残され
+　もはやこれまでと思いましたが・・・。
+　まだ私にも出来ることがないか、探してみようと思います」
+> CONTEXT: Map006/events/89/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+コルネリア
+「あ・・・。
+　よかった、無事だったんだ・・・。
+　また、帰ってきてね・・・」
+> CONTEXT: Map006/events/94/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/95/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+デーモンの長により封じられていた三つの石碑が解放されました。
+これにより、クレプスクルム城への転送が可能になりました。
+> CONTEXT: Map006/events/96/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+借りを返してもらう
+> CONTEXT: Map006/events/99/pages/1/1/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「・・・これから先、いったいどうするかな・・・。
+　国が滅びた今、私にはもはや目的は何もない・・・。
+　流浪の旅にでるのもいいかもな・・・」
+> CONTEXT: Map006/events/99/pages/1/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/99/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「借りを・・・？
+　それはかまわんが
+　一体何をしたらいいんだ？」
+> CONTEXT: Map006/events/99/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「・・・？
+　私を抱きたい・・・？
+　・・・・・・本気で言っているのか？」
+> CONTEXT: Map006/events/99/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「・・・・・・わかった、よかろう。
+　借りは借りだ。
+　騎士に二言はない」
+> CONTEXT: Map006/events/99/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「だが、私はその・・・そういうことには疎くてな・・・。
+　あ、あまり期待はするなよ・・・！」
+> CONTEXT: Map006/events/99/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「お前はどうする？
+　・・・もし、特に予定がないのなら
+　その・・・いっしょに、だな・・・行ってやってもいいぞ・・・」
+> CONTEXT: Map006/events/99/pages/2/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+　　　　　全てのデーモンの長を倒しました。
+　　　　　最後に灯守の少女に話しかけ
+　　　　　ソウルをあるべき場所へ還しましょう。
+> CONTEXT: Map006/events/100/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「デーモンを殺すものよ。
+　さあ、ソウルをあるべき場所へ還しましょう」
+> CONTEXT: Map006/events/127/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+その前にソウルの力を求める
+> CONTEXT: Map006/events/127/pages/0/4/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ついていく
+> CONTEXT: Map006/events/127/pages/0/4/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「では行きましょう」
+> CONTEXT: Map006/events/127/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この先の敵、殴りたい
+> CONTEXT: Map006/events/131/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+自由騎士
+> CONTEXT: Classes/1/name/
+Free Knight
+> END STRING

@@ -1,0 +1,94 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+エレオノーラ
+「？
+　おぬし、亡者ではないのか？
+　ならばわしを助けてはもらえぬか？」
+> CONTEXT: Map013/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「油断してこのような場所に捕らえられてしまってな。
+　魔術の触媒を奪われ、手足を縛られては何も出来ん」
+> CONTEXT: Map013/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「しかし、こんなところでむざむざ亡者になるわけにもゆかぬ。
+　どうか、触媒を取り戻してきてくれないか」
+> CONTEXT: Map013/events/4/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「あまり出来ることは無いが
+　この魔女エレオノーラ、それなりの礼はしよう」
+> CONTEXT: Map013/events/4/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「触媒はみつかったか？」
+> CONTEXT: Map013/events/4/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女が持っていた「一時の生身」を奪い使った。
+> CONTEXT: Map013/events/4/pages/1/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔女を捨て置き
+その場を立ち去った。
+> CONTEXT: Map013/events/4/pages/1/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/2/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「すまぬが、
+　早く探し出してきてくれ。近くにあると思うのだ」
+> CONTEXT: Map013/events/4/pages/1/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map013/events/4/pages/2/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+触媒を渡す
+> CONTEXT: Map013/events/4/pages/2/4/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「おお、これよこれ！
+　ありがたい、恩に着る。
+　こんなものしかないが受け取ってくれ」
+> CONTEXT: Map013/events/4/pages/2/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「触媒さえあれば聖域に戻ることぐらい造作も無い。
+　わしのことはかまわず、先を急ぐがよい」
+> CONTEXT: Map013/events/4/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+朽ちかけの鍵を壊した。
+> CONTEXT: Map013/events/16/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING

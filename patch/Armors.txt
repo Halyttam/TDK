@@ -1,0 +1,195 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+隼の指輪
+> CONTEXT: Armors/1/name/
+Fumble's ring
+> END STRING
+
+> BEGIN STRING
+戦闘時での行動が非常に速くなる指輪。
+> CONTEXT: Armors/1/description/
+Ring that greatly inceases action speed.
+> END STRING
+
+> BEGIN STRING
+しがみつく者の指輪
+> CONTEXT: Armors/2/name/
+Ring of clinging person
+> END STRING
+
+> BEGIN STRING
+ソウル体時にHPの減りが緩和される。
+> CONTEXT: Armors/2/description/
+Decreases the HP of Saul body
+> END STRING
+
+> BEGIN STRING
+強欲の指輪
+> CONTEXT: Armors/3/name/
+Ring of Greed 
+> END STRING
+
+> BEGIN STRING
+取得ソウル量が増加する指輪。
+> CONTEXT: Armors/3/description/
+Increase the amount of souls recieved.
+> END STRING
+
+> BEGIN STRING
+盗人の指輪
+> CONTEXT: Armors/4/name/
+Thief's Ring
+> END STRING
+
+> BEGIN STRING
+敵に発見されても追われなくなる指輪。
+> CONTEXT: Armors/4/description/
+Enimies will not chase you even if spotted.
+> END STRING
+
+> BEGIN STRING
+テスト用指輪
+> CONTEXT: Armors/5/name/
+Test Ring
+> END STRING
+
+> BEGIN STRING
+再生者の指輪
+> CONTEXT: Armors/7/name/
+Ring of Regeneration
+> END STRING
+
+> BEGIN STRING
+戦闘中に少しづつHPが回復する指輪。
+> CONTEXT: Armors/7/description/
+Restores a little HP at a time during battle.
+> END STRING
+
+> BEGIN STRING
+兵卒の盾
+> CONTEXT: Armors/8/name/
+Soldier's Shield
+> END STRING
+
+> BEGIN STRING
+どこにでもある大量生産のありふれた盾。
+> CONTEXT: Armors/8/description/
+A common solider's sheild which can be found anywhere on the battlefield.
+> END STRING
+
+> BEGIN STRING
+カイトシールド
+> CONTEXT: Armors/9/name/
+Knight Shield
+> END STRING
+
+> BEGIN STRING
+騎士のための上質な盾。
+> CONTEXT: Armors/9/description/
+> CONTEXT: Armors/10/description/
+Good quality knight's sheild.
+> END STRING
+
+> BEGIN STRING
+カイトシールド・改
+> CONTEXT: Armors/10/name/
+Revision the Kaito shield
+> END STRING
+
+> BEGIN STRING
+プレートヘルム
+> CONTEXT: Armors/11/name/
+Plate Helm
+> END STRING
+
+> BEGIN STRING
+標準的な鉄兜。
+> CONTEXT: Armors/11/description/
+Standard steel helmet.
+> END STRING
+
+> BEGIN STRING
+フリューテッドヘルム
+> CONTEXT: Armors/12/name/
+Flue Ted Helm
+> END STRING
+
+> BEGIN STRING
+騎士のための上質な鉄兜。
+> CONTEXT: Armors/12/description/
+> CONTEXT: Armors/13/description/
+High-quality steel helmet for a knight.
+> END STRING
+
+> BEGIN STRING
+フリューテッドヘルム・改
+> CONTEXT: Armors/13/name/
+Flues Ted Helm Kai
+> END STRING
+
+> BEGIN STRING
+コートオブプレート
+> CONTEXT: Armors/14/name/
+Coat of plates
+> END STRING
+
+> BEGIN STRING
+標準的な鎧。
+> CONTEXT: Armors/14/description/
+Standard armor. 
+> END STRING
+
+> BEGIN STRING
+フリューテッドアーマー
+> CONTEXT: Armors/15/name/
+Maximilian Armour
+> END STRING
+
+> BEGIN STRING
+騎士のための上質な鎧。
+> CONTEXT: Armors/15/description/
+> CONTEXT: Armors/16/description/
+High-quality armor for the knight.
+> END STRING
+
+> BEGIN STRING
+フリューテッドアーマー・改
+> CONTEXT: Armors/16/name/
+Maximilian Armour Kai
+> END STRING
+
+> BEGIN STRING
+白銀の盾
+> CONTEXT: Armors/17/name/
+Silver Shield
+> END STRING
+
+> BEGIN STRING
+祝福が施された盾。少しづつ体力が回復する。
+> CONTEXT: Armors/17/description/
+A blessed shield. Physical strength recovers little bit at a time during battle.
+> END STRING
+
+> BEGIN STRING
+白銀の兜
+> CONTEXT: Armors/18/name/
+Silver Helmet
+> END STRING
+
+> BEGIN STRING
+祝福が施された兜。魔術への抵抗が上がる。
+> CONTEXT: Armors/18/description/
+A blessed Helmet. Resistance to magic is increased while wearing.
+> END STRING
+
+> BEGIN STRING
+白銀の鎧
+> CONTEXT: Armors/19/name/
+Silver Armor
+> END STRING
+
+> BEGIN STRING
+祝福が施された鎧。炎への抵抗が上がる。
+> CONTEXT: Armors/19/description/
+A blessed Helmet. Resistance to flame damage is increased while wearing.
+> END STRING

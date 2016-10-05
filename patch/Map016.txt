@@ -1,0 +1,91 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+？？？
+「ひ！？
+　な、なんですか！？
+　私はしがないただの亡者ですよ？」
+> CONTEXT: Map016/events/61/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「皆様の邪魔はいたしません。
+　なにも悪いことなどしていませんよ。
+　ええ、していませんとも」
+> CONTEXT: Map016/events/61/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「ぎえええ！」
+> CONTEXT: Map016/events/61/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「誰かいるのか！？、
+　すまんが、力を貸してはくれないか！？」
+> CONTEXT: Map016/events/63/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+この先、強敵あり
+> CONTEXT: Map016/events/64/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map009/events/31/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/215/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/36/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+何度倒せばいいんだ・・・
+> CONTEXT: Map016/events/65/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+操り人形・・・
+> CONTEXT: Map016/events/66/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"教会"
+> CONTEXT: Map016/events/78/pages/0/1/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"人形遊び"
+> CONTEXT: Map016/events/78/pages/0/9/InlineScript/1:8 < UNTRANSLATED
+> CONTEXT: Commonevents/190/32/InlineScript/1:8 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"人形のデーモンを倒す"
+> CONTEXT: Map016/events/78/pages/0/9/InlineScript/1:16 < UNTRANSLATED
+> CONTEXT: Commonevents/190/32/InlineScript/1:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ファーブラの塔に飾られたデーモンの長の一人を倒しました。
+これにより隠されていた石碑の一つが開放されました。
+この石版からも「朽ちた聖域」への転送が可能です。
+> CONTEXT: Map016/events/78/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「はっはっは、愚か者め！
+　人形は滅びぬ！
+　何度でも蘇るのだ！！」
+> CONTEXT: Map016/events/78/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING

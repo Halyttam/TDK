@@ -1,0 +1,292 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+亡者奴隷娘
+> CONTEXT: Troops/1/name/
+> CONTEXT: Enemies/1/name/
+Zombie Girl
+> END STRING
+
+> BEGIN STRING
+亡者兵士
+> CONTEXT: Troops/2/name/
+> CONTEXT: Enemies/2/name/
+Zombie Soldier
+> END STRING
+
+> BEGIN STRING
+亡者戦士
+> CONTEXT: Troops/3/name/
+> CONTEXT: Troops/33/name/
+> CONTEXT: Enemies/3/name/
+Zombie Warrior
+> END STRING
+
+> BEGIN STRING
+ゴーレム
+> CONTEXT: Troops/4/name/
+> CONTEXT: Troops/24/name/
+> CONTEXT: Enemies/4/name/
+> CONTEXT: Enemies/24/name/
+Golem
+> END STRING
+
+> BEGIN STRING
+亡者鍛冶屋の娘
+> CONTEXT: Troops/5/name/
+> CONTEXT: Enemies/5/name/
+Zombie Blacksmith
+> END STRING
+
+> BEGIN STRING
+亡者賢者
+> CONTEXT: Troops/6/name/
+> CONTEXT: Troops/13/name/
+> CONTEXT: Enemies/6/name/
+> CONTEXT: Enemies/13/name/
+Zombie Sage
+> END STRING
+
+> BEGIN STRING
+亡者奴隷少女
+> CONTEXT: Troops/7/name/
+> CONTEXT: Enemies/7/name/
+Zombie Women
+> END STRING
+
+> BEGIN STRING
+亡者奴隷
+> CONTEXT: Troops/8/name/
+> CONTEXT: Enemies/8/name/
+Zombie
+> END STRING
+
+> BEGIN STRING
+亡者商人
+> CONTEXT: Troops/9/name/
+> CONTEXT: Enemies/10/name/
+Zombie Merchant
+> END STRING
+
+> BEGIN STRING
+闇霊商人
+> CONTEXT: Troops/10/name/
+> CONTEXT: Enemies/11/name/
+Dark Merchant
+> END STRING
+
+> BEGIN STRING
+スキュラ
+> CONTEXT: Troops/11/name/
+> CONTEXT: Enemies/9/name/
+Scylla
+> END STRING
+
+> BEGIN STRING
+アラクニド
+> CONTEXT: Troops/12/name/
+> CONTEXT: Enemies/12/name/
+Arachnids
+> END STRING
+
+> BEGIN STRING
+闇霊スキュラ
+> CONTEXT: Troops/14/name/
+> CONTEXT: Enemies/14/name/
+Darkness spirit Scylla
+> END STRING
+
+> BEGIN STRING
+亡者娼婦
+> CONTEXT: Troops/15/name/
+> CONTEXT: Enemies/15/name/
+Zombie Prostitue
+> END STRING
+
+> BEGIN STRING
+アルラウネ
+> CONTEXT: Troops/16/name/
+> CONTEXT: Enemies/16/name/
+Aruraune
+> END STRING
+
+> BEGIN STRING
+亡者女
+> CONTEXT: Troops/17/name/
+> CONTEXT: Enemies/17/name/
+Dead woman
+> END STRING
+
+> BEGIN STRING
+ハーピー
+> CONTEXT: Troops/18/name/
+> CONTEXT: Enemies/18/name/
+Harpy
+> END STRING
+
+> BEGIN STRING
+亡者熟女
+> CONTEXT: Troops/19/name/
+> CONTEXT: Enemies/19/name/
+Dead Women
+> END STRING
+
+> BEGIN STRING
+亡者少女
+> CONTEXT: Troops/20/name/
+> CONTEXT: Enemies/20/name/
+Dead Girl
+> END STRING
+
+> BEGIN STRING
+闇霊ハーピー
+> CONTEXT: Troops/21/name/
+> CONTEXT: Enemies/21/name/
+Darkness spirit Harpy
+> END STRING
+
+> BEGIN STRING
+亡者魔女
+> CONTEXT: Troops/22/name/
+> CONTEXT: Enemies/22/name/
+Dead Witch
+> END STRING
+
+> BEGIN STRING
+闇霊魔女
+> CONTEXT: Troops/23/name/
+> CONTEXT: Enemies/23/name/
+Darkness spirit witch
+> END STRING
+
+> BEGIN STRING
+亡者婦人
+> CONTEXT: Troops/25/name/
+> CONTEXT: Enemies/25/name/
+Dead woman
+> END STRING
+
+> BEGIN STRING
+亡者娘
+> CONTEXT: Troops/26/name/
+> CONTEXT: Enemies/26/name/
+Dead daughter
+> END STRING
+
+> BEGIN STRING
+亡者聖女
+> CONTEXT: Troops/27/name/
+> CONTEXT: Enemies/27/name/
+Dead saint
+> END STRING
+
+> BEGIN STRING
+闇霊聖女
+> CONTEXT: Troops/28/name/
+> CONTEXT: Enemies/28/name/
+Darkness spirit saint
+> END STRING
+
+> BEGIN STRING
+デュラハン
+> CONTEXT: Troops/29/name/
+> CONTEXT: Enemies/29/name/
+Dullahan
+> END STRING
+
+> BEGIN STRING
+亡者巫女
+> CONTEXT: Troops/30/name/
+> CONTEXT: Enemies/30/name/
+Undead Miko
+> END STRING
+
+> BEGIN STRING
+人形のデーモン
+> CONTEXT: Troops/31/name/
+> CONTEXT: Enemies/31/name/
+> CONTEXT: Enemies/32/name/
+Doll daemon
+> END STRING
+
+> BEGIN STRING
+偽人形のデーモン
+> CONTEXT: Troops/32/name/
+Fake doll daemon
+> END STRING
+
+> BEGIN STRING
+亡者騎士
+> CONTEXT: Troops/34/name/
+> CONTEXT: Enemies/33/name/
+Undead knight
+> END STRING
+
+> BEGIN STRING
+亡者メイド
+> CONTEXT: Troops/35/name/
+> CONTEXT: Enemies/34/name/
+Dead maid
+> END STRING
+
+> BEGIN STRING
+闇霊デュラハン
+> CONTEXT: Troops/36/name/
+> CONTEXT: Enemies/35/name/
+Darkness spirit dullahan
+> END STRING
+
+> BEGIN STRING
+亡者僧侶
+> CONTEXT: Troops/37/name/
+> CONTEXT: Enemies/37/name/
+Dead monk
+> END STRING
+
+> BEGIN STRING
+闇霊亡者騎士
+> CONTEXT: Troops/38/name/
+> CONTEXT: Enemies/36/name/
+Darkness spirit undead knight
+> END STRING
+
+> BEGIN STRING
+亡者小間使い
+> CONTEXT: Troops/39/name/
+> CONTEXT: Enemies/38/name/
+Dead Booth Tsukai
+> END STRING
+
+> BEGIN STRING
+闇霊小間使い
+> CONTEXT: Troops/40/name/
+> CONTEXT: Enemies/39/name/
+Darkness spirit Booth Tsukai
+> END STRING
+
+> BEGIN STRING
+亡者姫騎士
+> CONTEXT: Troops/41/name/
+> CONTEXT: Enemies/40/name/
+Dead princess knight
+> END STRING
+
+> BEGIN STRING
+闇霊姫騎士
+> CONTEXT: Troops/42/name/
+> CONTEXT: Enemies/41/name/
+Yamireihime knight
+> END STRING
+
+> BEGIN STRING
+女王
+> CONTEXT: Troops/43/name/
+> CONTEXT: Enemies/42/name/
+Queen
+> END STRING
+
+> BEGIN STRING
+古の悪魔
+> CONTEXT: Troops/44/name/
+> CONTEXT: Enemies/43/name/
+Ancient devil
+> END STRING

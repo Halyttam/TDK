@@ -1,0 +1,416 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"アイテム入手！"
+> CONTEXT: Map020/events/3/pages/1/1/InlineScript/6:8
+> CONTEXT: Map020/events/16/pages/1/1/InlineScript/6:8
+> CONTEXT: Map020/events/20/pages/1/1/InlineScript/6:8
+> CONTEXT: Map020/events/21/pages/1/1/InlineScript/6:8
+> CONTEXT: Map020/events/23/pages/1/1/InlineScript/6:8
+> CONTEXT: Map019/events/6/pages/2/71/InlineScript/6:8
+> CONTEXT: Scripts/STR20_入手インフォメーション v1.2/44:8
+> CONTEXT: Map019/events/9/pages/0/13/InlineScript/6:8
+> CONTEXT: Map017/events/9/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/10/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/11/pages/1/1/InlineScript/6:8
+> CONTEXT: Map016/events/10/pages/0/1/InlineScript/6:8
+> CONTEXT: Map017/events/26/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/27/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/28/pages/0/1/InlineScript/6:8
+> CONTEXT: Map017/events/29/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/30/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/31/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/32/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/33/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/34/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/35/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/36/pages/0/2/InlineScript/6:8
+> CONTEXT: Map015/events/35/pages/1/1/InlineScript/6:8
+> CONTEXT: Map015/events/36/pages/1/1/InlineScript/6:8
+> CONTEXT: Map015/events/40/pages/1/1/InlineScript/6:8
+> CONTEXT: Map015/events/41/pages/0/2/InlineScript/6:8
+> CONTEXT: Map014/events/40/pages/1/1/InlineScript/6:8
+> CONTEXT: Map014/events/41/pages/0/2/InlineScript/6:8
+> CONTEXT: Map015/events/52/pages/0/2/InlineScript/6:8
+> CONTEXT: Map014/events/93/pages/0/2/InlineScript/6:8
+> CONTEXT: Map014/events/94/pages/0/2/InlineScript/6:8
+> CONTEXT: Map014/events/95/pages/0/2/InlineScript/6:8
+> CONTEXT: Map014/events/96/pages/0/2/InlineScript/6:8
+> CONTEXT: Map014/events/97/pages/0/2/InlineScript/6:8
+> CONTEXT: Map016/events/67/pages/0/1/InlineScript/6:8
+> CONTEXT: Map016/events/68/pages/0/1/InlineScript/6:8
+> CONTEXT: Map016/events/69/pages/0/1/InlineScript/6:8
+> CONTEXT: Map016/events/70/pages/0/1/InlineScript/6:8
+> CONTEXT: Map016/events/71/pages/0/1/InlineScript/6:8
+> CONTEXT: Map016/events/72/pages/0/1/InlineScript/6:8
+> CONTEXT: Map013/events/4/pages/2/65/InlineScript/6:8
+> CONTEXT: Map013/events/5/pages/1/1/InlineScript/6:8
+> CONTEXT: Map015/events/88/pages/0/2/InlineScript/6:8
+> CONTEXT: Map015/events/89/pages/0/2/InlineScript/6:8
+> CONTEXT: Map015/events/90/pages/0/2/InlineScript/6:8
+> CONTEXT: Map015/events/91/pages/0/2/InlineScript/6:8
+> CONTEXT: Map015/events/92/pages/0/2/InlineScript/6:8
+> CONTEXT: Map015/events/93/pages/0/2/InlineScript/6:8
+> CONTEXT: Map009/events/18/pages/0/2/InlineScript/6:8
+> CONTEXT: Map017/events/92/pages/0/4/InlineScript/6:8
+> CONTEXT: Map017/events/92/pages/0/13/InlineScript/6:8
+> CONTEXT: Map017/events/92/pages/0/22/InlineScript/6:8
+> CONTEXT: Map011/events/277/pages/0/2/InlineScript/6:8
+> CONTEXT: Map011/events/278/pages/0/2/InlineScript/6:8
+> CONTEXT: Map011/events/279/pages/0/2/InlineScript/6:8
+> CONTEXT: Map011/events/280/pages/0/1/InlineScript/6:8
+> CONTEXT: Map011/events/281/pages/0/2/InlineScript/6:8
+> CONTEXT: Map007/events/105/pages/0/2/InlineScript/6:8
+> CONTEXT: Map011/events/282/pages/0/2/InlineScript/6:8
+> CONTEXT: Map007/events/107/pages/0/2/InlineScript/6:8
+> CONTEXT: Map011/events/283/pages/0/2/InlineScript/6:8
+> CONTEXT: Map012/events/132/pages/0/2/InlineScript/6:8
+> CONTEXT: Map007/events/108/pages/0/1/InlineScript/6:8
+> CONTEXT: Map011/events/298/pages/0/2/InlineScript/6:8
+> CONTEXT: Map012/events/133/pages/0/2/InlineScript/6:8
+> CONTEXT: Map007/events/109/pages/0/1/InlineScript/6:8
+> CONTEXT: Map012/events/134/pages/0/2/InlineScript/6:8
+> CONTEXT: Map007/events/110/pages/0/2/InlineScript/6:8
+> CONTEXT: Map009/events/99/pages/0/1/InlineScript/6:8
+> CONTEXT: Map012/events/135/pages/0/2/InlineScript/6:8
+> CONTEXT: Map009/events/100/pages/0/2/InlineScript/6:8
+> CONTEXT: Map012/events/136/pages/0/2/InlineScript/6:8
+> CONTEXT: Map007/events/119/pages/1/1/InlineScript/6:8
+> CONTEXT: Map012/events/137/pages/0/2/InlineScript/6:8
+> CONTEXT: Map009/events/101/pages/0/2/InlineScript/6:8
+> CONTEXT: Map009/events/102/pages/0/2/InlineScript/6:8
+> CONTEXT: Map012/events/138/pages/0/1/InlineScript/6:8
+> CONTEXT: Map009/events/103/pages/0/2/InlineScript/6:8
+> CONTEXT: Map009/events/104/pages/0/2/InlineScript/6:8
+> CONTEXT: Map006/events/3/pages/1/1/InlineScript/6:8
+> CONTEXT: Map009/events/120/pages/0/1/InlineScript/6:8
+> CONTEXT: Map006/events/16/pages/1/1/InlineScript/6:8
+> CONTEXT: Map006/events/17/pages/1/1/InlineScript/6:8
+> CONTEXT: Map006/events/18/pages/1/1/InlineScript/6:8
+> CONTEXT: Map005/events/2/pages/0/1/InlineScript/6:8
+> CONTEXT: Map006/events/19/pages/1/1/InlineScript/6:8
+> CONTEXT: Map005/events/7/pages/0/2/InlineScript/6:8
+> CONTEXT: Map006/events/20/pages/1/1/InlineScript/6:8
+> CONTEXT: Map006/events/21/pages/1/1/InlineScript/6:8
+> CONTEXT: Map006/events/22/pages/1/1/InlineScript/6:8
+> CONTEXT: Map006/events/23/pages/1/1/InlineScript/6:8
+> CONTEXT: Map007/events/121/pages/2/18/InlineScript/6:8
+> CONTEXT: Map008/events/75/pages/1/1/InlineScript/6:8
+> CONTEXT: Map001/events/7/pages/1/1/InlineScript/6:8
+> CONTEXT: Map001/events/19/pages/0/9/InlineScript/6:8
+> CONTEXT: Map001/events/22/pages/1/1/InlineScript/6:8
+> CONTEXT: Map008/events/138/pages/0/2/InlineScript/6:8
+> CONTEXT: Map008/events/139/pages/0/2/InlineScript/6:8
+> CONTEXT: Map005/events/11/pages/0/24/InlineScript/6:8
+> CONTEXT: Map005/events/11/pages/0/33/InlineScript/6:8
+> CONTEXT: Map005/events/11/pages/0/42/InlineScript/6:8
+> CONTEXT: Map005/events/11/pages/0/51/InlineScript/6:8
+> CONTEXT: Map008/events/209/pages/1/1/InlineScript/6:8
+> CONTEXT: Map008/events/210/pages/1/1/InlineScript/6:8
+> CONTEXT: Map008/events/211/pages/1/1/InlineScript/6:8
+> CONTEXT: Map005/events/30/pages/0/1/InlineScript/6:8
+> CONTEXT: Map005/events/31/pages/0/2/InlineScript/6:8
+> CONTEXT: Map008/events/242/pages/0/2/InlineScript/6:8
+> CONTEXT: Map005/events/32/pages/0/1/InlineScript/6:8
+> CONTEXT: Map008/events/243/pages/0/2/InlineScript/6:8
+> CONTEXT: Map005/events/33/pages/0/2/InlineScript/6:8
+> CONTEXT: Map008/events/244/pages/0/2/InlineScript/6:8
+> CONTEXT: Map008/events/245/pages/0/2/InlineScript/6:8
+> CONTEXT: Map008/events/246/pages/0/2/InlineScript/6:8
+> CONTEXT: Map006/events/62/pages/1/1/InlineScript/6:8
+> CONTEXT: Commonevents/17/3/InlineScript/6:8
+> CONTEXT: Map006/events/88/pages/1/1/InlineScript/6:8
+> CONTEXT: Map001/events/29/pages/0/8/InlineScript/6:8
+> CONTEXT: Map001/events/32/pages/1/1/InlineScript/6:8
+> CONTEXT: Commonevents/151/14/InlineScript/6:8
+> CONTEXT: Commonevents/151/40/InlineScript/6:8
+> CONTEXT: Commonevents/151/65/InlineScript/6:8
+"Item obtained!"
+> END STRING
+
+> BEGIN STRING
+
+                                FIN
+> CONTEXT: Map020/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+素材があれば、鍛冶屋で武器を強化できる。
+> CONTEXT: Map020/events/47/pages/0/0/Dialogue
+> CONTEXT: Map006/events/47/pages/0/0/Dialogue
+If there is material, it can strengthen the weapons in the blacksmith.
+> END STRING
+
+> BEGIN STRING
+ソウル体は若干、攻撃力が上がる
+> CONTEXT: Map020/events/49/pages/0/0/Dialogue
+> CONTEXT: Map006/events/49/pages/0/0/Dialogue
+Seoul body slightly, attack power goes up
+> END STRING
+
+> BEGIN STRING
+生身の時にしか現れない敵もいるらしい
+> CONTEXT: Map020/events/50/pages/0/0/Dialogue
+> CONTEXT: Map006/events/50/pages/0/0/Dialogue
+Apparently there is also an enemy that does not appear only at the time of the flesh
+> END STRING
+
+> BEGIN STRING
+人間性が高いほどアイテムドロップ率が上がる
+> CONTEXT: Map020/events/53/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/53/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+強化する武器は装備から外しておく必要がある
+> CONTEXT: Map020/events/64/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/64/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+商人
+「おや。また、お会いしましたね。
+　ふっふっふ。
+　お約束どおりいい物をそろえてますよ」
+> CONTEXT: Map020/events/72/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+買い物をする
+> CONTEXT: Map020/events/72/pages/0/7/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/7/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+体を買う
+> CONTEXT: Map020/events/72/pages/0/7/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/7/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「んー・・・わかりました。
+　お客さんがそこまでおっしゃるなら、あたしも一肌脱ぎましょう」
+> CONTEXT: Map020/events/72/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「その代わり・・・あたしも初めてなんで
+　お高いですよ？」
+> CONTEXT: Map020/events/72/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+10000ソウル\\G
+> CONTEXT: Map020/events/72/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+買う
+> CONTEXT: Map020/events/72/pages/0/39/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/0/14/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/2/8/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/39/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+買わない
+> CONTEXT: Map020/events/72/pages/0/39/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/0/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/2/8/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/39/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アイテム「一時の生身」を消費して性交しますか？
+> CONTEXT: Map020/events/72/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/2/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ソウルがたりません。
+> CONTEXT: Map020/events/72/pages/0/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/72/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/58/pages/1/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/2/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/2/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+生身でなければ何も出来ない。
+> CONTEXT: Map020/events/72/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/66/pages/2/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+カミラ
+「え？
+　いやいや、ご冗談を。
+　あたしはそういう商売はしてませんよ」
+> CONTEXT: Map020/events/72/pages/0/121/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/72/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+エレオノーラ
+「おお、おぬしも無事であったか。
+　先刻のことは重ねて例を言う。
+　わしに出来ることであれば微力ながら力を貸そう」
+> CONTEXT: Map020/events/78/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+左、右、真ん中の順で・・・
+> CONTEXT: Map020/events/79/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/79/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「こんな私にもまだ出来ることがあるのなら
+　喜んで力を貸しましょう・・・」
+> CONTEXT: Map020/events/89/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奇跡を学ぶ
+> CONTEXT: Map020/events/89/pages/0/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/5/Choice/0 < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/1/5/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+話をする
+> CONTEXT: Map020/events/89/pages/0/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/1/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/78/pages/2/6/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/1/5/Choice/1 < UNTRANSLATED
+> CONTEXT: Map006/events/99/pages/1/1/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+癒してもらう
+> CONTEXT: Map020/events/89/pages/0/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/5/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「私は、教会の命でこの呪われた地を
+　神の力で救うようにと仰せつかり、参りました・・・」
+> CONTEXT: Map020/events/89/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/1/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「しかし、この地はもはや救われぬ亡者で溢れかえり
+　私ごときの力では到底しようもありませんでした・・・」
+> CONTEXT: Map020/events/89/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「供はみな倒れ、私一人が残され
+　もはやこれまでと思いましたが・・・。
+　まだ私にも出来ることがないか、探してみようと思います」
+> CONTEXT: Map020/events/89/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「癒す？
+　それはいったいどういう意味ですか・・・？
+　・・・・・・え！？　その・・・私の体で・・・？」
+> CONTEXT: Map020/events/89/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「・・・・・・・・・わ、わかりました。
+　私のこの身でお役に立てるのなら
+　喜んでお相手いたしましょう・・・」
+> CONTEXT: Map020/events/89/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「ですがその・・・私も神に仕える身でありますので
+　出来れば・・・その・・・不浄の穴でお願いします・・・」
+> CONTEXT: Map020/events/89/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/89/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「そうか・・・母は逝ったか・・・。
+　・・・・・・いや、これでよかったのだ。
+　デーモンとして生き恥をさらすよりもな・・・」
+> CONTEXT: Map020/events/99/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/99/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーデルハイド
+「とにかく礼を言う。
+　この借りは必ず返す。
+　何かあるときはいつでも呼んでくれ」
+> CONTEXT: Map020/events/99/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/99/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+穴は落ちれば死ぬ
+> CONTEXT: Map020/events/102/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map006/events/102/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

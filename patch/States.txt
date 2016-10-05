@@ -1,0 +1,359 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+戦闘不能
+> CONTEXT: States/1/name/
+Unable to fight
+> END STRING
+
+> BEGIN STRING
+は倒れた！
+> CONTEXT: States/1/message1/
+I fell down!
+> END STRING
+
+> BEGIN STRING
+を倒した！
+> CONTEXT: States/1/message2/
+Was defeated!
+> END STRING
+
+> BEGIN STRING
+は立ち上がった！
+> CONTEXT: States/1/message4/
+I stood up is!
+> END STRING
+
+> BEGIN STRING
+毒
+> CONTEXT: States/2/name/
+Poison
+> END STRING
+
+> BEGIN STRING
+は毒に冒された！
+> CONTEXT: States/2/message1/
+> CONTEXT: States/2/message2/
+Was poisoned!
+> END STRING
+
+> BEGIN STRING
+の毒が消えた！
+> CONTEXT: States/2/message4/
+Poison is gone!
+> END STRING
+
+> BEGIN STRING
+出血
+> CONTEXT: States/3/name/
+Hemorrhage
+> END STRING
+
+> BEGIN STRING
+血が出た！
+> CONTEXT: States/3/message1/
+Blood came out!
+> END STRING
+
+> BEGIN STRING
+が出血している！
+> CONTEXT: States/3/message2/
+There has been bleeding!
+> END STRING
+
+> BEGIN STRING
+疫病
+> CONTEXT: States/4/name/
+Pestilence
+> END STRING
+
+> BEGIN STRING
+は魔法を封じ込まれた！
+> CONTEXT: States/4/message1/
+Magic was imprisoned doing. 
+> END STRING
+
+> BEGIN STRING
+の魔法を封じ込めた！
+> CONTEXT: States/4/message2/
+Containment of magic!
+> END STRING
+
+> BEGIN STRING
+の魔法封じが解けた！
+> CONTEXT: States/4/message4/
+Magic seal of was solved!
+> END STRING
+
+> BEGIN STRING
+ソウルの名残
+> CONTEXT: States/5/name/
+> CONTEXT: Items/27/name/
+Saul's remaining influences
+> END STRING
+
+> BEGIN STRING
+は混乱してしまった！
+> CONTEXT: States/5/message1/
+I got confused!
+> END STRING
+
+> BEGIN STRING
+を混乱させた！
+> CONTEXT: States/5/message2/
+It was allowed to mess!
+> END STRING
+
+> BEGIN STRING
+は我に返った！
+> CONTEXT: States/5/message4/
+It was returned to us!
+> END STRING
+
+> BEGIN STRING
+睡眠
+> CONTEXT: States/6/name/
+Sleep
+> END STRING
+
+> BEGIN STRING
+は眠ってしまった！
+> CONTEXT: States/6/message1/
+I fell asleep!
+> END STRING
+
+> BEGIN STRING
+を眠らせた！
+> CONTEXT: States/6/message2/
+It was slept!
+> END STRING
+
+> BEGIN STRING
+は眠っている……
+> CONTEXT: States/6/message3/
+...... It is sleeping
+> END STRING
+
+> BEGIN STRING
+は目を覚ました！
+> CONTEXT: States/6/message4/
+I woke up!
+> END STRING
+
+> BEGIN STRING
+麻痺
+> CONTEXT: States/7/name/
+Paralysis
+> END STRING
+
+> BEGIN STRING
+はしびれて動けなくなった！
+> CONTEXT: States/7/message1/
+It became stuck numb!
+> END STRING
+
+> BEGIN STRING
+を麻痺させた！
+> CONTEXT: States/7/message2/
+It was allowed to paralysis!
+> END STRING
+
+> BEGIN STRING
+は体がしびれて動けない！
+> CONTEXT: States/7/message3/
+Not move numb the body!
+> END STRING
+
+> BEGIN STRING
+の麻痺が解けた！
+> CONTEXT: States/7/message4/
+Paralysis of was solved!
+> END STRING
+
+> BEGIN STRING
+気絶
+> CONTEXT: States/8/name/
+Swoon
+> END STRING
+
+> BEGIN STRING
+の意識が遠のく！
+> CONTEXT: States/8/message1/
+Of consciousness is receding!
+> END STRING
+
+> BEGIN STRING
+はバランスを崩した！
+> CONTEXT: States/8/message2/
+It was out of balance!
+> END STRING
+
+> BEGIN STRING
+は意識が朦朧としている……
+> CONTEXT: States/8/message3/
+...... That consciousness is stunned is
+> END STRING
+
+> BEGIN STRING
+は正気に戻った！
+> CONTEXT: States/8/message4/
+I returned to sanity!
+> END STRING
+
+> BEGIN STRING
+攻撃力上昇
+> CONTEXT: States/9/name/
+Increases attack power
+> END STRING
+
+> BEGIN STRING
+の攻撃力が上がった！
+> CONTEXT: States/9/message1/
+> CONTEXT: States/9/message2/
+Force of attack has risen!
+> END STRING
+
+> BEGIN STRING
+の攻撃力が元に戻った！
+> CONTEXT: States/9/message4/
+> CONTEXT: States/13/message4/
+Force of attack has returned to the original!
+> END STRING
+
+> BEGIN STRING
+の防御力が上がった！
+> CONTEXT: States/10/message1/
+> CONTEXT: States/10/message2/
+Of the defense force has risen!
+> END STRING
+
+> BEGIN STRING
+の防御力が元に戻った！
+> CONTEXT: States/10/message4/
+> CONTEXT: States/14/message4/
+Of the defense force is back to the original!
+> END STRING
+
+> BEGIN STRING
+精神力上昇
+> CONTEXT: States/11/name/
+Increased mental strength
+> END STRING
+
+> BEGIN STRING
+の精神力が上がった！
+> CONTEXT: States/11/message1/
+> CONTEXT: States/11/message2/
+Mental strength of the rose!
+> END STRING
+
+> BEGIN STRING
+の精神力が元に戻った！
+> CONTEXT: States/11/message4/
+> CONTEXT: States/15/message4/
+Mental strength of the returns to the original!
+> END STRING
+
+> BEGIN STRING
+敏捷性上昇
+> CONTEXT: States/12/name/
+Agility rise
+> END STRING
+
+> BEGIN STRING
+の敏捷性が上がった！
+> CONTEXT: States/12/message1/
+> CONTEXT: States/12/message2/
+Agility has risen!
+> END STRING
+
+> BEGIN STRING
+の敏捷性が元に戻った！
+> CONTEXT: States/12/message4/
+> CONTEXT: States/16/message4/
+Agility has been returned to the original!
+> END STRING
+
+> BEGIN STRING
+攻撃力低下
+> CONTEXT: States/13/name/
+Reduced attack force
+> END STRING
+
+> BEGIN STRING
+の攻撃力が下がった！
+> CONTEXT: States/13/message1/
+> CONTEXT: States/13/message2/
+Force of the attack has fallen!
+> END STRING
+
+> BEGIN STRING
+防御力低下
+> CONTEXT: States/14/name/
+Reduced defense force
+> END STRING
+
+> BEGIN STRING
+の防御力が下がった！
+> CONTEXT: States/14/message1/
+> CONTEXT: States/14/message2/
+Of the defense force has dropped!
+> END STRING
+
+> BEGIN STRING
+精神力低下
+> CONTEXT: States/15/name/
+Willpower decrease
+> END STRING
+
+> BEGIN STRING
+の精神力が下がった！
+> CONTEXT: States/15/message1/
+> CONTEXT: States/15/message2/
+Mental strength of the falls!
+> END STRING
+
+> BEGIN STRING
+敏捷性低下
+> CONTEXT: States/16/name/
+Agility decrease
+> END STRING
+
+> BEGIN STRING
+の敏捷性が下がった！
+> CONTEXT: States/16/message1/
+> CONTEXT: States/16/message2/
+Agility has dropped!
+> END STRING
+
+> BEGIN STRING
+松脂
+> CONTEXT: States/17/name/
+> CONTEXT: Items/14/name/
+Pine resin
+> END STRING
+
+> BEGIN STRING
+ソウル体
+> CONTEXT: States/18/name/
+Soul Body
+> END STRING
+
+> BEGIN STRING
+ファントム
+> CONTEXT: States/20/name/
+Phantom
+> END STRING
+
+> BEGIN STRING
+黒松脂
+> CONTEXT: States/21/name/
+> CONTEXT: Items/15/name/
+Black pine resin
+> END STRING
+
+> BEGIN STRING
+白くべたつく何か
+> CONTEXT: States/22/name/
+> CONTEXT: Items/16/name/
+What is that is white sticky?
+> END STRING

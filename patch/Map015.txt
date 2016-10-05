@@ -1,0 +1,123 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+塔一階の鍵を使った。
+> CONTEXT: Map015/events/3/pages/0/3/Dialogue
+> CONTEXT: Map014/events/3/pages/0/2/Dialogue
+> CONTEXT: Map015/events/39/pages/0/3/Dialogue
+> CONTEXT: Map014/events/39/pages/0/3/Dialogue
+> CONTEXT: Map014/events/56/pages/0/3/Dialogue
+> CONTEXT: Map015/events/56/pages/0/3/Dialogue
+The key to the first floor in the tower was used. 
+> END STRING
+
+> BEGIN STRING
+鍵がかかっている。
+> CONTEXT: Map015/events/3/pages/0/11/Dialogue
+> CONTEXT: Map014/events/3/pages/0/10/Dialogue
+> CONTEXT: Map015/events/39/pages/0/11/Dialogue
+> CONTEXT: Map014/events/39/pages/0/11/Dialogue
+> CONTEXT: Map014/events/42/pages/0/11/Dialogue
+> CONTEXT: Map015/events/42/pages/0/11/Dialogue
+> CONTEXT: Map014/events/55/pages/0/11/Dialogue
+> CONTEXT: Map014/events/56/pages/0/11/Dialogue
+> CONTEXT: Map014/events/57/pages/0/11/Dialogue
+> CONTEXT: Map014/events/58/pages/0/11/Dialogue
+> CONTEXT: Map014/events/59/pages/0/11/Dialogue
+> CONTEXT: Map015/events/56/pages/0/11/Dialogue
+> CONTEXT: Map015/events/57/pages/0/11/Dialogue
+> CONTEXT: Map015/events/58/pages/0/11/Dialogue
+> CONTEXT: Map015/events/59/pages/0/11/Dialogue
+> CONTEXT: Map015/events/60/pages/0/11/Dialogue
+> CONTEXT: Map014/events/112/pages/0/11/Dialogue
+It locks. 
+> END STRING
+
+> BEGIN STRING
+東塔二階の鍵を使った。
+> CONTEXT: Map015/events/42/pages/0/3/Dialogue
+> CONTEXT: Map015/events/57/pages/0/3/Dialogue
+> CONTEXT: Map015/events/58/pages/0/3/Dialogue
+The key to the second floor in the east tower was used. 
+> END STRING
+
+> BEGIN STRING
+塞がっていて開かない。
+> CONTEXT: Map015/events/55/pages/0/1/Dialogue
+Do not open being blocking. 
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「あなたが牢を開けてくださったのですか？
+　・・・ありがとうございます。
+　しかし、私のことは放っておいてください」
+> CONTEXT: Map015/events/77/pages/0/1/Dialogue
+[Yu-ria]
+"Did you open the jail?
+ ・・・ Thank you. 
+However, please leave it with me. "
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「供の者がみな亡者に成り果てたというのに
+　何故私一人が帰れるものでしょうか」
+> CONTEXT: Map015/events/77/pages/0/6/Dialogue
+[Yu-ria]
+"To the fall of all attendant's people to the dead
+Why can the [watashiichi] person return?"
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「皆、教会の命とはいえ私を守るために倒れてゆきました・・・。
+　全ては私の力不足ゆえ・・・・・・」
+> CONTEXT: Map015/events/77/pages/0/10/Dialogue
+[Yu-ria]
+"All succumbed to protect me even though were the lives of the church. 
+All are my power shortage reason ・・・ ・・・. "
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「使命を果たすことも出来ず、皆を失い
+　もはや顔向けできません・・・」
+> CONTEXT: Map015/events/77/pages/0/15/Dialogue
+[Yu-ria]
+"It is not possible to perform one's mission, and lose everyone. 
+Cannot the show oneself in public any longer ・・・. "
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「だから、私のことは放っておいてください」
+> CONTEXT: Map015/events/77/pages/0/20/Dialogue
+[Yu-ria]
+"Therefore, please leave it with me. "
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「・・・まだ、何か用があるのですか？」
+> CONTEXT: Map015/events/77/pages/1/1/Dialogue
+[Yu-ria]
+"・・・ Are you still for some?"
+> END STRING
+
+> BEGIN STRING
+ユーリア
+「・・・・・わかりました。
+　そこまでおっしゃるのであれば、あなたに従いましょう。
+　・・・・・・私にもまだ、出来ることがあるのならば・・・」
+> CONTEXT: Map015/events/77/pages/1/6/Dialogue
+[Yu-ria]
+"・・・・・ I see. 
+I will follow you there if it says. 
+・・・・・・ When I can also still do"
+> END STRING
+
+> BEGIN STRING
+聖女を捨て置き、この場を後にした。
+> CONTEXT: Map015/events/77/pages/1/59/Dialogue
+The holy woman was left, and this place was left behind. 
+> END STRING
